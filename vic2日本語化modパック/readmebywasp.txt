@@ -2,7 +2,7 @@ vic-001
 オブジェクトクラス:Thaumiel
 特別導入プロトコル
 0.steamapps/common/Victoria 2フォルダを削除し、steamでvictoria2をダウンロードし直して下さい
-1.同梱のvic2japanmodフォルダをsteamapps/common/Victoria 2/modにコピーしてください
+1.同梱のvic2japanmodフォルダとvic2japanmod.modファイルをsteamapps/common/Victoria 2/modにコピーしてください
 2.steamapps/common/Victoria 2にlua51.dllをコピーして上書きしてください
 3.ランチャーのvic2japanmodにチェックを入れて起動すれば日本語化が適用されます
 説明
