@@ -1,0 +1,566 @@
+#Sphere of Influence
+PER = {
+	value = 75		#relation
+	level = 2		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+EGY = {
+	value = 0		#relation
+	level = 1		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+GRE = {
+	value = -25		#relation
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+TUN = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+SER = {
+	value = 75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+HDJ = {
+	value = 125		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+MOL = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+WAL = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+leader = {
+	name = "レ シ ド 鼍メ フ メ ト 鼍パ シ ャ "
+	date = 1809.1.1
+	type = land
+	personality = inefficient
+	background = elderly
+	prestige = 0.2
+}
+
+leader = {
+	name = "ヴ ォ 韵 チ 脉 フ 鼍シ ュ ル ザ ノ ス キ 艹 "
+	date = 1836.1.1
+	type = land
+	personality = romantic
+	background = cartographer
+	prestige = 0.1
+}
+
+leader = {
+	name = "ヘ ル ム 艹 ト 鼍フ ォ ン 鼍モ ル ト ケ "
+	date = 1833.1.1
+	type = land
+	personality = calm
+	background = debutante
+	prestige = 0.0
+}
+
+leader = {
+	name = "ア ブ デ 耻 鼍パ シ ャ "
+	date = 1836.1.1
+	type = land
+	personality = merciless
+	background = old_school
+	prestige = 0.0
+}
+
+leader = {
+	name = "ハ 艹 フ 耻 ズ 鼍オ ス マ ン 鼍パ シ ャ "
+	date = 1836.1.1
+	type = land
+	personality = inept
+	background = yesman
+	prestige = 0.0
+}
+
+leader = {
+	name = "ナ ム ク 鼍パ シ ャ "
+	date = 1836.1.1
+	type = land
+	personality = expert
+	background = diplomat
+	prestige = 0.0
+}
+
+leader = {
+	name = "ア ブ ド ゥ ル ケ リ ム 鼍パ シ ャ "
+	date = 1836.1.1
+	type = land
+	personality = active_p
+	background = war_college
+	prestige = 0.0
+}
+
+leader = {
+	name = "Yaver鼍パ シ ャ "
+	date = 1836.1.1
+	type = sea
+	personality = diplomatic
+	background = gifted_administrator
+	prestige = 0.1
+}
+
+army = {
+	name = "近 卫 兵 队 "
+	location = 860
+	regiment = {
+		name= "第 1 ハ ッ サ 步 兵 队 "
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "第 2 ハ ッ サ 步 兵 队 "
+		type = guard
+		home = 828
+	}
+
+	regiment = {
+		name= "第 3 ハ ッ サ 步 兵 队 "
+		type = guard
+		home = 859
+	}
+
+	regiment = {
+		name= "第 4 ハ ッ サ 步 兵 队 "
+		type = artillery
+		home = 861
+	}
+
+}
+
+army = {
+	name = "ド ナ ウ 军 "
+	location = 810
+	regiment = {
+		name= "第 1 シ パ 艹 ヒ 艹 队 "
+		type = cuirassier
+		home = 798
+	}
+
+	regiment = {
+		name= "第 2 シ パ 艹 ヒ 艹 队 "
+		type = cuirassier
+		home = 799
+	}
+
+	regiment = {
+		name= "第 3 シ パ 艹 ヒ 艹 队 "
+		type = cuirassier
+		home = 802
+	}
+
+	regiment = {
+		name= "1. Piyade Tumeni"
+		type = infantry
+		home = 802
+	}
+
+	regiment = {
+		name= "2. Piyade Tumeni"
+		type = infantry
+		home = 803
+	}
+
+	regiment = {
+		name= "3. Piyade Tumeni"
+		type = infantry
+		home = 803
+	}
+
+	regiment = {
+		name= "4. Piyade Tumeni"
+		type = artillery
+		home = 804
+	}
+
+	regiment = {
+		name= "1. Redif Izmir"
+		type = irregular
+		home = 806
+	}
+
+	regiment = {
+		name= "2. Redif Izmir"
+		type = irregular
+		home = 807
+	}
+
+	regiment = {
+		name= "3. Redif Izmir"
+		type = irregular
+		home = 807
+	}
+}
+	
+army = {
+	name = "ブ ル サ 予 备 部 队 "
+	location = 849
+	
+
+	regiment = {
+		name= "第 1 ブ ル サ 予 备 队 "
+		type = irregular
+		home = 849
+	}
+
+	regiment = {
+		name= "第 2 ブ ル サ 予 备 队 "
+		type = irregular
+		home = 850
+	}
+
+	regiment = {
+		name= "第 3 ブ ル サ 予 备 队 "
+		type = irregular
+		home = 851
+	}
+
+}
+
+army = {
+	name = "ア ナ ト リ ア 军 "
+	location = 878
+	regiment = {
+		name= "5. Piyade Tumeni"
+		type = infantry
+		home = 882
+	}
+
+	regiment = {
+		name= "6. Piyade Tumeni"
+		type = infantry
+		home = 884
+	}
+
+	regiment = {
+		name= "7. Piyade Tumeni"
+		type = infantry
+		home = 879
+	}
+
+	regiment = {
+		name= "8. Piyade Tumeni"
+		type = artillery
+		home = 888
+	}
+
+	regiment = {
+		name= "1. Redif Kars"
+		type = irregular
+		home = 888
+	}
+
+	regiment = {
+		name= "2. Redif Kars"
+		type = irregular
+		home = 887
+	}
+
+	regiment = {
+		name= "3. Redif Kars"
+		type = irregular
+		home = 887
+	}
+
+	regiment = {
+		name= "1. Redif Trabzon"
+		type = irregular
+		home = 876
+	}
+
+	regiment = {
+		name= "2. Redif Trabzon"
+		type = irregular
+		home = 883
+	}
+
+	regiment = {
+		name= "3. Redif Trabzon"
+		type = irregular
+		home = 869
+	}
+
+}
+
+army = {
+	name = "シ リ ス ト リ ア 军 "
+	location = 818
+	regiment = {
+		name= "第 4 シ パ 艹 ヒ 艹 队 "
+		type = cuirassier
+		home = 810
+	}
+
+	regiment = {
+		name= "第 5 シ パ 艹 ヒ 艹 队 "
+		type = cuirassier
+		home = 811
+	}
+
+	regiment = {
+		name= "第 6 シ パ 艹 ヒ 艹 队 "
+		type = cuirassier
+		home = 812
+	}
+
+	regiment = {
+		name= "9. Piyade Tumeni"
+		type = infantry
+		home = 813
+	}
+
+	regiment = {
+		name= "10. Piyade Tumeni"
+		type = infantry
+		home = 818
+	}
+
+	regiment = {
+		name= "11. Piyade Tumeni"
+		type = infantry
+		home = 674
+	}
+
+	regiment = {
+		name= "1. Redif Diyarbakir"
+		type = irregular
+		home = 675
+	}
+
+	regiment = {
+		name= "2. Redif Diyarbakir"
+		type = irregular
+		home = 809
+	}
+
+	regiment = {
+		name= "3. Redif Diyarbakir"
+		type = irregular
+		home = 814
+	}
+
+}
+
+army = {
+	name = "ア ラ ビ ア 军 "
+	location = 925
+	regiment = {
+		name= "12. Piyade Tumeni"
+		type = infantry
+		home = 925
+	}
+
+	regiment = {
+		name= "13. Piyade Tumeni"
+		type = infantry
+		home = 925
+	}
+
+	regiment = {
+		name= "14. Piyade Tumeni"
+		type = infantry
+		home = 926
+	}
+
+	regiment = {
+		name= "1. Redif Halab"
+		type = irregular
+		home = 923
+	}
+
+	regiment = {
+		name= "2. Redif Halab"
+		type = irregular
+		home = 923
+	}
+
+	regiment = {
+		name= "3. Redif Halab"
+		type = irregular
+		home = 923
+	}
+
+}
+
+army = {
+	name = "ト リ ポ リ 王 军 "
+	location = 1733
+	regiment = {
+		name= "第 7 シ パ 艹 ヒ 艹 队 "
+		type = cavalry
+		home = 1733
+	}
+
+	regiment = {
+		name= "第 8 シ パ 艹 ヒ 艹 队 "
+		type = cavalry
+		home = 1731
+	}
+}
+
+army = {
+	name = "ベ ン ガ ジ 军 "
+	location = 1735
+	regiment = {
+		name= "第 1 ア ス カ リ 队 "
+		type = irregular
+		home = 1735
+	}
+
+	regiment = {
+		name= "第 2 ア ス カ リ 队 "
+		type = irregular
+		home = 1734
+	}
+}
+
+navy = {
+	name = "オ ス マ ン 舰 队 "
+	location = 860
+	ship = {
+		name= "Masudiya"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sadd al Bahri"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ankay i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Taus i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Tevfik Nyuma"
+		type = manowar
+	}
+
+	ship = {
+		name= "Bisharet Nyuma"
+		type = manowar
+	}
+
+	ship = {
+		name= "Killid i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Heybetendaz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Melek i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sayyad i Barhi"
+		type = manowar
+	}
+
+	ship = {
+		name= "Gulbang i Nusret"
+		type = manowar
+	}
+
+	ship = {
+		name= "Jebel Andaz"
+		type = manowar
+	}
+
+	ship = {
+		name= "Iskenderiya"
+		type = frigate
+	}
+
+	ship = {
+		name= "Badere i Zaffar"
+		type = frigate
+	}
+
+	ship = {
+		name= "Mahubey Subham"
+		type = frigate
+	}
+
+	ship = {
+		name= "メ テ リ ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "Denyuvet"
+		type = frigate
+	}
+
+	ship = {
+		name= "Rahbar i Alam"
+		type = frigate
+	}
+
+	ship = {
+		name= "Malbaik Nesuret"
+		type = frigate
+	}
+
+	ship = {
+		name= "Bedr i Zafar"
+		type = frigate
+	}
+
+	ship = {
+		name= "メ ス ケ ニ ガ 艹 ジ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "Fakim i Zafar"
+		type = frigate
+	}
+
+	ship = {
+		name= "第 1 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 2 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 3 输 送 队 "
+		type = clipper_transport
+	}
+
+}
+

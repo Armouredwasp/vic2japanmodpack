@@ -1,0 +1,790 @@
+POR = {
+	value = 125		#relation
+}
+
+army = {
+	name = "禁 旗 军 "
+	location = 1612
+	regiment = {
+		name= "第 一 满 州 正 黄 旗 队 "
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "第 二 满 州 正 黄 旗 队 "
+		type = infantry
+		home = 1479
+	}
+
+	regiment = {
+		name= "第 三 满 州 正 黄 旗 队 "
+		type = infantry
+		home = 1480
+	}
+}
+
+army = {
+	name = "满 州 ク ブ ヘ 黄 旗 军 "
+	location = 1552
+	
+	regiment = {
+		name= "第 一 满 州 ク ブ ヘ 黄 旗 队 "
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "第 二 满 州 ク ブ ヘ 黄 旗 队 "
+		type = infantry
+		home = 1552
+	}
+
+	regiment = {
+		name= "第 三 满 州 ク ブ ヘ 黄 旗 队 "
+		type = infantry
+		home = 1553
+	}
+}
+
+army = {
+	name = "满 州 白 旗 军 "
+	location = 1554
+
+	regiment = {
+		name= "第 一 满 州 白 旗 队 "
+		type = infantry
+		home = 1554
+	}
+
+	regiment = {
+		name= "第 二 满 州 白 旗 队 "
+		type = infantry
+		home = 1555
+	}
+
+	regiment = {
+		name= "第 三 满 州 白 旗 队 "
+		type = infantry
+		home = 1002
+	}
+}
+
+army = {
+	name = "满 州 红 旗 军 "
+	location = 1479
+
+	regiment = {
+		name= "第 一 满 州 红 旗 队 "
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "第 二 满 州 红 旗 队 "
+		type = infantry
+		home = 1479
+	}
+
+	regiment = {
+		name= "第 三 满 州 红 旗 队 "
+		type = infantry
+		home = 1552
+	}
+}
+
+army = {
+	name = "满 州 蓝 旗 军 "
+	location = 1612
+
+	regiment = {
+		name= "第 一 满 州 蓝 旗 队 "
+		type = infantry
+		home = 1612
+	}
+
+	regiment = {
+		name= "第 二 满 州 蓝 旗 队 "
+		type = infantry
+		home = 1479
+	}
+
+	regiment = {
+		name= "第 三 满 州 蓝 旗 队 "
+		type = infantry
+		home = 1552
+	}
+}
+
+army = {
+	name = "平 原 军 "
+	location = 1612
+
+	regiment = {
+		name= "第 一 蒙 古 骑 兵 队 "
+		type = cavalry
+		home = 1488
+	}
+
+	regiment = {
+		name= "第 二 蒙 古 骑 兵 队 "
+		type = cavalry
+		home = 1490
+	}
+
+	regiment = {
+		name= "第 三 蒙 古 骑 兵 队 "
+		type = cavalry
+		home = 1532
+	}
+
+	regiment = {
+		name= "第 四 蒙 古 骑 兵 队 "
+		type = cavalry
+		home = 1535
+	}
+
+	regiment = {
+		name= "第 五 蒙 古 骑 兵 队 "
+		type = cavalry
+		home = 1534
+	}
+
+	regiment = {
+		name= "第 六 蒙 古 骑 兵 队 "
+		type = cavalry
+		home = 1533
+	}
+
+}
+
+army = {
+	name = "第 一 绿 营 军 "
+	location = 1575
+	regiment = {
+		name= "第 一 绿 营 队 "
+		type = irregular
+		home = 1470
+	}
+
+	regiment = {
+		name= "第 二 绿 营 队 "
+		type = irregular
+		home = 1510
+	}
+
+	regiment = {
+		name= "第 三 绿 营 队 "
+		type = irregular
+		home = 1547
+	}
+	
+	regiment = {
+		name= "第 四 绿 营 队 "
+		type = irregular
+		home = 1471
+	}
+
+	regiment = {
+		name= "第 五 绿 营 队 "
+		type = irregular
+		home = 1511
+	}
+
+	regiment = {
+		name= "第 六 绿 营 队 "
+		type = irregular
+		home = 1548
+	}
+	
+		regiment = {
+		name= "第 七 绿 营 队 "
+		type = irregular
+		home = 1472
+	}
+
+	regiment = {
+		name= "第 八 绿 营 队 "
+		type = irregular
+		home = 1512
+	}
+
+	regiment = {
+		name= "第 九 绿 营 队 "
+		type = irregular
+		home = 1549
+	}
+}
+
+army = {
+	name = "第 二 绿 营 军 "
+	location = 1583
+	
+	regiment = {
+		name= "第 十 绿 营 队 "
+		type = irregular
+		home = 1473
+	}
+
+	regiment = {
+		name= "第 十 一 绿 营 队 "
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "第 十 二 绿 营 队 "
+		type = irregular
+		home = 1550
+	}
+	
+	regiment = {
+		name= "第 十 三 绿 营 队 "
+		type = irregular
+		home = 1474
+	}
+
+	regiment = {
+		name= "第 十 四 绿 营 队 "
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "第 十 五 绿 营 队 "
+		type = irregular
+		home = 1551
+	}
+	
+	regiment = {
+		name= "第 十 六 绿 营 队 "
+		type = irregular
+		home = 1475
+	}
+
+	regiment = {
+		name= "第 十 七 绿 营 队 "
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "第 十 八 绿 营 队 "
+		type = irregular
+		home = 1559
+	}
+}
+
+army = {
+	name = "第 三 绿 营 军 "
+	location = 1525
+
+	regiment = {
+		name= "第 十 九 绿 营 队 "
+		type = irregular
+		home = 1476
+	}
+
+	regiment = {
+		name= "第 二 十 绿 营 队 "
+		type = irregular
+		home = 1516
+	}
+
+	regiment = {
+		name= "第 二 十 一 绿 营 队 "
+		type = irregular
+		home = 1561
+	}
+	
+	regiment = {
+		name= "第 二 十 二 绿 营 队 "
+		type = irregular
+		home = 1477
+	}
+
+	regiment = {
+		name= "第 二 十 三 绿 营 队 "
+		type = irregular
+		home = 1517
+	}
+
+	regiment = {
+		name= "第 二 十 四 绿 营 队 "
+		type = irregular
+		home = 1562
+	}
+
+	regiment = {
+		name= "第 二 十 五 绿 营 队 "
+		type = irregular
+		home = 1478
+	}
+
+	regiment = {
+		name= "第 二 十 六 绿 营 队 "
+		type = irregular
+		home = 1518
+	}
+
+	regiment = {
+		name= "第 二 十 七 绿 营 队 "
+		type = irregular
+		home = 2062
+	}
+}
+
+army = {
+	name = "第 四 绿 营 军 "
+	location = 1576
+
+	regiment = {
+		name= "第 二 十 八 绿 营 队 "
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "第 二 十 九 绿 营 队 "
+		type = irregular
+		home = 1519
+	}
+
+	regiment = {
+		name= "第 三 十 绿 营 队 "
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "第 三 十 一 绿 营 队 "
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "第 三 十 二 绿 营 队 "
+		type = irregular
+		home = 1520
+	}
+
+	regiment = {
+		name= "第 三 十 三 绿 营 队 "
+		type = irregular
+		home = 1564
+	}
+
+	regiment = {
+		name= "第 三 十 四 绿 营 队 "
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "第 三 十 五 绿 营 队 "
+		type = irregular
+		home = 1521
+	}
+
+	regiment = {
+		name= "第 三 十 六 绿 营 队 "
+		type = irregular
+		home = 1565
+	}	
+}
+
+army = {
+	name = "第 五 绿 营 军 "
+	location = 1602
+	regiment = {
+		name= "第 三 十 七 绿 营 队 "
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "第 三 十 八 绿 营 队 "
+		type = irregular
+		home = 1522
+	}
+
+	regiment = {
+		name= "第 三 十 九 绿 营 队 "
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "第 四 十 绿 营 队 "
+		type = irregular
+		home = 1487
+	}
+
+	regiment = {
+		name= "第 四 十 一 绿 营 队 "
+		type = irregular
+		home = 1523
+	}
+
+	regiment = {
+		name= "第 四 十 二 绿 营 队 "
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "第 四 十 三 绿 营 队 "
+		type = irregular
+		home = 1488
+	}
+
+	regiment = {
+		name= "第 四 十 四 绿 营 队 "
+		type = irregular
+		home = 1524
+	}
+
+	regiment = {
+		name= "第 四 十 五 绿 营 队 "
+		type = irregular
+		home = 1570
+	}
+
+}
+
+army = {
+	name = "第 六 绿 营 军 "
+	location = 1502
+	regiment = {
+		name= "第 四 十 六 绿 营 队 "
+		type = irregular
+		home = 1489
+	}
+
+	regiment = {
+		name= "第 四 十 七 绿 营 队 "
+		type = irregular
+		home = 1525
+	}
+
+	regiment = {
+		name= "第 四 十 八 绿 营 队 "
+		type = irregular
+		home = 1571
+	}
+
+	regiment = {
+		name= "第 四 十 九 绿 营 队 "
+		type = irregular
+		home = 1490
+	}
+
+	regiment = {
+		name= "第 五 十 绿 营 队 "
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "第 五 十 一 绿 营 队 "
+		type = irregular
+		home = 1572
+	}
+
+	regiment = {
+		name= "第 五 十 二 绿 营 队 "
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "第 五 十 三 绿 营 队 "
+		type = irregular
+		home = 1527
+	}
+
+	regiment = {
+		name= "第 五 十 四 绿 营 队 "
+		type = irregular
+		home = 1573
+	}
+
+}
+
+army = {
+	name = "第 七 绿 营 军 "
+	location = 1487
+	regiment = {
+		name= "第 五 十 五 绿 营 队 "
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "第 五 十 六 绿 营 队 "
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "第 五 十 七 绿 营 队 "
+		type = irregular
+		home = 1574
+	}
+
+	regiment = {
+		name= "第 五 十 八 绿 营 队 "
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "第 五 十 九 绿 营 队 "
+		type = irregular
+		home = 1529
+	}
+
+	regiment = {
+		name= "第 六 十 绿 营 队 "
+		type = irregular
+		home = 1575
+	}
+
+	regiment = {
+		name= "第 六 十 一 绿 营 队 "
+		type = irregular
+		home = 1497
+	}
+
+	regiment = {
+		name= "第 六 十 二 绿 营 队 "
+		type = irregular
+		home = 1530
+	}
+
+	regiment = {
+		name= "第 六 十 三 绿 营 队 "
+		type = irregular
+		home = 1577
+	}
+
+}
+
+army = {
+	name = "第 八 绿 营 军 "
+	location = 1482
+
+	regiment = {
+		name= "第 六 十 四 绿 营 队 "
+		type = irregular
+		home = 1499
+	}
+
+	regiment = {
+		name= "第 六 十 五 绿 营 队 "
+		type = irregular
+		home = 1536
+	}
+
+	regiment = {
+		name= "第 六 十 六 绿 营 队 "
+		type = irregular
+		home = 1578
+	}
+
+	regiment = {
+		name= "第 六 十 七 绿 营 队 "
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "第 六 十 八 绿 营 队 "
+		type = irregular
+		home = 2221
+	}
+
+	regiment = {
+		name= "第 六 十 九 绿 营 队 "
+		type = irregular
+		home = 1579
+	}
+
+	regiment = {
+		name= "第 七 十 绿 营 队 "
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "第 七 十 一 绿 营 队 "
+		type = irregular
+		home = 1537
+	}
+
+	regiment = {
+		name= "第 七 十 二 绿 营 队 "
+		type = irregular
+		home = 1580
+	}
+}
+
+army = {
+	name = "第 九 绿 营 军 "
+	location = 1536
+
+	regiment = {
+		name= "第 七 十 三 绿 营 队 "
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "第 七 十 四 绿 营 队 "
+		type = irregular
+		home = 1539
+	}
+
+	regiment = {
+		name= "第 七 十 五 绿 营 队 "
+		type = irregular
+		home = 1581
+	}
+
+	regiment = {
+		name= "第 七 十 六 绿 营 队 "
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "第 七 十 七 绿 营 队 "
+		type = irregular
+		home = 1540
+	}
+
+	regiment = {
+		name= "第 七 十 八 绿 营 队 "
+		type = irregular
+		home = 1582
+	}
+
+	regiment = {
+		name= "第 七 十 九 绿 营 队 "
+		type = irregular
+		home = 1618
+	}
+
+	regiment = {
+		name= "第 八 十 绿 营 队 "
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "第 八 十 一 绿 营 队 "
+		type = irregular
+		home = 1583
+	}
+}
+
+army = {
+	name = "第 十 绿 营 军 "
+	location = 1613
+
+	regiment = {
+		name= "第 八 十 二 绿 营 队 "
+		type = irregular
+		home = 1505
+	}
+
+	regiment = {
+		name= "第 八 十 三 绿 营 队 "
+		type = irregular
+		home = 1542
+	}
+
+	regiment = {
+		name= "第 八 十 四 绿 营 队 "
+		type = irregular
+		home = 1584
+	}
+
+	regiment = {
+		name= "第 八 十 五 绿 营 队 "
+		type = irregular
+		home = 1506
+	}
+
+	regiment = {
+		name= "第 八 十 六 绿 营 队 "
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "第 八 十 七 绿 营 队 "
+		type = irregular
+		home = 1585
+	}
+
+	regiment = {
+		name= "第 八 十 八 绿 营 队 "
+		type = irregular
+		home = 1507
+	}
+
+	regiment = {
+		name= "第 八 十 九 绿 营 队 "
+		type = irregular
+		home = 1544
+	}
+
+	regiment = {
+		name= "第 九 十 绿 营 队 "
+		type = irregular
+		home = 1586
+	}
+}
+
+army = {
+	name = "第 十 一 绿 营 军 "
+	location = 1082
+
+	regiment = {
+		name= "第 九 十 一 绿 营 队 "
+		type = irregular
+		home = 1508
+	}
+
+	regiment = {
+		name= "第 九 十 二 绿 营 队 "
+		type = irregular
+		home = 1545
+	}
+
+	regiment = {
+		name= "第 九 十 三 绿 营 队 "
+		type = irregular
+		home = 1612
+	}
+
+	regiment = {
+		name= "第 九 十 四 绿 营 队 "
+		type = irregular
+		home = 1509
+	}
+
+	regiment = {
+		name= "第 九 十 五 绿 营 队 "
+		type = irregular
+		home = 1546
+	}
+
+	regiment = {
+		name= "第 九 十 六 绿 营 队 "
+		type = irregular
+		home = 1613
+	}
+
+}

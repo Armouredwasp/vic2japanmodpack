@@ -1,0 +1,4 @@
+「 japanese_tokyo.csv 」を localisationフォルダに、
+「 japanese_tokyo.txt 」を decisionsフォルダに入れると、
+日本が明治維新を成し遂げた(文明国になった)ときに、江戸が東京に変わります。
+

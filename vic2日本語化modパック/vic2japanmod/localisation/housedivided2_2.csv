@@ -1,0 +1,33 @@
+RALLY_POINT_NAVY_MERGE_INFO;目的地への到着时に海军ユニットを合流させるかどうか。\n（一番大きいユニットに合流）;Enable or Disable navies merging at destination.\n(Ships will merge with largest unit here.);;;;;;;;;;;;x
+RALLY_POINT_NAVY_PROVINCE_MERGE_INFO;ここに到着した海军ユニットはすべて一番大きいユニットに合流する。;All naval units will merge with largest unit when arrive here.;;;;;;;;;;;;x
+BUDGET_INTERNALLY_SOLD_STOCKPILE;备蓄を建设计画に卖却：$VAL$;Stockpile sold to construction projects: $VAL$?;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_NAVY_TOOLTIP;付近で建造された船はすべて$PROV$へ向かいます。;All nearby constructed ships will head towards $PROV$?;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_NAVY_MERGE_TOOLTIP;到着时にそこにいる一番大きいユニットと合流します。; and will try to merge with largest unit when arrive here.;;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_1;$UNIT$を$NUM$飒の船に分割：;$UNIT$? will be split between $NUM$? ship(s):;;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_2; - $NAVY$（重量$NUM$）; - $NAVY$? ($NUM$ weight);;;;;;;;;;;;x
+ARMY_SPLIT_AND_LOAD_DESC_3;输送可能な重量（$NUM$）を越える陆军は茔ることができません。;The remaining army of total weight ($NUM$) will not be loaded.?;;;;;;;;;;;;x
+UW_NOT_POSSIBLE_TO_ATTACH;ここには付属させることのできる味方ユニットがいません;There are no friendly units here to attach to.;;;;;;;;;;;;x
+UW_UNITS_ATTACHED;次のユニットが付属しています：;The following units are attached.;;;;;;;;;;;;x
+UW_ATTACH_TO;$NAME$に付属させる。;Attach to always follow $NAME$.;;;;;;;;;;;;x
+UW_DETACH_FROM;$NAME$への付属を解除。;Detach from following $NAME$.;;;;;;;;;;;;x
+IW_SUPPLY_COST;このユニットへの补给に1日$VAL$¤かかります。;You need $VAL$?every day to pay for supplies of this unit.;;;;;;;;;;;;x
+HAS_NOT_CULTURE_CORE;$CUL$は$WHERE$の主流文化でない\n;$CUL$ is NOT a core-culture of $WHERE$.\n;;;;;;;;;;;;x
+HAS_CULTURE_CORE;$CUL$は$WHERE$の主流文化である\n;$CUL$ is a core-culture of $WHERE$.\n;;;;;;;;;;;;x
+PROMOTION_EFFECT_FROM_ADMIN;行政鳇率が缯格速度に与える影响：$PERCENTAGE$;Admin. efficiency effect on promotion speed: $PERCENTAGE$?;;;;;;;;;;;;x
+OUTLINER_TOOLTIP_FACTORY_OCCUPANCY;この地域の工场の雇用状况：$PERC$;Local factories employment: $PERC$;;;;;;;;;;;;x
+REVOLTALLIANCE_LOG;革命です！　同盟关侪が崩坏しました！;A revolution! Our alliance is broken!;;;;;;;;;;;;x
+tut_5b_12b;决断タブをクリックして继续。;Click on the decisions tab to continue.;;;;;;;;;;;;x
+tut_5b_14b;移动タブをクリックして继续。;Click on the movements tab to continue.;;;;;;;;;;;;x
+Workforce;劳恸力;Workforce;;;;;;;;;;;;x
+Ideology;イデオロギ艹;Ideology;;;;;;;;;;;;x
+SELL;卖却;SELL;;;;;;;;;;;;x
+BUY;购入;BUY;;;;;;;;;;;;x
+Start Research;研究开始;Start Research;;;;;;;;;;;;x
+Maneuver;机动;Maneuver;;;;;;;;;;;;x
+LEDGER;国势台帐;LEDGER;;;;;;;;;;;;x
+OK;OK;OK;;;;;;;;;;;;x
+TOPBAR_POPULATION;成人男子の人口は$CURR$人です。$DAYS$日间の变化は$CHANGE$人です。;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in last $DAYS$? days.;;;;;;;;;;;;x
+DIG_IN_TOOLTIP_1;现在の堑壕レベル：$LEV$/$MAX$。;Current dig-in level: $LEV$/$MAX$.;;;;;;;;;;;;x
+DIG_IN_TOOLTIP_2;堑壕レベルは$DAYS$日で+$VAL$上がります。;It takes $DAYS$? days to increase dig-in level by +$VAL$?.;;;;;;;;;;;;x
+in_bankrupcy;财政破绽;In bankruptcy;;;;;;;;;;;;x
+in_bankrupcy_desc;财政が破绽しました！;We are bankrupt!;;;;;;;;;;;;x
