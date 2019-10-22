@@ -1,0 +1,174 @@
+color = { 213  132  76 }
+graphical_culture = EuropeanGC
+
+party = {
+	name = "CAT_conservative"
+	start_date = 1830.1.1
+	end_date = 1901.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CAT_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CAT_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+
+party = {
+	name = "CAT_conservative_2"
+	start_date = 1901.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CAT_liberal_2"
+	start_date = 1906.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CAT_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "CAT_liberal_3"
+	start_date = 1908.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CAT_reactionary"
+	start_date = 1820.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CAT_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CAT_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Alfons el Cast" "¥¢ ¥ë ¥â ¥¬ ¥ô ¥¡ ¥ë ¥¹ " "…§ ð× ÈË ¤¿ ¤Á " "¥¸ ¥ã ¥Ê ¥é ¥ê ¥¿ Ü³ " "¥¸ ¥ã ¥¦ ¥Þ Õ÷ ·þ Íõ " "¥¸ ¥å ¥¼ ¥Ã ¥×ö¾¥à ¥é ¥² ¥¹ " "¥Ú Ü³ ¥é ´ó Íõ " "¥é ¥Õ ¥¡ ¥¨ ¥ëö¾¥« ¥¶ ¥Î ¥ô ¥¡ " "Roger de Flor" "Roger de Lluria"
+	}
+	ironclad = {
+		"¥« ¥¿ ¥ë Ü³ ¥Ë ¥ã " "Corpus Christi" "Figueres" "¥Þ ¥ó ¥ì ¥¶ " "Principat" "Sabadell" "¥µ ¥óö¾¥¸ ¥å ¥¢ ¥ó " "Sant Jordi" "¥È ¥¥ ¥ë ¥È Ü³ ¥¶ " "Urgell"
+	}
+	manowar = {
+		"Bisbat d'Urgell" "Esperit Sant" "¥µ ¥óö¾¥¸ ¥ã ¥¦ ¥Þ " "¥µ ¥óö¾¥¸ ¥å ¥¼ ¥Ã ¥× " "¥µ ¥ó ¥È ¥¥ ¥ì ¥² " "¥µ ¥óö¾¥Ú Ü³ ¥é " "Santa Isabel" "Vescomtat d'Ausona" "Vescomtat de Besalu" "Vescomtat de Cerdanya"
+	}
+	cruiser = {
+		"Ateneu de Grandesa" "¥· ¥Ù ¥ì ¥¹ " "Consolat del Mar" "Diana" "¥æ ¥Î Ü³ " "¥ß ¥Í ¥ë ¥ô ¥¡ " "Quadribarrada" "Sang sobre Or" "Senyera" "Tirant ¥íö¾¥Ö ¥é ¥ó "
+	}
+	frigate = {
+		"¥Ð ¥ë ¥» ¥í ¥Ê " "Cristofor Despuig" "¥¸ ¥í Ü³ ¥Ê " "Joanot Martorell" "¥æ ¥Ô ¥Æ ¥ë " "Lleida" "¥Í ¥× ¥Æ ¥å ¥Ì ¥¹ " "Pere Serafi" "¥× ¥ë Ü³ ¥È " "¥¿ ¥é ¥´ ¥Ê "
+	}
+	monitor = {
+		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Á½ ¥· ¥Á ¥ê ¥¢ " "¥Ø ¥é ¥¯ ¥ì ¥¹ " "¥Þ ¥ê ¥ç ¥ë ¥« " "Nemesi" "¥µ ¥ë ¥Ç Ü³ ¥Ë ¥ã " "¥ô ¥¡ ¥ì ¥ó ¥· ¥¢ " "¥¦ ¥ë ¥« ¥Ì ¥¹ "
+	}
+	clipper_transport = { 
+		"Aguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "¥° ¥í ¥ê ¥¢ " "Ibera" "Lleo de Montpellier" "Mare de Deu de Montserrat"
+		"¥á ¥ë ¥¯ ¥ê ¥¦ ¥¹ " "Nimfa" "¥µ ¥óö¾¥¢ ¥ó ¥È ¥Ë " "¥µ ¥ó ¥¿ö¾¥¢ ¥Ê " "¥µ ¥È ¥¥ ¥ë ¥Ì ¥¹ " "Sirena" "Sorpresa" "Tetis" "¥È ¥ê ¥È ¥ó " "¥æ ¥Ë ¥³ Ü³ ¥ó "
+	}
+	steam_transport = { 
+		"Aguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "¥° ¥í ¥ê ¥¢ " "Ibera" "Lleo de Montpellier" "Mare de Deu de Montserrat"
+		"¥á ¥ë ¥¯ ¥ê ¥¦ ¥¹ " "Nimfa" "¥µ ¥óö¾¥¢ ¥ó ¥È ¥Ë " "¥µ ¥ó ¥¿ö¾¥¢ ¥Ê " "¥µ ¥È ¥¥ ¥ë ¥Ì ¥¹ " "Sirena" "Sorpresa" "Tetis" "¥È ¥ê ¥È ¥ó " "¥æ ¥Ë ¥³ Ü³ ¥ó "
+	}
+	commerce_raider = {
+		"Audac" "Destructor" "Forcuda" "Furor" "Llampec" "Mediterrania" "Tempesta" "Terror" "Tro" "Veloc"
+	}
+}

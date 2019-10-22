@@ -1,0 +1,168 @@
+color = { 170  206  162 }
+graphical_culture = OttomanGC
+
+party = {
+	name = "TUR_reactionary"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "TUR_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "TUR_liberal"
+	start_date = 1856.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "TUR_socialist"
+	start_date = 1874.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "TUR_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "TUR_liberal_2"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "TUR_socialist_2"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "TUR_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "TUR_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"¥È ¥ë ¥° ¥È Reis" "Hamidiye" "Reshadiye" "¥Ð ¥ë ¥Ð ¥í ¥¹ Hayreddin" "Mesudiye"
+		"¥¢ ¥Ö ¥Ç ¥å ¥ë ö¾¥« Ü³ ¥Ç ¥ë " "¥¢ ¥Ö ¥Ç ¥å ¥ë ¥¢ ¥¸ ¥º " "¥¹ ¥ì ÔÏ ¥Þ ¥ó ö¾¥« Ü³ ¥Ì Ü³ ¥Ë " "¥á ¥Õ ¥á ¥È Fatih" "¥ª ¥¹ ¥Þ ¥ó 1ÊÀ " "¥Ð ¥ä ¥¸ ¥Ã ¥È 1ÊÀ " "¥¢ ¥Õ ¥Þ ¥É 1ÊÀ " "¥» ¥ê ¥à ö¾¥ä ¥ô ¥º "
+		"¥¢ ¥Ö ¥Ç ¥å ¥ë ¥á ¥¸ ¥É " "¥» ¥ê ¥à 3ÊÀ " "¥Þ ¥Õ ¥à ¥È 1ÊÀ " "¥Þ ¥Õ ¥à ¥È 2ÊÀ " "¥à ¥é ¥È Hudavendigar" "¥È ¥× ¥« ¥Ô " "¥Ç ¥Ö ¥ì ¥Ã ¥Èö¾¥¢ ¥ê ¥¨ ¥ê " "¥Á ¥ã ¥ë ¥É ¥¥ ¥é ¥ó "
+	}
+	ironclad = {
+		"Hudavendigar" "¥Ó ¥¬ " "¥ë ¥á ¥ê " "¥¢¥ë¥À¥Ï¥ó" "¥á ¥ó ¥Æ ¥·¥¨ " "¥¢ ¥Ê ¥É ¥ë " "¥­ ¥× ¥í ¥¹ " "¥² ¥ë ¥ß ¥ä ¥ó " "¥¢ ¥ì ¥Ã ¥Ý " "¥Ð Ü³ ¥À ¥È " "¥µ ¥à " "¥» ¥ê ¥¾ Ü³ ¥ë " "¥ë Ü³ ¥Ï " "¥¯ ¥ì ¥¿ "
+		"¥ä ¥ó ¥ä " "¥¨ ¥Õ ¥é Ü³ ¥¯ " "¥ª ¥º " "¥Ü ¥¹ ¥Ê " "Icel" "¥í Ü³ ¥É ¥¹ " "¥· ¥ê ¥¹ ¥È ¥é " "¥à ¥¹ ¥ë " "¥È ¥é ¥Ö ¥ë ¥¹ ¥¬ Ü³ ¥× " 		
+	}
+	manowar = {
+		"¥ª ¥¹ ¥Þ ¥Ë ¥¨ " "Mahmudiye" "¥ª ¥ë ¥Ï ¥Ë ¥¨ " "¥¢ ¥Ö ¥Ç ¥å ¥ë ¥¢ ¥¸ ¥º " "¥¢ ¥µ ¥ë -ÔÏ ö¾Tevfik" "¥¢ ¥µ ¥ë -ÔÏ ö¾¥» ¥Ö ¥± ¥Ã ¥È " "¥Ë ¥¸ ¥å ¥ß ö¾¥· ¥ô ¥· ¥å ¥± ¥É "
+		"¥¢ ¥ô ¥Ë ö¾¥é Ü³ " "Idjalieh" "Fethi ¥Ù ¥ì ¥ó ¥É " "Mukaddeme-i Hayir" "Gayret-i ¥ô ¥¡ ¥¿ ¥Ë ¥¨ " "Yadigar-ÔÏ ö¾¥ß ¥ì ¥Ã ¥È "
+		"Muavenet-ÔÏ ö¾¥ß ¥ì ¥Ã ¥È " "Numune-i Hamiyet" "¥¢ ¥À ¥Æ ¥Ú " "¥³ ¥¸ ¥ã ¥Æ ¥Ú " "Tinaztepe" "¥¶ ¥Õ ¥¡ Ü³ " "¥Ç ¥ß ¥ë ¥Ò ¥µ ¥ë " "¥¹ ¥ë ¥¿ ¥ó ¥Ò ¥µ ¥ë "
+	}
+	cruiser = {
+		"¥ä ¥Ö ¥º ö¾¥¹ ¥ë ¥¿ ¥ó ö¾¥» ¥ê ¥à " "¥¢ ¥À ¥Æ ¥Ú " "¥³ ¥¸ ¥ã ¥Æ ¥Ú " "¥á ¥Õ ¥á ¥È ö¾¥» ¥ê ¥à " "Heibetnuma" "Lutf-ÔÏ ö¾¥Ò ¥å ¥Þ ¥æ Ü³ ¥ó " "¥¢ ¥Ö ¥É ¥¥ ¥ë ö¾¥Ï Ü³ ¥ß ¥É "
+		"Medjidieh" "¥à ¥« ¥Ã ¥Ç ¥ß ö¾¥Ï ¥æ ¥ë " "¥Ð Ü³ ¥« ¥Ã ¥µ ¥ó " "¥Ð ¥¹ ¥é " "Tayyar" "¥µ ¥à ¥½ ¥ó " "Muavanet-i Milliye"" "Midilli"
+		"Konstantiniyye" "¥¢ ¥ó ¥· ¥é " "¥¨ ¥Ç ³Ü ¥ë ¥Í " "¥æ ¥¹ ¥­ ¥å ¥À Ü³ ¥ë " "Izmir" "¥Ö ¥ë ¥µ " "¥» Ü³ ¥Ö ¥ë " "Izmit" "¥³ ¥ó ¥ä "
+	}
+	frigate = {
+		"Timsah" "Simir-i Hidsum" "¥® ¥ê ¥ç ¥à " "¥Ê Ü³ ¥· ¥ë " "¥¨ ¥¸ ¥Ç ¥ë " "¥æ Ü³ ¥Ì ¥¹ " "¥É ¥¥ ¥é ¥Á " "¥· ¥¦ ¥ê ¥Ò ¥µ Ü³ ¥ë " "¥Ë ¥ë¥Õ ¥¡ Ü³ " "¥é ¥Ê "
+		"¥É ¥ë ¥¯ Reis" "¥Õ ¥º ¥ë Reis" "Timur ¥Ò ¥µ Ü³ ¥ë " "¥³ ¥¹ " "¥Î ¥ê ¥Ð Ü³ " "¥Ú ¥ì ¥ó ¥­ ö¾¥É ¥ê ¥¢ " "Ceyhan" "¥ä ¥ë ö¾¥Ò ¥µ Ü³ ¥ë "
+		"¥Þ ¥Õ ¥à ¥È ö¾¥» ¥ô ¥± ¥È ö¾¥Ñ ¥· ¥ã " "Malatya" "¥­ ¥å ¥¿ ¥Ò ¥¢ " "¥è ¥º ¥¬ ¥È "
+	}
+	monitor = {
+		"¥Ï Ü³ ¥· ¥¯ ¥ê ö¾¥¢ Ü³ ¥Þ ¥Ã ¥É " "Gedik Ahmad" "¥ë ¥à ö¾¥á ¥Õ ¥È " "Ishak" "¥» ¥ì ¥Ó Lutfi" "¥ë ¥¹ ¥Æ ¥à " "¥½ ¥³ ¥ë ¥ë ö¾¥á ¥Õ ¥á ¥È " "¥³ ¥Á ¥ã ö¾¥· ¥Ê ¥ó "
+		"¥ª ¥º ¥Ç ¥ß ¥ë ö¾¥ª ¥¹ ¥Þ ¥ó " "¥À ¥Þ ¥È ö¾ÔÏ ¥Ö ¥é ¥Ò ¥à " "Filibeli Hafiz" "¥­ ¥ç ¥× ¥ê ¥å ¥ê ¥å ö¾¥á ¥Õ ¥á ¥È " "Merzifonlu ¥« ¥é ö¾¥à ¥¹ ¥¿ ¥Õ ¥¡ " "¥¢ ¥à ¥« ¥¼ Ü³ ¥É ö¾¥³ ¥× ¥ë ¥ë Huseyin"
+		"¥æ ¥ß ¥» ¥­ ¥µ ¥Ç ö¾¥á ¥Õ ¥á ¥È ö¾¥µ ÔÏ Ü³ ¥É " "Cezayirli ¥¬ ¥¸ ö¾¥Ï ¥µ ¥ó " "¥³ ¥Á ¥ã ö¾¥æ ¥¹ ¥Õ " 
+	}
+	clipper_transport = {
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+		"¥¢ ¥ó ¥« ¥é " "¥Ð Ü³ ¥À ¥È " "¥¨ ¥ë ¥º ¥ë ¥à " "¥« ¥ë ¥¹ " "¥» ¥é Ü³ ¥Ë ¥¯ " "Monastir" "¥æ ¥¹ ¥­ ¥å ¥× " "Izmir" "Kudus-u Serif" "¥À ¥Þ ¥¹ ¥¯ " "¥µ ¥é ¥Ü ¥· ¥ã " "¥¨ ¥Ç ³Ü ¥ë ¥Í " "¥· ¥ï ¥¹ " "Kayseri" "¥ï ¥ó "
+		"¥È ¥é ¥Ö ¥ë ¥¹ ¥¬ Ü³ ¥× " "¥æ ¥¹ ¥­ ¥å ¥À Ü³ ¥ë " "¥· ¥Î ¥× " "¥Þ ¥Ë ¥µ " "Filibe" "¥Ù ¥ó ¥À Ü³ " "¥È ¥é ¥Ö ¥¾ ¥ó " "¥á ¥ë ¥· ¥ó " "¥¢ ¥ì ¥Ã ¥Ý " "¥« ¥¹ ¥¿ ¥â ¥Ì "	
+	}
+}

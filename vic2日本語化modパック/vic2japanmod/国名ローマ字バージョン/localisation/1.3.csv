@@ -1,0 +1,90 @@
+disarming;武装解除されました。;Forced to Disarm;;;;;;;;;;;x;
+HAS_NOT_RECENTLY_LOST_WAR;过去五年间で败战经验无し.;Have NOT lost a war in the last five years.;;;;;;;;;;;;x
+HAS_RECENTLY_LOST_WAR;过去五年间で败战经验有り..;Have lost a war in the last five years..;;;;;;;;;;;;x
+IN_SAME_SPHERE;この国は、我苘と同じ影响囵に属しています。.;This country is in the same sphere of influence as us.;;;;;;;;;;;;x
+NOR_reactionary;王政党;Konge Partiet;;;;;;;;;;;;x
+ATJ_reactionary;民族主义派;The Nationalist Faction;;;;;;;;;;;;x
+ATJ_liberal;自由主义派;The Liberal Faction;;;;;;;;;;;;x
+ATJ_anarcho_liberal;无政府主义过激派;The Radical Faction;;;;;;;;;;;;x
+ATJ_socialist;社会主义派;The Socialist Faction;;;;;;;;;;;;x
+ATJ_communist;共产主义派;The Communist Faction;;;;;;;;;;;;x
+ATJ_fascist;ファッショ派;The Fascist Faction;;;;;;;;;;;;x
+CAL_conservative;カリフォルニア共和党;Democratic Party;;;;;;;;;;;;x
+KHI_conservative;王党派;Royal Faction;;;;;;;;;;;;x
+KHI_liberal;自由主义派;The Liberal Faction;;;;;;;;;;;;x
+KHI_reactionary;民族主义派;The Nationalist Faction;;;;;;;;;;;;x
+KHI_anarcho_liberal;无政府主义过激派;The Radical Faction;;;;;;;;;;;;x
+KHI_socialist;社会主义派;The Socialist Faction;;;;;;;;;;;;x
+KHI_communist;共产主义派;The Communist Faction;;;;;;;;;;;;x
+KHI_fascist;ファッショ派;The Fascist Faction;;;;;;;;;;;;x
+MAD_conservative;王党派;Royal Faction;;;;;;;;;;;;x
+MAD_liberal;自由主义派;The Liberal Faction;;;;;;;;;;;;x
+MAD_reactionary;民族主义派;The Nationalist Faction;;;;;;;;;;;;x
+MAD_anarcho_liberal;无政府主义过激派;The Radical Faction;;;;;;;;;;;;x
+MAD_socialist;社会主义派;The Socialist Faction;;;;;;;;;;;;x
+MAD_communist;共产主义派;The Communist Faction;;;;;;;;;;;;x
+MAD_fascist;ファッショ派;The Fascist Faction;;;;;;;;;;;;x
+TRI_conservative;王党派;Royal Faction;;;;;;;;;;;;x
+TRI_liberal;自由主义派;The Liberal Faction;;;;;;;;;;;;x
+TRI_reactionary;民族主义派;The Nationalist Faction;;;;;;;;;;;;x
+TRI_anarcho_liberal;无政府主义过激派;The Radical Faction;;;;;;;;;;;;x
+TRI_socialist;社会主义派;The Socialist Faction;;;;;;;;;;;;x
+TRI_communist;共产主义派;The Communist Faction;;;;;;;;;;;;x
+TRI_fascist;ファッショ派;The Fascist Faction;;;;;;;;;;;;x
+TEX_communist;共产党;Communist Party;;;;;;;;;;;;x
+BAD_fascist;ナチス党;NSDP;;;;;;;;;;;;x
+BAV_fascist;ナチス党;NSDP;;;;;;;;;;;;x
+WEI_fascist;ナチス党;NSDP;;;;;;;;;;;;x
+WLL_fascist;レクシスト党;Rexist Party;;;;;;;;;;;;x
+NEW_fascist;ファシスト党;Fascist Party;;;;;;;;;;;;x
+DIPLOMACY_CHANCE_JOIN_WAR;参战机会: $Y$VAL$;Likelyhood of joining the war: $Y$VAL$;;;;;;;;;;;;x
+PO_ISBETTER;もしこの要求を无视すれば、以下の鳇果が发生します。:\n 好战性 +$MIL$ 、厌战感情 +$WE$ ;If we refuse this offer we will suffer the following:\n +$MIL$ Militancy, +$WE$ War exhaustion;;;;;;;;;;;;x
+leave_soi_title;影响囵离脱;Leave Sphere of Influence;;;;;;;;;;;;x
+leave_soi_desc;影响囵から离脱できます。しかし、影响囵の盟主は、我が国を止めるために宣战布告してくるかもしれません。;We can leave this Sphere of Influence, however our former master may well declare war to stop us.;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_SETUP;新政党;New political party;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_HEADER;新政党结成;New political party formed;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_1;$PARTY$ が结成されました。;$PARTY$ has been formed;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_2;*;*;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_3;*;*;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_4;*;*;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_5;*;*;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_6;*;*;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_BTN1;OK;OK;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_BTN2;OK;OK;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_BTN3;确认;Go to;;;;;;;;;;;;x
+NEW_PARTY_AVAIL_LOG;新政党;New political party;;;;;;;;;;;;x
+PARTY_UNAVAIL_SETUP;政党解散;Political party defunct;;;;;;;;;;;;x
+PARTY_UNAVAIL_HEADER;政党解散;Political party defunct;;;;;;;;;;;;x
+PARTY_UNAVAIL_1;$PARTY$ は解散しました。;$PARTY$ is now defunct;;;;;;;;;;;;x
+PARTY_UNAVAIL_2;*;*;;;;;;;;;;;;x
+PARTY_UNAVAIL_3;*;*;;;;;;;;;;;;x
+PARTY_UNAVAIL_4;*;*;;;;;;;;;;;;x
+PARTY_UNAVAIL_5;*;*;;;;;;;;;;;;x
+PARTY_UNAVAIL_6;*;*;;;;;;;;;;;;x
+PARTY_UNAVAIL_BTN1;OK;OK;;;;;;;;;;;;x
+PARTY_UNAVAIL_BTN2;OK;OK;;;;;;;;;;;;x
+PARTY_UNAVAIL_BTN3;确认;Go to;;;;;;;;;;;;x
+PARTY_UNAVAIL_LOG;政党は禁止されています。;Political party now unavailable;;;;;;;;;;;;x
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;支扪期限: $DAYS$;Days of insolvency: $DAYS$;;;;;;;;;;;;x
+EXPENSE_NO_AFFORD;我が国は $VAL$$ までしか支扪うことができません。;We can only afford to pay $VAL$$ of our expenses!;;;;;;;;;;;;x
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;支扪期限: $DAYS$;Days of insolvency: $DAYS$;;;;;;;;;;;;x
+ENG_presidential_dictatorship;Great Britain;;;;;;;;;;;;x;
+EVTNAME16451;驻屯地袭击;Raiding the garrisons;;;;;;;;;;;;x
+EVTDESC16451;テキサス革命の初期において、テキサス人达は鳆数のメキシコ军驻屯地の袭击に成功した。これによって、テキサス军は切实に必要としていた资金や补给物资を手にすることができた。;During the early days of the Texan Revolution, Texan troops were able to overrun several Mexican garrisons. This provided the Texan army with much needed money and supplies.;;;;;;;;;;;;
+CB_ALLOWED_GUNBOAT;战时借款偿还;Force Debt Repayment;;;;;;;;;;;x;
+po_gunboat;借款偿还;Repay Debts.;;;;;;;;;;;x;
+IS_IN_DEFAULT_TO;以下の相手に对しデフォルト状态;Is in Default to;;;;;;;;;;;x;
+IS_NOT_IN_DEFAULT_TO;以下の相手に对し、デフォルト状态ではない;Is not in Default to;;;;;;;;;;;x;
+gunboat;借款偿还;Repay Debts;;;;;;;;;;;x;
+gunboat_desc;彼らに对し、借款の偿还再开を强制します。;Force them to resume repayment of their debts to us.;;;;;;;;;;;x;
+gunboat_setup;彼らに对し、借款の偿还を强制します。.;Will force them to honor their debts to us.;;;;;;;;;;;x;
+gunboat_short;借款偿还;Repay Debts;;;;;;;;;;;x;
+EVTNAME70002;$FROMCOUNTRY$ が破产しました!;$FROMCOUNTRY$ goes bankrupt!;;;;;;;;;;;x;
+EVTDESC70002;$FROMCOUNTRY$ は破产し、债务の无鳇化を宣言しています! 我苘は、投资家の保护者として、军事力を行使しなくてはなりません。;$FROMCOUNTRY$ has gone bankrupt and claims that they owe us nothing! We must use our military might to safeguard our investors.;;;;;;;;;;;x;
+EVTOPTA70002;OK;OK;;;;;;;;;;;x;
+USE_LEADER;指挥官登用;Use leader;;;;;;;;;;;x;
+SHORTCUT;ショ艹トカット: ;Shortcut: ;;;;;;;;;;;;x
+SM_SHORTCUT;ショ艹トカットのヒント;Shortcut tooltip;;;;;;;;;;;x;
+TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;x
+move_capital_to_moscow_title;第三ロ艹マへの归还;Return to the Third Rome;;;;;;;;;;;x;
+move_capital_to_moscow_desc;ピョ艹トル大帝の苎いた都市、荣光のサンクトペテルブルクは、残念ながら国境に近すぎる。恐らく、侵略者达が到达するのがより困难な、モスクワ、すなわち古の「Pervoprestolnaya」に、首都を戾すのが贤明だろう……;Glorious St Petersburg, the city of Peter the Great, is uncomfortably close to the border. Perhaps it would be prudent to move our capital back to Moscow, the "Pervoprestolnaya", which invading armies might find harder to reach...;;;;;;;;;;;x;

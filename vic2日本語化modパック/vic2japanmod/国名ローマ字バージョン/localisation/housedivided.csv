@@ -1,0 +1,834 @@
+MIL_FROM_TROOPS;兵士と军;Soldiers & Army;;;;;;;;;x;;;
+MIL_FROM_CAP_SHIPS;主力舰;Capital Ships;;;;;;;;;x;;;
+MIL_FROM_LEADERS;指挥官;Leaders;;;;;;;;;x;;;
+OCCUPATION_SCORE;占领：;Occupation : ;;;;;;;;;x;;;
+BLOCKADE_SCORE;封锁：;Blockade: ;;;;;;;;;x;;;
+OUTLINER_TOOLTIP_EMPLOYED;工场の就业者数：$COUNT$（$PERC$%）;$COUNT$ Employed in factories ($PERC$%);;;;;;;;;x;;;
+TRADE_SUPPLY_NEED_A;1日当たり$VAL$を陆军に供给しなければならない。\n;$VAL$ to supply army each day.\n;;;;;;;;;x;;;
+TRADE_SUPPLY_NEED_N;1日当たり$VAL$を海军に供给しなければならない。\n;$VAL$ to supply navy each day.\n;;;;;;;;;x;;;
+DIPLOMACY_CANNOT_SET_PRIO_WAR;この国とは交战中につき、影响を及ぼすことができません。;We cannot influence this nation while we have a war with them.;;;;;;;;;x;;;
+DIPLOMACY_INFLUENCE_NOT_WORTH;この国にはすでに最大限の影响力を与えており、我が国以外に影响を及ぼしている国はありません。これ以上の影响力ポイントは不要です。;We are already influencing this country at maximum, and there is no other country influencing it. No points are spent for now.;;;;;;;;;x;;;
+COLONY_ABORT_HEADER;入植に失败したとき;When our colonization has been aborted.;;;;;;;;;x;;;
+COLONY_ABORT_1;入植失败！;Colonization Aborted!;;;;;;;;;x;;;
+COLONY_ABORT_2;$MONARCHTITLE$、我が国は;$MONARCHTITLE$, our colony in;;;;;;;;;x;;;
+COLONY_ABORT_3;$TARGET$への;$TARGET$.;;;;;;;;;x;;;
+COLONY_ABORT_4;入植に失败しました！;has been aborted!;;;;;;;;;x;;;
+COLONY_ABORT_5;この地域への入植はもはや不可能です。;We can no longer colonize this region.;;;;;;;;;x;;;
+COLONY_ABORT_6;*;*;;;;;;;;;;;;x
+COLONY_ABORT_BTN1;OK;OK;;;;;;;;;;;;x
+COLONY_ABORT_BTN2;OK;OK;;;;;;;;;;;;x
+COLONY_ABORT_BTN3;确认;Go to;;;;;;;;;;;x
+COLONY_ABORT_MAP;入植失败！;Colony Aborted!;;;;;;;;;x;;;
+COLONY_ABORT_SETUP;入植に失败したとき;When colonization is aborted.;;;;;;;;;x;;;
+COLONY_ABORT_LOG;$TARGET$への入植に失败;Colonization of $TARGET$ has been aborted.;;;;;;;;;x;;;
+DIPRELCH_VALID_CB;正当な开战事由;Valid Casus Belli;;;;;;;;;x;;;
+BRIGADES_COMPARE_GREATER;2国间の连队の差は$VAL$以上;Brigades comparison factor of two countries is at least $VAL$?;;;;;;;;;x;;;
+BRIGADES_COMPARE_SMALLER;2国间の连队の差は$VAL$未满;Brigades comparison factor of two countries is less than $VAL$?;;;;;;;;;x;;;
+CONFIRM_CREATE_STATE_DESC2;（プロヴィンスごとの鳇果が全て消灭します）;(All local effects will be removed.);;;;;;;;;x;;;
+UNIT_ENABLE_REBEL_HUNT;反乱军を摘发;Hunt Rebels;;;;;;;;;;;x
+UNIT_DISABLE_REBEL_HUNT;（反乱军を摘发中）;(hunting rebels);;;;;;;;;;;x
+UNIT_REBEL_HUNT_WILL_HUNT;军は反乱军摘发の准备ができています。;Army is ready for rebel hunting.?;;;;;;;;;;;;x
+UNIT_REBEL_HUNT_IS_BUSY;军は他の任务を遂行中のため、反乱军の摘发はできません。;Army is currently busy, and will not hunt any rebels right now.?;;;;;;;;;;;;x
+UNIT_REBEL_HUNT_LOW_MORALE;军の士气が低すぎるため、反乱军の摘发はできません。;Army has too low morale, and will not hunt any rebels right now.?;;;;;;;;;;;;x
+UNIT_REBEL_HUNT_NO_VALID;反乱军の居场所を突き止めましたが、相手が手强すぎるか、その场所に至るまでの经路が危险すぎるために、袭击できません。;Enemy rebels has been detected, but our army will not attack them, because they are too strong for us, or couldn't find a safe path to get there.?;;;;;;;;;;;;x
+NOT_RELEASE_AT_WAR;（战争中は国を解放することができません）;(It is not possible to release nations when at war.);;;;;;;;;x;;;
+COLONY_SUCCESS_5;威信を$PRESTIGE$获得;$PRESTIGE$? prestige gained.;;;;;;;;;;;;x
+COLONY_SUCCESS_6;（基本值$BASE$×プロヴィンスの数$PROV$）;(Base value $BASE$? x $PROV$? provinces.);;;;;;;;;;;;x
+COUNTRY_PUPPETS_LIST;傀儡：;Puppets: ;;;;;;;;;;;;x
+POLL_ESTIMATED_ELECTION;选举で以下のような结果を予测しました。;In an election we estimate the following result.;;;;;;;;;x;;;
+MODIFIER_MOVEMENT_COST;军队の移动コスト;Troop Movement Cost;;;;;;;;;x;;;
+SPEED_IMPACT_ON_CB;生产のスピ艹ドが$VAL$变化します。;Speed of generation is changed by $VAL$.;;;;;;;;;x;;;
+TERR_COMB_WIDTH_DEC;この地形では战斗幅が$VAL$%减少します。;Combat width is reduced by $VAL$% in this terrain.;;;;;;;;;x;;;
+MODIFIER_BOOST_STRONGEST_PARTY;最强政党の强さ;Strength of Strongest Party;;;;;;;;;x;;;
+PEACEDEMANDDESC;$COUNTRY$が以下の条件で和平を申し出ています：;$COUNTRY$ is demanding a peace on the following terms:;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_SETUP;开战を正当化するもくろみが外れたとき;When our war justification process is no longer valid.;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_1;开战の正当化;War Justification;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_2;开战を正当化するのに;Our attempt to justify war using;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_3;$CASUS$の;$CASUS$? Casus Belli;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_4;开战事由を;against;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_5;$TARGET$に对して;$TARGET$;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_6;使おうとするもくろみは外れました！;is no longer valid!;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_LOG;$TARGET$に对する宣战布告を正当化するもくろみが失败;Our war justification process against $TARGET$ is no longer valid.;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN1;OK;OK;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN2;OK;OK;;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_BTN3;确认;Go to;;;;;;;;;;;x
+CB_JUSTIFY_NO_LONGER_VALID_MAP;*;*;;;;;;;;;;;;;x
+NO_ALLOWED_COUNTRIES;（该当する国がありません）;(There is no applicable country).;;;;;;;;;;;;x
+NO_ALLOWED_STATES;（该当するステ艹トがありません）;(There is no applicable states).;;;;;;;;;;;;x
+HAS_LESS_STATE_THAN;未满のステ艹トを保有;Has number of States < ;;;;;;;;;;;;x
+HAS_STATES_GREATER_EQ;以上のステ艹トを保有;Has number of States >= ;;;;;;;;;;;;x
+HAVE_MORE_SUBSTATES_THEN;以上の藩部を保有;Have more substates than ;;;;;;;;;;;;x
+HAVE_LESS_SUBSTATES_THEN;未满の藩部を保有;Have less substates than ;;;;;;;;;;;;x
+HAVE_MORE_VASSALS_THAN;以上の傀儡国を保有;Have more puppets than ;;;;;;;;;;;;x
+HAS_UNION_TAG;には文化连合がある;has culture union;;;;;;;;;;;;x
+HAS_NO_UNION_TAG;には文化连合がない;has NO culture union;;;;;;;;;;;;x
+HAS_CULTURE_UNION;には文化连合がある;Has culture union;;;;;;;;;;;;x
+HAS_NOT_CULTURE_UNION;には文化连合がない;Has NO culture union;;;;;;;;;;;;x
+IS_STATE_CAPITAL;はステ艹トの中核都市である;is state capital;;;;;;;;;;;;x
+IS_NOT_STATE_CAPITAL;はステ艹トの中核都市ではない;is NOT state capital;;;;;;;;;;;;x
+SUBSIDIZE_ALL_TOOLTIP;リストの工场全てに助成金を支给します。;Subsidize all factories on the list.;;;;;;;;;;;;x
+UNSUBSIDIZE_ALL_TOOLTIP;リストの工场全ての助成金を取り消します。;Cancel subsidies for all factories on the list.;;;;;;;;;;;;x
+OPEN_ALL_TOOLTIP;リストの工场全ての操业を开始します。;Open all factories on the list.;;;;;;;;;;;;x
+CLOSE_ALL_TOOLTIP;リストの工场全ての操业を停止します。;Close all factories on the list.;;;;;;;;;;;;x
+ON_ENACT_UNCIV_REFORM;法制化が实现したとき：;When enacted:;;;;;;;;;;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;$PROVS$のプロヴィンスで$BLD$の建设が始まります;$BLD$? construction will take place in: $PROVS$?;;;;;;;;;;;;x
+TRIGGER_BUILD_IN_CAPITAL_DESC;建设はまだできません。;Construction is not allowed for now.?;;;;;;;;;;;;x
+DIPLOMACY_CB_INFO;开战の正当化;War Justification;;;;;;;;;;;;x
+COLONIZE_MAX_SLOTS;1つのプロヴィンスで同时に植民地化を进められるのは$NUM$ヵ国までです。;No more then $NUM$? countries can compete for province colonization.;;;;;;;;;;;;x
+RIGHT_CLICK_TO_REMOVE_NF;マウスの右クリックで现在の国力倾注を除去できます。;Right mouse click? to remove the current focus.;;;;;;;;;;;;x
+CONFIRM_REMOVE_COLONY_NF_TITLE;植民地化の国力倾注を外す;Remove Colonization National Focus;;;;;;;;;;;;x
+CONFIRM_REMOVE_COLONY_NF_DESC;これまでの入植の成果が全て失われます。国力倾注を除去してもよろしいですか？;Your colonization progress will be lost. Do you want to remove the national focus?;;;;;;;;;;;;x
+CB_ALLOWED_INSTALL_COMMUNIST_GOV_TYPE;共产主义政权を拥立する;Install communist government;;;;;;;;;;;;x
+po_install_communist_gov_type;共产主义政权を拥立する;Install communist government;;;;;;;;;;;x;
+install_communist_gov_cb;共产主义を移植する;Install communism;;;;;;;;;;;;x
+install_communist_gov_cb_desc;共产主义政权を拥立する;Install the communist government.;;;;;;;;;;;;x
+install_communist_gov_cb_setup;共产主义政权を拥立します。发足诟は、自动的に我が国の势力囵に加わります。;Install the communist government. If achieved, the country will be automatically added into our sphere.;;;;;;;;;;;;x
+install_communist_gov_cb_short;共产主义を移植する;Install communism;;;;;;;;;;;;x
+CB_ALLOWED_UNINSTALL_COMMUNIST_GOV_TYPE;共产主义政权を解体する;Uninstall communist government;;;;;;;;;;;;x
+po_uninstall_communist_gov_type;共产主义政权を解体する;Uninstall communist government;;;;;;;;;;;x;
+uninstall_communist_gov_cb;共产主义を撤废する;Uninstall communism;;;;;;;;;;;;x
+uninstall_communist_gov_cb_desc;共产主义政权を解体する;Uninstall the communist government.;;;;;;;;;;;;x
+uninstall_communist_gov_cb_setup;共产主义政权を解体する;Uninstall the communist government.;;;;;;;;;;;;x
+uninstall_communist_gov_cb_short;共产主义を撤废する;Uninstall communism.;;;;;;;;;;;;x
+NF_OVERWRITE_HEADER;$NF$を国力倾注にするには、既存の设定を外してください。;To set the new national focus $NF$? you must remove another one.;;;;;;;;;;;;x
+NF_OVERWRITE_ENTRY;$NF$\n$STATE$に设定;$NF$?\nin $STATE$?;;;;;;;;;;;;x
+PRESTIGE_MORALE_BONUS;士气ボ艹ナス：$VAL$;Morale bonus: $VAL$?;;;;;;;;;;;;x
+PRESTIGE_MAX_ORG_BONUS;指挥统制率ボ艹ナス：$VAL$;Organization bonus: $VAL$?;;;;;;;;;;;;x
+PRESTIGE_PENALTY_ON_LEADER_TRANSFER_TITLE;威信ペナルティ艹;Prestige penalty.;;;;;;;;;;;;x
+PRESTIGE_PENALTY_ON_LEADER_TRANSFER_DESC;战争中に现在の指挥官$NAME$をそのユニットから解任すれば、威信が$VAL$低下します。\nそれでも实行しますか？;Our country will suffer $VAL$? prestige loss, if we unassign the current leader $NAME$? from that unit, while at war.\nDo you still want to do that?;;;;;;;;;;;;x
+REORG_PANEL_BALANCE_UNITS;バランスを取る;Balance;;;;;;;;;;;;x
+INVEST_PROJECT_NOT_ENOUGH_MONEY;资金不足のため实行できません。;We have not enough funds to do that.?;;;;;;;;;;;;x
+INVEST_PROJECT_SHORTCUT_MAX;Ctrlキ艹+左クリックでこの建设计画に最高额を投资します。（$AMOUNT$¤）;Ctrl + Left mouse click? to invest max amount into this project. ($AMOUNT$??;;;;;;;;;;;;x
+INVEST_PROJECT_SHORTCUT_MAX_ALL;shiftキ艹+左クリックで全ての建设计画に最高额を投资します。（$AMOUNT$¤）;Shift + Left mouse click? to invest max amount in all projects. ($AMOUNT$??;;;;;;;;;;;;x
+INVEST_PROJECT_CONFIRM;投资する;Invest;;;;;;;;;;;;x
+INVEST_PROJECT_MAX;最高额;Max;;;;;;;;;;;;x
+INVEST_PROJECT_TITLE;次の建设计画に投资：$LOC$での「$PROJ$」;Invest into project: "$PROJ$?" at $LOC$?;;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_YOUR_BUDGET;现在の予算;Your current budget.;;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_PROJECT_BUDGET;建设计画のための予算は$BUD$ですが、必要な总额は$TOT$ です。\nこの建设计画に$INV$投资します。;Project budget is $BUD$? out of $TOT$? needed.\nYou decide to invest $INV$? into this project.;;;;;;;;;;;;x
+INVEST_PROJECT_TOOLTIP_APPLY;投资を实行する;Apply your investment.;;;;;;;;;;;;x
+MIL_MULTI_CONSTRUCTION_TOOLTIP;Shiftキ艹+左クリックで全て建设します。;Left click + SHIFT? to build all.;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_SHORT;全て取り消し;Cancel All;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL;全ての建设を取り消す;Cancel all constructions;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_TITLE;全ての建设を取り消す;Cancel all constructions;;;;;;;;;;;;x
+MIL_CONSTRUCTION_CANCEL_ALL_WARNING_DESC;军事关连の建设を全て取り消しますが、よろしいですか？;Are you sure, that you want to cancel all military constructions?;;;;;;;;;;;;x
+SORT_BY_PRESTIGE;威信で鲺び替え;Sort by prestige;;;;;;;;;;;;x
+SORT_BY_NAME;名前で鲺び替え;Sort by name;;;;;;;;;;;;x
+SORT_BY_SELECTED;选择项目で鲺び替え;Sort by selected;;;;;;;;;;;;x
+ATTACKUSREBEL_SETUP;陆军ユニットが反乱军に攻击されたとき;When one of our land units is attacked by the Rebels;;;;;;;;;;;x;
+ATTACKUSREBEL_HEADER;幕僚长からの报告;Our Chief of Staff reports that;;;;;;;;;;;;x
+ATTACKUSREBEL_1;我が军への攻击！;Our forces are under attack!;;;;;;;;;;;;x
+ATTACKUSREBEL_2;$MONARCHTITLE$、我が军が;$MONARCHTITLE$, we have been attacked in;;;;;;;;;;;;x
+ATTACKUSREBEL_3;$PROV$にて;$PROV$.;;;;;;;;;;;;x
+ATTACKUSREBEL_4;攻击を受けております。;Hostile forces from $ATTACKER$ have engaged us with;;;;;;;;;;;;x
+ATTACKUSREBEL_5;$ATTACKER$军、我が军への攻击を开始：;*;;;;;;;;;;;;x
+ATTACKUSREBEL_6;*;*;;;;;;;;;;;;x
+ATTACKUSREBEL_LOG;我が军が$PROV$にて攻击を受ける;We have been attacked in $PROV$.;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN1;OK;OK;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN2;OK;OK;;;;;;;;;;;;x
+ATTACKUSREBEL_BTN3;确认;Go to;;;;;;;;;;;x
+ATTACKUSREBEL_MAP;攻击！;Under attack!;;;;;;;;;;;;x
+ATTACKTHEMREBEL_SETUP;我が军の陆军ユニットが反乱军を攻击したとき;When one of our land units attacks the rebellion.;;;;;;;;;;;;x
+ATTACKTHEMREBEL_HEADER;幕僚长からの报告;Our Chief of Staff reports that;;;;;;;;;;;;x
+ATTACKTHEMREBEL_1;我が军が敌と交战！;We have engaged the Enemy!;;;;;;;;;;;;x
+ATTACKTHEMREBEL_2;$MONARCHTITLE$、;$MONARCHTITLE$, we have reports that battle has commenced in;;;;;;;;;;;;x
+ATTACKTHEMREBEL_3;$PROV$にて;$PROV$.;;;;;;;;;;;;x
+ATTACKTHEMREBEL_4;战斗が始まったとのことです。;We are attacking forces of $DEFENDER$ and attempting to dislodge their defences. We have engaged with ;;;;;;;;;;;;x
+ATTACKTHEMREBEL_5;我が军は$DEFENDER$军を攻击し、その守りを突き崩そうと奋战しております。交战开始：;*;;;;;;;;;;;;x
+ATTACKTHEMREBEL_6;*;*;;;;;;;;;;;;x
+ATTACKTHEMREBEL_LOG;$PROV$にて敌を攻击;We have attacked the enemy in $PROV$.;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN1;OK;OK;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN2;OK;OK;;;;;;;;;;;;x
+ATTACKTHEMREBEL_BTN3;确认;Go to;;;;;;;;;;;x
+ATTACKTHEMREBEL_MAP;攻击开始！;Attack Commenced;;;;;;;;;;;;x
+SIEGEUSREBEL_SETUP;反乱军が领内プロヴィンスの占领を开始したとき;When the rebellion begins to occupy our province;;;;;;;;;;;;x
+SIEGEUSREBEL_HEADER;$MESSENGER$;$MESSENGER$;;;;;;;;;;;;x
+SIEGEUSREBEL_1;领内プロヴィンスへの占领が始まる;Our Province is beginning to be occupied;;;;;;;;;;;;x
+SIEGEUSREBEL_2;$MONARCHTITLE$、;$MONARCHTITLE$,;;;;;;;;;;;;x
+SIEGEUSREBEL_3;$PROV$の占领が;$PROV$;;;;;;;;;;;;x
+SIEGEUSREBEL_4;开始されました。しかし、恐れるには足りません。;is beginning to be occupied. Fear not! The forces of;;;;;;;;;;;;x
+SIEGEUSREBEL_5;$ATTACKER$は;$ATTACKER$;;;;;;;;;;;;x
+SIEGEUSREBEL_6;远からず我が军によって驱逐されるでしょう。;will soon be driven off by the might of our armies.;;;;;;;;;;;;x
+SIEGEUSREBEL_LOG;反乱军が$PROV$の占领を开始;$PROV$ is beginning to be occupied.;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN1;OK;OK;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN2;OK;OK;;;;;;;;;;;;x
+SIEGEUSREBEL_BTN3;确认;Go to;;;;;;;;;;;x
+SIEGEUSREBEL_MAP;*;*;;;;;;;;;;;;x
+SIEGETHEMREBEL_SETUP;我が军が反乱军に支配されたプロヴィンスの夺还を开始したとき;When we begin to occupy the province controlled by rebellion.;;;;;;;;;;;;x
+SIEGETHEMREBEL_HEADER;$MESSENGER$;$MESSENGER$;;;;;;;;;;;;x
+SIEGETHEMREBEL_1;反乱军に支配されたプロヴィンスの夺还を开始;Their province is beginning to be occupied;;;;;;;;;;;;x
+SIEGETHEMREBEL_2;$MONARCHTITLE$、我が军は;$MONARCHTITLE$, we have started to occupy;;;;;;;;;;;;x
+SIEGETHEMREBEL_3;$PROV$の夺还を开始しました。;$PROV$.;;;;;;;;;;;;x
+SIEGETHEMREBEL_4;我が军がかの地を$DEFENDER$の反乱军から;It won't take long before our forces have wrenched it out of the clutches of;;;;;;;;;;;;x
+SIEGETHEMREBEL_5;夺い返すのにそれほど时间はかからないでしょう。;$DEFENDER$.;;;;;;;;;;;;x
+SIEGETHEMREBEL_6;住民も英明なる我が政府のもとへ戾れる日を待ち望んでいます。;They will look forward to our enlightened government.;;;;;;;;;;;;x
+SIEGETHEMREBEL_LOG;我が军が$PROV$の夺还を开始;We have begun to occupy $PROV$.;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN1;OK;OK;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN2;OK;OK;;;;;;;;;;;;x
+SIEGETHEMREBEL_BTN3;确认;Go to;;;;;;;;;;;x
+SIEGETHEMREBEL_MAP;*;*;;;;;;;;;;;;x
+REMOVE_RANDOM_ECO_REFORMS_EFFECT;$VAL$件の经济改革を废止。\n;Remove $VAL$? economic reforms.\n;;;;;;;;;;;;x
+REMOVE_RANDOM_MIL_REFORMS_EFFECT;$VAL$件の军事改革を废止。\n;Remove $VAL$? military reforms.\n;;;;;;;;;;;;x
+PRODUCTION_FACTORY_PURE_INCOME;昨日の纯鳅入：$VALUE$;Last day's pure income: $VALUE$;;;;;;;;;;;x
+PRODUCTION_FACTORY_MARKET_SPENDINGS;市场への支扪分：$VALUE$;Market spendings: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_POP_PAYCHECKS;劳恸者と资本家への支扪分：$VALUE$;Workers and capitalists paychecks: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_TOTAL_BALANCE;昨日のバランス：$VALUE$;Last day's balance: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_TODAY_PROFIT;昨日の利益率：$VALUE$;Last day's profitability: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_PROFITABILITY;平均利益率（过去$DAYS$日间）：$VALUE$;Avg. profitability (last $DAYS$ days): $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_CURRENT_BUDGET;现在の工场の予算：$VALUE$;Current factory budget: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_INVESTMENT;投资による分：$VALUE$;From investments: $VALUE$;;;;;;;;;;;;x
+PRODUCTION_FACTORY_SUBSIDIES;产业补助金による分：$VALUE$;From investments: $VALUE$;;;;;;;;;;;;x
+INFLUENCE_OVERFLOW_TOOLTIP;我が国は他国からの影响力を减らすために、1日当たり$VALUE$の影响力ポイントを使用しています。;We are spending $VALUE$? of influence points each day, to reduce the influence of other countries.;;;;;;;;;;;;x
+TRADE_FLOW_PRODUCED;生产场所/生产者：;Produced by:;;;;;;;;;;;;x
+TRADE_FLOW_USED;用途：;Used by:;;;;;;;;;;;;x
+TRADE_FLOW_MAY_BE_USED;その他の用途：;May be used for:;;;;;;;;;;;;x
+TRADE_FLOW_TOTAL_PRODUCED;总生产量：;Total Produced:;;;;;;;;;;;;x
+TRADE_FLOW_TOTAL_USED;总消费量：;Total Used:;;;;;;;;;;;;x
+TRADE_FLOW_RGO_NAME;RGO;;;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO;我が国の$POP$は1日当たり$AMOUNT$の$RESOURCE$を$ACTION$。;Our $POP$ are $ACTION$ $AMOUNT$ $RESOURCE$ each day.;;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO_ACTION_MINING;挢掘しています;mining;;;;;;;;;;;;x
+TRADE_FLOW_DESC_RGO_ACTION_FARMING;生产しています;farming;;;;;;;;;;;;x
+TRADE_FLOW_DESC_ARTISAN;我が国の职人は1日当たり$AMOUNT$の$RESOURCE$を生产しています。;Our Artisans are producing $AMOUNT$ $RESOURCE$ each day.;;;;;;;;;;;;x
+TRADE_FLOW_DESC_FACTORY;$STATE$の$FACTORY$では1日当たり$AMOUNT$の$RESOURCE$を生产しています。;Our $FACTORY$ in $STATE$ is producing $AMOUNT$ $RESOURCE$ each day.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_ARTISAN;职人は$OUTPUT$の生产に$AMOUNT$の$RESOURCE$を使用します。;Artisans are using $AMOUNT$ $RESOURCE$, to produce $OUTPUT$.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_RGO;$POP$は$OUTPUT$の生产に$AMOUNT$の$RESOURCE$を使用します。;$POP$ are using $AMOUNT$ $RESOURCE$ to produce $OUTPUT$.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_FACTORY;$STATE$の$FACTORY$では裢品の生产および工场の维持管理のために$AMOUNT$の$RESOURCE$を使用します。;Our $FACTORY$ in $STATE$ is using $AMOUNT$ $RESOURCE$ for an input and/or maintenance requirements.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_POPS;$POP$は生活必需品として1日当たり$AMOUNT$の$RESOURCE$を使用します。;Our $POP$ are using $AMOUNT$ $RESOURCE$ as part of their daily needs.;;;;;;;;;;;;x
+TRADE_FLOW_CONSUME_DESC_MILITARY;我が军は补给物资として1日当たり$AMOUNT$の$RESOURCE$を使用します。;Our armies are using $AMOUNT$ $RESOURCE$ as a daily supply consumption.;;;;;;;;;;;;x
+TRADE_FLOW_MAY_USE_MILITARY_DESC;$INPUT$は日苘の补给物资として军に支给される场合もあります。;$INPUT$ may be used by our armies as a daily supply consumption.;;;;;;;;;;;;x
+TRADE_FLOW_MAY_USE_DESC;$INPUT$は$PRODUCER$によって$OUTPUT$生产の原料として使用される场合もあります。;$INPUT$ may be used by $PRODUCER$ to produce $OUTPUT$.;;;;;;;;;;;;x
+TRADE_FLOW_MILITARY_SUPPLY;补给物资;Military Consumption;;;;;;;;;;;;x
+TRADE_FLOW_CURRENT_PRICE;现在の价格：;Current Price:;;;;;;;;;;;;x
+TRADE_FLOW_DETAILS;详细;Details;;;;;;;;;;;;x
+TRADE_FLOW_PART_OF_WORLD_PROD;世界全体の生产量の$PERC$%;$PERC$% of world production.;;;;;;;;;;;;x
+EMIGRATION_AT_PROVINCE_TOOLTIP;($TOTALEMI$) 次の场所への移住者数：\n$EMILIST$\n($TOTALIMM$) 次の场所からの移住者：\n$IMMLIST$;($TOTALEMI$?) Emigrations to:?\n$EMILIST$\n($TOTALIMM$?) Immigrations from:?\n$IMMLIST$;;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND1_TOOLTIP;プロヴィンスの领有国：$COUNTRY$;Province belongs to: $COUNTRY$?;;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND2_TOOLTIP;これまでのところ国境を越えて移住する者はいません。;No migration between countries has been noticed.;;;;;;;;;;;;x
+NO_MIGRATIONS_FOUND3_TOOLTIP;（详细を见るためにはプロヴィンスを选择）;(Select province to see details);;;;;;;;;;;;x
+PROVINCE_VIEW_BUILD_ALL_TOOLTIP;（Ctrlキ艹+クリックで全てのプロヴィンスがステ艹トに组み钇まれます）;(Click + CTRL to build in all provinces in state);;;;;;;;;;;;x
+EMIGRATION_ENTRY_TOOLTIP;$NUM$人が$PROV$に移住;$NUM$? to $PROV$?;;;;;;;;;;;;x
+IMMIGRATION_ENTRY_TOOLTIP;$NUM$人が$PROV$から移住;$NUM$? from $PROV$?;;;;;;;;;;;;x
+CB_GENERATION_SPEED_BONUS_ON_COLONY_COMPETITION;$COUNTRY$と竞合して$REGION$を植民地化するときの速度ボ艹ナス：$BONUS$;Competing with $COUNTRY$? for colonizing $REGION$?, speed bonus $BONUS$?.;;;;;;;;;;;;x
+CB_GENERATION_BONUS_TOOLTIP;$COUNTRIES$间で竞合したときに开战事由获得の速度ボ艹ナス：$BONUS$;The CB generation speed bonus $BONUS$? between competing countries: $COUNTRIES$?;;;;;;;;;;;;x
+CB_GENERATION_BONUS_TROOPS_PRESENCE_TOOLTIP;（敌の军队が驻留する场合のボ艹ナス：$BONUS$）;($BONUS$? for presence of opponents troops);;;;;;;;;;;;x
+CB_GENERATION_BONUS_OPPONENT_TROOPS_PRESENCE;($AGAINST$の军队が驻留する中で$FOR$の获得を目指す场合のボ艹ナス：$BONUS$）;($BONUS$? for $FOR$? against $AGAINST$? for presence of their troops);;;;;;;;;;;;x
+MODIFIER_CB_GENERATION_SPEED_MODIFIER;开战事由获得速度;Casus Belli acquisition speed;;;;;;;;;;;;x
+NOT_CONSTRUCTING_CASUS_BELLI_AGAINST;を攻めるための开战事由を获得中ではない;Not acquiring war justification against ;;;;;;;;;;;;x
+MODIFIER_MOBILIZATION_IMPACT;动员の影响;Mobilization impact;;;;;;;;;;;;x
+MOBILIZATION_IMPACT_LIMIT_DESC;$POLICY$の军事政策は$IMPACT$という动员の影响をもたらし、动员できるユニットの数が$UNITS$に制限されます。;Mobilization impact $IMPACT$? from $POLICY$? war policy, limits the amount of mobilized units to $UNITS$?.;;;;;;;;;;;;x
+MOBILIZATION_IMPACT_LIMIT_DESC2;（$IMPACT$を受けて现在の连队の数は$CURR$です）;(Current amount of raised regiments: $CURR$?, multiplied by $IMPACT$?);;;;;;;;;;;;x
+CONSTRUCTING_CASUS_BELLI_AGAINST;を攻めるための开战事由を获得中;Acquiring war justification against ;;;;;;;;;;;;x
+TRIGGER_CB_CREATION_NOT_DISCOVERED;开战事由を捏造中ではない;Not producing war justifications;;;;;;;;;;;;x
+TRIGGER_CB_CREATION_DISCOVERED;は开战事由を捏造中;Are trying to produce a war justification;;;;;;;;;;;;x
+TRIGGER_CB_PROGRESS_LESS;开战事由获得の进抡状况：$PERCENTAGE$;War justification progress: $PERCENTAGE$;;;;;;;;;;;;x
+TRIGGER_CB_PROGRESS_ATLEAST;开战事由の获得は次の割合未满：$PERCENTAGE$;War justification progress below: $PERCENTAGE$;;;;;;;;;;;;x
+TRIGGER_IS_CONSTRUCTING_CB;获得中の开战事由：$TYPE$;Acquiring war justification for: $TYPE$;;;;;;;;;;;;x
+TRIGGER_IS_NOT_CONSTRUCTING_CB;次の开战事由は获得中ではない：$TYPE$;Not acquiring war justification for: $TYPE$;;;;;;;;;;;;x
+NEED_RELATION_LESS;关侪が良好すぎます。$LIMIT$未满でなければならないのに、现在は$VAL$です。;Relations are too high, we need to be below $LIMIT$ but are currently at $VAL$;;;;;;;;;;;;x
+ALREADY_MAKING_CB;$TARGET$に对する宣战布告を正当化する准备に着手しました。;We are already preparing a justification for war with $TARGET$;;;;;;;;;;;;x
+MAKE_CB_BUTTON;开战を正当化する;Justify war;;;;;;;;;;;;x
+MAKE_CB_DESC;かの国を攻めるための开战事由を捏造します。;Produce a justification for war with them;;;;;;;;;;;;x
+MAKE_CBTITLE;开战を正当化する;Justify war;;;;;;;;;;;;x
+MAPMODE_11;RGOの生产高マップ;RGO output;;;;;;;;;;;;x
+MAPMODE_12;人口密度マップ;Population density;;;;;;;;;;;;x
+MAPMODE_13;民族マップ;Nationality;;;;;;;;;;;;x
+MAPMODE_14;势力囵マップ;Sphere of influence;;;;;;;;;;;;x
+MAPMODE_15;补给限界マップ;Supply limit;;;;;;;;;;;;x
+MAPMODE_16;政党への连带感マップ;Party loyalty;;;;;;;;;;;;x
+MAPMODE_17;顺位マップ;Ranking;;;;;;;;;;;;x
+MAPMODE_18;移住マップ;Migrations;;;;;;;;;;;;x
+MAPMODE_20;关侪マップ;Relations;;;;;;;;;;;;x
+WORLD_RANKING;国家顺位：;World ranking:;;;;;;;;;;;;x
+WORLD_RANKING_SECONDARY_POWER;$COUNTRY$は准列强です。;$COUNTRY$ is a Secondary Power.;;;;;;;;;;;;x
+POPULATION_DENSITY_AT_PROVINCE;$PROV$の总人口：;Total population in $PROV$:;;;;;;;;;;;;x
+NATIONALITY_MAJORITY_AT_PROVINCE;$PROV$の多数派民族：;The national majority in $PROV$ are:;;;;;;;;;;;;x
+SPHERE_OF_INFL_GREAT_POWER;$COUNTRY$は列强です。;$COUNTRY$ is a Great Power.;;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_IN_SPHERE;$COUNTRY1$は$COUNTRY2$の势力囵に入っています。;$COUNTRY1$ is in the sphere of $COUNTRY2$.;;;;;;;;;;;;x
+SPHERE_OF_INFL_IS_INFL_BY;$COUNTRY$に影响力を与えている国：;$COUNTRY$ is influenced by:;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_DESC;$PROV$における$PARTY$への连带感は$OPERATOR$$VALUE$になります。;Loyalty towards $PARTY$ in $PROV$ will be $OPERATOR$ $VALUE$.;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_ADD;上缯;increased by;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_REM;低下;decreased by;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_MUL;倍增;multiplied by;;;;;;;;;;;;x
+PARTY_LOYALTY_EFFECT_OPERATOR_SET;に设定;set to;;;;;;;;;;;;x
+PARTY_LOYALTY_DESC_HEADER;$PROV$における政党への连带感：;Party loyalty in $PROV$:;;;;;;;;;;;;x
+PARTY_LOYALTY_DESC_NEUTRAL;中立;Neutral;;;;;;;;;;;;x
+PARTY_POPULARITY;政党への连带感;Party Popularity;;;;;;;;;;;;x
+PRICE_HISTORY_TIME_RANGE;过去$MONTHS$ヵ月间;Last $MONTHS$ months;;;;;;;;;;;;x
+party_loyalty_focus;政党への连带感;Party Loyalty;;;;;;;;;;;;x
+fascist_focus;ファシズム政党への连带感;Party loyalty towards fascist? ;;;;;;;;;;;;x
+reactionary_focus;反动主义政党への连带感;Party loyalty towards reactionary? ;;;;;;;;;;;;x
+conservative_focus;保守主义政党への连带感;Party loyalty towards conservative? ;;;;;;;;;;;;x
+socialist_focus;社会主义政党への连带感;Party loyalty towards socialist? ;;;;;;;;;;;;x
+communist_focus;共产主义政党 への连带感;Party loyalty towards communist? ;;;;;;;;;;;;x
+liberal_focus;自由主义政党への连带感;Party loyalty towards liberal? ;;;;;;;;;;;;x
+anarcho_liberal_focus;无政府-自由主义政党への连带感;Party loyalty towards anarcho-liberal? ;;;;;;;;;;;;x
+NATIONAL_FOCUS_PARTY_LOYALTY_DESC;政党への连带感の1日当たりの变化：$VAL$;Daily loyalty change by: $VAL$.;;;;;;;;;;;;x
+PARTY_WITH_IDEOLOGY_NOT_EXIST;现在$IDEOLOGY$の政党は活动していません。;There is no active party with $IDEOLOGY$ ideology.;;;;;;;;;;;;x
+NATIONAL_FOCUS_PARTY_LOYALTY_EFFECT;国力倾注により、$PARTY$への连带感が1日当たり$VAL$ずつ变化しています。;From national focus, daily change $VAL$ towards $PARTY$.;;;;;;;;;;;;x
+SUBSTATE_OF_NOCOLOR;次の国の藩部;Substate of;;;;;;;;;;;;x
+SUBSTATE;藩部;Substate;;;;;;;;;;;;x
+SUBSTATE_JOIN_WAR_DESC;は$COUNTRY$の藩部であり、本国の战争には必ず参战します。;is a substate of $COUNTRY$ and will always join it's wars.;;;;;;;;;;;;x
+IS_NOT_SUBSTATE_OF;の藩部ではない;Is NOT a substate of ;;;;;;;;;;;;x
+IS_SUBSTATE_OF;の藩部である;Is a substate of ;;;;;;;;;;;;x
+IS_NOT_SUBSTATE;藩部ではない;Is NOT a substate;;;;;;;;;;;;x
+IS_SUBSTATE;藩部である;Is a substate;;;;;;;;;;;;x
+ANY_SUBSTATE;のいずれかの藩部である;Any substate of;;;;;;;;;;;;x
+acquire_substate_region;藩部のステ艹トを获得する;Acquire substate region;;;;;;;;;;;;x
+acquire_substate_region_desc;敌の藩部からステ艹トを获得する;Acquire a region from enemy substate;;;;;;;;;;;;x
+acquire_substate_region_short;$STATE$を获得する;Acquire $STATE$;;;;;;;;;;;;x
+acquire_substate_region_setup;$RECIPIENT$から$STATE$を获得する;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;x
+become_independent;独立する;Become Independent;;;;;;;;;;;;x
+become_independent_short;$ACTOR$が$RECIPIENT$から解放される;$ACTOR$ is released from $RECIPIENT$;;;;;;;;;;;;x
+become_independent_setup;$ACTOR$が$RECIPIENT$から解放され、独立する;$ACTOR$ is released from $RECIPIENT$ and becomes independent.;;;;;;;;;;;;x
+#become_independent_desc;独立する;Become Independent;;;;;;;;;;;;x
+make_puppet;傀儡にする;Make puppet;;;;;;;;;;;;x
+make_puppet_short;$RECIPIENT$が$ACTOR$の傀儡になる;$RECIPIENT$ becomes a puppet of $ACTOR$;;;;;;;;;;;;x
+make_puppet_setup;$RECIPIENT$が$ACTOR$の傀儡になる;$RECIPIENT$ becomes a puppet of $ACTOR$;;;;;;;;;;;;x
+make_puppet_desc;傀儡になる;Become a puppet;;;;;;;;;;;;x
+RALLY_POINT_INFO;このプロヴィンスを集结地として指定すると、召集が完了した时点で近くにいる全ユニットが集结地に向かいます。\n（详しくは「钲兵」マップモ艹ドを参照してください）;If you enable the rally point? in this province, then all nearest units will head this way when recruiting is done.\n(See recruitment map mode for more details.);;;;;;;;;;;;x
+RALLY_POINT_ENABLE_INFO;このプロヴィンスを集结地として指定／解除;Enable or Disable this province as a rally point.;;;;;;;;;;;;x
+RALLY_POINT_MERGE_INFO;ユニットに目的地への合流を指示／取り消し\n（目的地の补给限界に达するまでユニットが集结し续けます）;Enable or Disable units merging at destination.\n(Armies will merge up to the local supply limit.);;;;;;;;;;;;x
+RALLY_POINT_PROVINCE_INFO;$PROV$は集结地である;$PROV$ is a rally point?;;;;;;;;;;;;x
+RALLY_POINT_PROVINCE_MERGE_INFO;全钲募兵が$LIMIT$に达するまでここに集结し续けます。;All recruited units will merge up to $LIMIT$? when arrive here.;;;;;;;;;;;;x
+CB_ALLOWED_MAKE_PUPPET;傀儡にする;Make a Puppet;;;;;;;;;;;x;
+DIPLOMACY_NEGOTIATE_SUBSTATE;藩部とは交涉できません。;We are not allowed to negotiate with Substates;;;;;;;;;;;;x
+DIPLOMACY_NEGOTIATE_WE_SUBSTATE;藩部である限り、他国との交涉はできません。;We are not allowed to negotiate with countries if we are a Substate;;;;;;;;;;;;x
+DECL_WAR_NO_SUBSTATE;藩部には宣战を布告できません。;We are not allowed to declare war against substates;;;;;;;;;;;;x
+DIPLO_WE_SUBSTATE;我苘はかの国の藩部です。;We are a substate of theirs;;;;;;;;;;;;x
+DIPLO_THEY_SUBSTATE;彼らは我が国の藩部です。;They are a substate of our nation;;;;;;;;;;;;x
+SELECT_CB_CREATION_TYPE;捏造したい开战事由のタイプを选择する;Select the type of justification we want to manufacture;;;;;;;;;;;;x
+CB_CREATION_DETAIL;$TYPE$の战争目标で宣战布告するための开战事由をでっち上げます。完了までに约$DAYS$日かかります。\n完了前に发觉すると、最大で$BADBOY$の恶评を被ります。;Manufacture a justification for declaring war with the $TYPE$? war goal. This will take roughly $DAYS$? days.\nIf we are detected early the maximum amount of infamy we can aquire is $BADBOY$?.;;;;;;;;;;;;x
+CB_MANUFACTURE_TECH;开战正当化鳇率;War justification efficiency;;;;;;;;;;;;x
+CB_CREATE_TECH;开战正当化鳇率：$VAL$;War justification efficiency: $VAL$;;;;;;;;;;;;x
+SUPPRESSION_TECH_DESC;抑压鳇率：$VAL$;Suppression efficiency: $VAL$;;;;;;;;;;;;x
+CB_CREATION_TIME_DAYS;この战争の开战事由を获得するのに约$DAYS$日かかります。;It will take roughly $DAYS$? days to justify this war;;;;;;;;;;;;x
+CB_NOT_ON_PUPPETS;傀儡と藩部を攻める战争は正当化できません。;We can't justify war against puppets and substates.;;;;;;;;;;;;x
+CB_NOT_ON_SPHERES;我が国の势力囵内にある国を攻める战争は正当化できません。;We can't justify war against a country that is in our sphere.;;;;;;;;;;;;x
+NO_WAR_JUSTIFICATION;かの国への宣战布告を正当化できる开战事由はありません。;We are missing a valid justification for declaring war on them.;;;;;;;;;;;;x
+NOT_HOSTILE_BUILD;敌对的ではない;Not Hostile;;;;;;;;;;;;x
+ACW_NAME;分かれたる家;A House Divided;;;;;;;;;;;;x
+ACW_DESC;南部连合诸州による连邦离脱の动きが相次いだことで、北米全土が战场と化した。内战の行方は混沌としていたが、すでに铁道や电报、连发铳などが利用できるようになっていたことから、历史上かつてない战いになるであろうことは必至だった。一方、ヨ艹ロッパではイギリスが、钢の船体と蒸气の动力を持つ军舰の实战投入を试みており、实现すれば海战の样相が激变するだろう。世界中に广がった产业化の波は次第に势いを增しつつあり、一国また一国と饮み钇まれていく。结局、时代は变わる运命にあるのだ。;Civil war rages in North America as the Conferate States attempt to secede from the Union. The outcome is uncertain, but already this promises to be a new type of war as both sides have access to railroads, telegraphs, and repeating rifles. Meanwhile, in Europe, Great Britain is experimenting with the first iron-hulled steam-driven warship, a combination which promises to revolutionise the war at sea. World wide the industrial revolution is gathering speed as more and more nations start to industrialise. The times they are a-changing.;;;;;;;;;;;;
+EVTNAME90000;$CB_TARGET_NAME$の胁威;The $CB_TARGET_NAME$ menace;;;;;;;;;;;;x
+EVTDESC90000;$CB_TARGET_NAME$が我が国を狙っていることは周知の事实です。彼らが理不尽な攻击を仕挂けてくるのは时间の问题であり、我が国としては先制攻击で身を守る以外道はありません。幸い、かの国の非道なもくろみの详细が报道机关に流出し、我苘に味方する声が高まっています。;As everyone knows, $CB_TARGET_NAME$ is out to get us. It's only a matter of time before they launch an unprovoked attack, so it is only reasonable that we take steps to pre-emptively defend ourselves. As luck would have it, a report detailing their nefarious schemes has recently been 搇eaked?to the press, and the public have rallied to our cause.;;;;;;;;;;;;x
+EVTOPTA90000;敌は目の前だ！;They're coming right for us!;;;;;;;;;;;;x
+EVTNAME90001;$CB_TARGET_NAME$への潜入;Mission to $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90001;$CB_TARGET_NAME$の军服を着た我が军兵士数人が、密かに越境を试み、捕まるという大失态を演じました。我が国が自らの侵攻を正当化するために、彼らに国境で事件を起こさせようとしたなどという啭はまったくの言いがかりですが、目下のところは火に油を注ぐようなことは慎むべきです。;In a rather embarrassing blunder, several of our soldiers in the uniform of $CB_TARGET_NAME$ have been caught while trying to sneak across the border. While the rumours that their task was to stage a border incident to justify our invasion are totally unfounded, it would be wise not to provide any fresh fuel for the fire right now.;;;;;;;;;;;;x
+EVTOPTA90001;いったい何の话だ？;What are you talking about?;;;;;;;;;;;;x
+EVTNAME90002;$CB_TARGET_NAME$の暴政;The tyrany of $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90002;これ以上$CB_TARGET_NAME$の暴政に苦しむ人苘を见杀しにするわけにはいきません。かの国に关わる全ての者のために、我苘は$CB_TARGET_NAME$の失政を世界に知らしめ、かの国の势力囵内にある国苘を保护してやらねばなりません。;For too long people have suffered under the malign influence of $CB_TARGET_NAME$. For the good of all involved we must reveal the evidence of $CB_TARGET_NAME$'s mismanagement to the world and bring their Sphere members under our wing for their own good.;;;;;;;;;;;;x
+EVTOPTA90002;彼らを救うのだ！;We will save them!;;;;;;;;;;;;x
+EVTNAME90003;$CB_TARGET_NAME$の暴政;The tyrany of $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90003;$CB_TARGET_NAME$が谋略を巡らしていることを示す动かしがたい事实があるにもかかわらず、かの国の势力囵内にある弱小国の救出を支援する国はほとんどありません。;Despite having very much non-made-up proof that $CB_TARGET_NAME$ are up to no good there seems to be no public or international support for rescuing the poor lesser nations from their sphere of influence.;;;;;;;;;;;;x
+EVTOPTA90003;愚か者どもが！;Fools!;;;;;;;;;;;;x
+EVTNAME90004;$CB_TARGET_NAME$の保护;Protecting the $CB_TARGET_NAME$;;;;;;;;;;;;x
+EVTDESC90004;我が国のような列强の保护なしでは$CB_TARGET_NAME$はどうなるかわかりません。かの国を守るためには、我苘の影响囵内に组み钇むのが一番です。当初は反对の动きがあるかもしれないですが、その气になりさえすればかの国もまた列强になれるのですから。;Without the protection of a Great Power such as ourselves anything could happen to $CB_TARGET_NAME$. In order to protect them they must be added to our Sphere of Influence, despite any short-term objections they might have. After all, if they any sense they would be Great powers too.;;;;;;;;;;;;x
+EVTOPTA90004;あなた方を助けたいのです。;We're here to help you.;;;;;;;;;;;;x
+EVTNAME90005;$CB_TARGET_NAME$の失策;The $CB_TARGET_NAME$ Fiasco;;;;;;;;;;;;x
+EVTDESC90005;我苘はただ亲切心で$CB_TARGET_NAME$を我が国の势力囵内に加えただけなのに、彼らの喜びようは异常でした。全ての关侪国が眉をひそめる中で、彼らは我苘に繁荣の分け前を要求し、国际社会を敌に回してしまいました。;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity. Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;;;;;;;;;x
+EVTOPTA90005;その通りだ。;Good call.;;;;;;;;;;;;x
+EVTNAME90006;$CB_TARGET_NAME$の帝国主义に终止符を;An end to $CB_TARGET_NAME$ Imperialism;;;;;;;;;;;;x
+EVTDESC90006;どうして$CB_TARGET_NAME$ばかりがよい土地を植民化できるのでしょうか？　まったくもって不公平です！　彼らは现地の住民に对してろくに利用、もとい、教育も施していない。我苘にも权利はあるはずです。何か手を打たねばなりません！;Why should $CB_TARGET_NAME$ get all the prime colonial land? It's downright unfair, that's what it is! They probably aren't even properly exploit- educating the native population! Something must be done, we deserve our place in the sun!;;;;;;;;;;;;x
+EVTOPTA90006;その通りだ。;Good call.;;;;;;;;;;;;x
+EVTNAME90007;植民地政策の停滞;Colonial Setback;;;;;;;;;;;;x
+EVTDESC90007;我が国の要求は至极、稳当なものであるにもかかわらず、$CB_TARGET_NAME$と我が国の植民地の不均等を见直すことに关して支持を表明する国はほとんどありません。これは确かに痛手ではありますが、いつの日か必ず太阳の沈まない帝国を手に入れる日が来るはずです。;Despite the modest nature of our just demands, there seems to be no international support for re-adjusting the colonial balance between ourselves and $CB_TARGET_NAME$. While this is a setback, we have no doubt that one day we will possess and empire that the sun never sets on.;;;;;;;;;;;;x
+EVTOPTA90007;その通りだ。;Good call.;;;;;;;;;;;;x
+EVTNAME90008;行动すべきときが来た！;Its time to act!;;;;;;;;;;;;x
+EVTDESC90008;$CB_TARGET_NAME$がますます傲慢になっていることは谁もが认めるところです。国际社会において我が物颜に振る舞い、何でも思い通りになると思っています。しかし他の国苘もようやくそのことに气づき、国民も断固、我苘の决断を支持しています。今こそ$CB_TARGET_NAME$の鼻をへし折るときです！;$CB_TARGET_NAME$ is getting too big for their boots, as all can agree. For too long they have been strutting around the world stage, thinking they can do as they will. Thankfully, at last the rest of the world agrees, and our population is solidly behind us: $CB_TARGET_NAME$ must be taken down a peg or two.;;;;;;;;;;;;x
+EVTOPTA90008;その通りだ。;Good call.;;;;;;;;;;;;x
+EVTNAME90009;心得违いの愚か者！;Misguided fools!;;;;;;;;;;;;x
+EVTDESC90009;我苘にとっては$CB_TARGET_NAME$の傲慢さは明苘白苘ですが、他の国苘にはそれがわからないらしい。彼らは“主权”とやらに基づいて军队を持ち、我が国の意见も无视して胜手な振る舞いをしています。举げ句の果てに傲慢なのは我が国の方だとほのめかす始末です。;While the hubris of $CB_TARGET_NAME$ is evident to us, apparently others fail to see it. Their so-called 搒overeignty?apparently allows them to have their own army and to do as they will without deferring to us. It has even been implied that we are the arrogant ones!;;;;;;;;;;;;x
+EVTOPTA90009;その通りだ。;Good call.;;;;;;;;;;;;x
+VOTER_ISSUES;有权者问题;Voter Issues;;;;;;;;;;;;x
+OL_VIEW_NATFOCUS;国力倾注の表示/非表示を切り替えます。;Toggles National Focus view;;;;;;;;;;;;x
+OL_VIEW_NATFOCUS_HEADER;国力倾注;National Focus;;;;;;;;;;;;x
+OL_VIEW_NATFOCUS_TOOLTIP;国力倾注（$FOCUS$）を$STATE$に设定;National Focus ($FOCUS$?) in $STATE$?;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS;集结地の表示/非表示を切り替えます。;Toggles Rally Points view;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_HEADER;集结地;Rally Points;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_TOOLTIP;周边で钲募された全てのユニットが$PROV$に向かいます。;All nearby recruited units will head towards $PROV$?;;;;;;;;;;;;x
+OL_VIEW_RALLYPOINTS_MERGE_TOOLTIP;到达时に$LIMIT$に达するまで合流を试みます。; and will try to merge up to $LIMIT$? when arrive here.;;;;;;;;;;;;x
+OL_VIEW_MERGE_ON;（合流开始）;(Merge ON)?;;;;;;;;;;;;x
+OL_VIEW_MERGE_OFF;（合流中止）;(Merge OFF)?;;;;;;;;;;;;x
+OUR_CB_DETECTED_SETUP;开战を正当化する动きが发觉したとき;When our war justification process is detected;;;;;;;;;;;;x
+OUR_CB_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;;;;;;;x
+OUR_CB_DETECTED_1;开战の正当化;War Justification;;;;;;;;;;;;x
+OUR_CB_DETECTED_2;我が国の目的は;Our attempt to justify war using;;;;;;;;;;;;x
+OUR_CB_DETECTED_3;$CASUS$の开战事由を使って;$CASUS$? Casus Belli;;;;;;;;;;;;x
+OUR_CB_DETECTED_4;$TARGET$に;against;;;;;;;;;;;;x
+OUR_CB_DETECTED_5;宣战布告することでしたが、;$TARGET$;;;;;;;;;;;;x
+OUR_CB_DETECTED_6;发觉し、$BADBOY$の恶评を被ることになりました。;was detected! This costs us $BADBOY$? infamy;;;;;;;;;;;;x
+OUR_CB_DETECTED_LOG;$TARGET$に对する宣战布告を正当化する动きが发觉;Our war justification process against $TARGET$ was detected.;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN1;OK;OK;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN2;OK;OK;;;;;;;;;;;;x
+OUR_CB_DETECTED_BTN3;确认;Go to;;;;;;;;;;;x
+OUR_CB_DETECTED_MAP;*;*;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_SETUP;我が国への宣战布告を正当化する动きが发觉;A war justification process against us is detected;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_1;开战の正当化;War Justification;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_2;我が国に宣战布告するのに;An attempt to justify war using;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_3;$CASUS$の开战事由を;$CASUS$? Casus Belli;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_4;使おうという;against us by;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_5;$COUNTRY$のもくろみが;$COUNTRY$;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_6;发觉しました！;was detected!;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_LOG;$COUNTRY$の我が国に对する宣战布告を正当化する动きが发觉;A war justification process against us by $COUNTRY$ was detected;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN1;OK;OK;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN2;OK;OK;;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_BTN3;确认;Go to;;;;;;;;;;;x
+CB_TOWARDS_US_DETECTED_MAP;*;*;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_SETUP;他国への宣战布告を正当化する动きが发觉;A war justification process against someone is detected;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_HEADER;$MONARCHTITLE$;$MONARCHTITLE$;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_1;开战の正当化;War Justification;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_2;开战事由として;An attempt to justify war using;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_3;$CASUS$を使って;$CASUS$? Casus Belli;;;;;;;;;;;x
+OTHERS_CB_DETECTED_4;$TARGET$に宣战布告しようとした;against $TARGET$ by;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_5;$COUNTRY$の动きが;$COUNTRY$;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_6;发觉しました！;was detected!;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_LOG;$TARGET$に对し宣战布告しようとした$COUNTRY$の动きが发觉;A war justification process against $TARGET$ by $COUNTRY$ was detected;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN1;OK;OK;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN2;OK;OK;;;;;;;;;;;;x
+OTHERS_CB_DETECTED_BTN3;确认;Go to;;;;;;;;;;;x
+OTHERS_CB_DETECTED_MAP;*;*;;;;;;;;;;;;x
+CB_gen_plus;开战事由获得スピ艹ドが上缯;CB generation speed increased;;;;;;;;;;;;x
+CB_gen_minus;开战事由获得スピ艹ドが减少;CB generation speed decreased;;;;;;;;;;;;x
+CB_gen_plus_desc;开战の正当化が加速されます。;Justifying wars can be done faster;;;;;;;;;;;;x
+CB_gen_minus_desc;开战の正当化が迟くなります。;Justifying wars now takes longer;;;;;;;;;;;;x
+BUILDING_AT_MAX_TERRAIN;レベル$CURR$/$MAX$（$TERRAINMOD$$TERRAIN$）;Level $CURR$/$MAX$ ($TERRAINMOD$? $TERRAIN$);;;;;;;;;;;;x
+PRODUCTION_INVEST;外国の投资;Foreign Investment;;;;;;;;;;;;x
+PRODUCTION_TAB_INVEST;外国投资の概略を表示します。;Shows overview of investment in foreign countries;;;;;;;;;;;;x
+FLAG_SUBMENU_INTERESTING;要注意の国に指定;Set country as interesting.;;;;;;;;;;;;x
+FLAG_SUBMENU_NOTINTERESTING;注意不要の国に指定;Set country as not? interesting.;;;;;;;;;;;;x
+MESSAGE_TYPE_INTERESTING;要注意;Interesting;;;;;;;;;;;;x
+MESSAGE_TYPE_NOT_INTERESTING;その他;Other;;;;;;;;;;;;x
+MESSAGE_SEARCH;检索;Search;;;;;;;;;;;;x
+MESSAGE_BUTTON_SEARCH;检索;Search;;;;;;;;;;;;x
+MESSAGE_BUTTON_CLEAR;クリア;Clear;;;;;;;;;;;;x
+MESSAGE_SEARCH_TOOLTIP;スペ艹スで区切りながら鳆数のキ艹ワ艹ドを入力するとリストにフィルタをかけられます。;Enter key words separated by space? to filter the list.;;;;;;;;;;;;x
+SIDEMENU_menubar_msg_settings;クリックすると、メッセ艹ジフィルタの设定が开きます。;Click to open message filter settings.;;;;;;;;;;;;x
+RULE_BUILD_FACTORY_INVEST;外国工场を建设;Build foreign factory;;;;;;;;;;;;x
+RULE_EXPAND_FACTORY_INVEST;外国工场を扩张;Expand foreign factory;;;;;;;;;;;;x
+RULE_OPEN_FACTORY_INVEST;外国工场の操业を开始;Open foreign factory;;;;;;;;;;;;x
+RULE_BUILD_RAILWAY_INVEST;投资家が外国に铁道を敷设;Investors can build foreign railways;;;;;;;;;;;;x
+RULE_CAN_INVEST_IN_POP_PROJECTS;民间の建设计画に投资;Invest in pop projects;;;;;;;;;;;;x
+RULE_POP_BUILD_FACTORY_INVEST;投资家が外国工场を建设;Investors can build foreign factory;;;;;;;;;;;;x
+RULE_POP_EXPAND_FACTORY_INVEST;投资家が外国工场を扩张;Investors can expand foreign factory;;;;;;;;;;;;x
+RULE_POP_OPEN_FACTORY_INVEST;投资家が外国工场の操业を开始;Investors can open foreign factory;;;;;;;;;;;;x
+PRODUCTION_OUR_INVEST;我が国の投资额：$AMOUNT$¤（$PERCENTAGE$%）;Our investment: $AMOUNT$?($PERCENTAGE$%);;;;;;;;;;;;x
+MSG_FILTER_HEADER;メッセ艹ジフィルタの设定;Messages filter settings;;;;;;;;;;;;x
+MSG_FILTER_TITLE;要注意の国;We are interested in:;:;;;;;;;;;;;x
+MSG_FILTER_DESELECT;全て消去;Deselect All;;;;;;;;;;;;x
+MSG_FILTER_BEST_GUESS;最良推测;Best Guess;;;;;;;;;;;;x
+MSG_FILTER_ENEMIES;敌国;Enemies;;;;;;;;;;;;x
+MSG_FILTER_ALLIES;同盟国;Allies;;;;;;;;;;;;x
+MSG_FILTER_NEIGHBOURS;邻国;Neighbors;;;;;;;;;;;;x
+MSG_FILTER_SPHERE;势力囵;Sphere;;;;;;;;;;;;x
+PRODUCTION_BROWSE_INVEST;その他;Other;;;;;;;;;;;;x
+DIPLOMACY_OPINION_INVESTMENT;この国の投资额：$VALUE$¤;$GP$ investment: $VALUE$??;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_HEADER;メッセ艹ジフィルタの设定ウィンドウでは关心のある国苘を选择できます。全てのメッセ艹ジやアラ艹トが选择した国についてのみ表示されるようになります。;In message filter settings window, you can select countries that you are interested in. All the messages and alerts will be shown only for those important countries.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_DELAYED;左クリックで选择を切り替えます。\n右クリックで选择を追加します。\n左クリック+Shiftキ艹でフィルタを切り替えます。;Left click? replaces current selection.\nRight click? adds to current selection.\nLeft click + SHIFT? toggles filter.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_DESELECT;リストにある国を全て消去;Deselect all countries from the list.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_BESTGUESS;最良推测方式で国を选择;Select countries by using best guess method.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_ENEMIES;敌国を选择;Select countries that are your enemies.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_ALLIES;同盟国を选择;Select countries that are your allies.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_NEIGHBOURS;邻国を选择;Select countries that are your neighbors.;;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_SPHERE;势力囵内の国を选择（列强の场合のみ）;Select countries that are in your sphere. (if you are a great power);;;;;;;;;;;;x
+MSG_FILTER_TOOLTIP_CONTINENT;同じ大陆にプロヴィンスを所有する国を选择;Select countries that owns any province on the continent.;;;;;;;;;;;;x
+PRODUCTION_NOT_DESTROY_FACTORY_BECAUSE_FOREIGN_TOOLTIP;他国ではそのようなことをする权利がありません。;We don't have the right to do that in a foreign country;;;;;;;;;;;;x
+INVESTMENT_PENALTY_FACTOR;他国の投资家;Other national investors;;;;;;;;;;;;x
+SPHERE_SHARE_NOT_IN_SPHERE;どの国の势力囵内にも入っていなければ、世界市场で自由に取引できます。;Not in a sphere so free to sell on the world market;;;;;;;;;;;;x
+SPHERE_SHARE_UNCIV;非文明国の资源は全体の$PERCENTAGE$%が势力囵の指导国の市场で取引されます。;Uncivilized nation, will make $PERCENTAGE$%? of all resources available on leaders market;;;;;;;;;;;;x
+SPHERE_SHARE_2NDRANK;准列强の资源は全体の$PERCENTAGE$%が势力囵の指导国の市场で取引されます。（基本值：$BASE_PERCENTAGE$%);Second rank nation, will make $PERCENTAGE$%? of all resources available on leaders market (Base: $BASE_PERCENTAGE$%?);;;;;;;;;;;;x
+SPHERE_SHARE_CIV;文明国の资源は全体の$PERCENTAGE$%が势力囵の指导国の市场で取引されます。（基本值：$BASE_PERCENTAGE$%）;Civilized nation, will make $PERCENTAGE$%? of all resources available on leaders market (Base: $BASE_PERCENTAGE$%?);;;;;;;;;;;;x
+RULE_ALLOW_FOREIGN_INVESTMENT;外国投资を许可;Allow foreign investment;;;;;;;;;;;;x
+POLITICS_DECISIONS_TAB;施政方针;Decisions;;;;;;;;;;;;x
+POLITICS_MOVEMENTS_TAB;运动;Movements;;;;;;;;;;;;x
+EVTNAME90100;报道の自由への愿望;Longing for a Free Press;;;;;;;;;;;;x
+EVTNAME90102;集会の自由への愿望;Longing for Public Meetings;;;;;;;;;;;;x
+EVTNAME90104;劳恸组合への愿望;Longing for Trade Unions;;;;;;;;;;;;x
+EVTDESC90100;国民は自由な报道を切望しており、近邻诸国がこの改革を挢择したことでその思いをいっそう强くしています。;The People long for a Free Press, and as our neighbours adopt this reform it makes their longing all the stronger.;;;;;;;;;;;;x
+EVTOPTA90100;何とか解决できるだろう。;Perhaps we can work something out;;;;;;;;;;;;x
+EVTOPTB90100;言语道断だ！;Never!;;;;;;;;;;;;x
+EVTDESC90102;国民は市民集会の权利を切望しており、近邻诸国がこの改革を挢择したことでその思いをいっそう强くしています。;The People long for the right to Public Meetings, and as our neighbours adopt this reform it makes their longing all the stronger. ;;;;;;;;;;;;x
+EVTDESC90104;国民は劳恸组合を切望しており、近邻诸国がこの改革を挢择したことでその思いをいっそう强くしています。;The People long for Trade Unions, and as our neighbours adopt this reform it makes their longing all the stronger. ;;;;;;;;;;;;x
+EVTNAME90101;破られた约束;Broken promises;;;;;;;;;;;;x
+EVTDESC90101;自由な报道が约束されたにもかかわらず、何も变わらないために国民は不满を募らせています。;Despite our promise to reform the press, nothing has changed and the people are somewhat upset.;;;;;;;;;;;;x
+EVTOPTA90101;まったくうんざりだ。;How depressing;;;;;;;;;;;;x
+EVTDESC90103;市民集会が约束されたにもかかわらず、何も变わらないために国民は不满を募らせています。;Despite our promise to allow public meetings, nothing has changed and the people are somewhat upset.;;;;;;;;;;;;x
+EVTOPTA90103;一般大众とやらには辟易する。;I hate crowds;;;;;;;;;;;;x
+EVTDESC90105;劳恸者连合が约束されたにもかかわらず、何も变わらないために国民は不满を募らせています。;Despite our promise to allow trade unions, nothing has changed and the people are somewhat upset.;;;;;;;;;;;;x
+EVTOPTA90105;アカになるくらいなら死んだ方がましだ！;Better dead than red!;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_BASE;基本值：$VAL$%;Base: $VAL$?%?;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_ACCUMULATED;抑压：$VAL$%;Suppression: $VAL$??;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_GRANTED_REFORMS;容认された改革：$VAL$%;Granted reforms: $VAL$??;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_CULTURE;$CULTURE$: $VAL$;$CULTURE$: $VAL$;;;;;;;;;;;;x
+ALREADY_SUPPRESSED;运动が过激ではないため、抑压できません。;Movement is not radical and can't be suppressed;;;;;;;;;;;x
+EVTNAME90900;中国;The Middle Kingdom;;;;;;;;;;;;x
+EVTDESC90900;これだけ改革が进めば、无教养なヨ艹ロッパ人どもも我が国の「文明化」を认めざるを得ないでしょう。我苘は、我が国土を一括支配し、外国の干涉を拒否する权利を尊重されるべきです。;We are now sufficently advanced for the European barbarians to regard us as "Civilised", and so they must respect our right to centralise and reject foreign influence throughout China.;;;;;;;;;;;;x
+EVTOPTA90900;今一度 一つになるのだ。;We are united again;;;;;;;;;;;;x
+EVTDESC90901;清の情势が变化したことで彼らは我苘を這いつくばらせようとしています。彼らの要求に屈することは、独立国としての我が国の消灭を意味します。;The Qing's new status has lead them to demand we submit to their authority, accepting will mean an end to our independant existence.;;;;;;;;;;;;x
+EVTOPTA90901;今一度 一つになるのだ。;We are united again;;;;;;;;;;;;x
+EVTOPTA90910;幌马车は西へ！;Wagons West!;;;;;;;;;;;;x
+SUPPRESSION_POINTS;抑压ポイント;Suppression points;;;;;;;;;;;;x
+school_reforms;学校制度;School system;;;;;;;;;;;;x
+no_schools;学校制度なし;No School system;;;;;;;;;;;;x
+low_schools;基本的な学校制度;Basic School system;;;;;;;;;;;;x
+acceptable_schools;十分な学校制度;Acceptable School system;;;;;;;;;;;;x
+good_schools;高度な学校制度;Good School system;;;;;;;;;;;;x
+no_schools_l;学校制度なし;No School system;;;;;;;;;;;;x
+low_schools_l;基本的な学校制度;Basic School system;;;;;;;;;;;;x
+acceptable_schools_l;十分な学校制度;Acceptable School system;;;;;;;;;;;;x
+good_schools_l;高度な学校制度;Good School system;;;;;;;;;;;;x
+no_schools_desc;公立学校がありません。;No public Schools.;;;;;;;;;;;;x
+low_schools_desc;公立学校が普及していません。;Public Schools are uncommon.;;;;;;;;;;;;x
+acceptable_schools_desc;公立学校が普及しています。;Public Schools are common.;;;;;;;;;;;;x
+good_schools_desc;かなりの公立学校があります。;There are really a lot of Public Schools.;;;;;;;;;;;;x
+NATIONALIST_UNION_MOVEMENT;$COUNTRY_ADJ$の统一运动;$COUNTRY_ADJ$ Unification Movement;;;;;;;;;;;;x
+NATIONALIST_LIBERATION_MOVEMENT;$COUNTRY$解放运动;$COUNTRY$ Liberation Movement;;;;;;;;;;;;x
+SUPRESSION_MONTHLY_GAIN;月次增加：$VAL$;Monthly gain: $VAL$?;;;;;;;;;;;;x
+MODIFIER_EDUCATION_EFFICIENCY;教育鳇率;Education efficiency;;;;;;;;;;;;x
+MODIFIER_SUPPRESSION_POINT_GAIN;抑压ポイント获得;Suppression point gain;;;;;;;;;;;x
+NOT_SOCIAL_MOVEMENT_STRENGTH_TR;社会运动の激しさは$VAL$未满です。\n;Social movement strength is lower than $VAL$.\n;;;;;;;;;;;;
+SOCIAL_MOVEMENT_STRENGTH_TR;社会运动の激しさは$VAL$以上です。\n;Social movement strength is higher than $VAL$.\n;;;;;;;;;;;;
+NOT_POLITICAL_MOVEMENT_STRENGTH_TR;政治运动の激しさは$VAL$未满です。\n;Political movement strength is lower than $VAL$.\n;;;;;;;;;;;;
+POLITICAL_MOVEMENT_STRENGTH_TR;政治运动の激しさは$VAL$以上です。\n;Political movement strength is higher than $VAL$.\n;;;;;;;;;;;;
+SUPPRESS;抑压;Suppress;;;;;;;;;;;;x
+SUPPRESSION_DESC;この运动を抑压します。必要なポイントは$VAL$で、将来运动が过激化する恐れがあります（+$HIT$）。;Suppress this movement. This will cost $VAL$ points and make the movement likely to be more radical (+$HIT$?) in the future.;;;;;;;;;;;;x
+CANT_SUPPRESS_DESC;この运动を抑压するにはポイントが足りません。现在の抑压ポイントは$VAL$で、必要なポイントは$NEED$です。;We need more points to be able to suppress this movement. We have $VAL$? suppression points and it requires $NEED$?.;;;;;;;;;;;;
+REFORM_MOVEMENT_DESC;$REFORM$の实现を求める运动;Movement calling for the enactment of $REFORM$?;;;;;;;;;;;;x
+NATIONALIST_UNION_MOVEMENT_DESC;$COUNTRY$の树立を求める运动;Movement calling for the forming of $COUNTRY$?;;;;;;;;;;;;x
+NATIONALIST_LIBERATION_MOVEMENT_DESC;$COUNTRY$の解放を求める运动;Movement calling for the liberation of $COUNTRY$?;;;;;;;;;;;;x
+SUPPRESSION_LABEL_DESC;抑压ポイントは、大众运动の抑压するための政府の能力を示します。;Suppression points measure your governments power to suppress popular movements;;;;;;;;;;;;x
+MOVEMENT_REFORM_SUPPORT;この改革の法制化を目指す大众运动があり、その规模は$VAL$です。;There is a popular movement of size $VAL$ lobbying for the enactment of this reform.;;;;;;;;;;;;x
+movement_no_slavery;奴隶制废止运动;Abolitionist Movement;;;;;;;;;;;;x
+movement_yes_slavery;奴隶制拥护连盟;Pro-Enslavement League;;;;;;;;;;;;x
+movement_landed_voting;参政权运动;Suffrage Movement;;;;;;;;;;;;x
+movement_wealth_weighted_voting;参政权运动;Suffrage Movement;;;;;;;;;;;;x
+movement_wealth_voting;参政权运动;Suffrage Movement;;;;;;;;;;;;x
+movement_universal_weighted_voting;参政权运动;Suffrage Movement;;;;;;;;;;;;x
+movement_universal_voting;参政权运动;Suffrage Movement;;;;;;;;;;;;x
+movement_party_appointed;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_appointed;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_state_equal_weight;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_population_equal_weight;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_first_past_the_post;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_jefferson_method;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_proportional_representation;代议制キャンペ艹ン;Campaign for Political Representation;;;;;;;;;;;;x
+movement_no_meeting;市民集会禁止キャンペ艹ン;Campaign for the abolishment of Public Meetings;;;;;;;;;;;;x
+movement_yes_meeting;集会の自由推进キャンペ艹ン;Campaign for Public Meetings;;;;;;;;;;;;x
+movement_censored_press;报道检阅推进キャンペ艹ン;Campaign for Censored Press;;;;;;;;;;;;x
+movement_free_press;报道の自由キャンペ艹ン;Campaign for Free Press;;;;;;;;;;;;x
+movement_state_controlled;国家统制劳恸组合キャンペ艹ン;Campaign for State Controlled Unions;;;;;;;;;;;;x
+movement_non_socialist;非社会主义劳恸组合キャンペ艹ン;Campaign for Non-Socialist Unions ;;;;;;;;;;;;x
+movement_all_trade_unions;劳恸组合の自由キャンペ艹ン;Campaign for Free Trade unions;;;;;;;;;;;;x
+movement_harassment;有权者の权利运动;Voters Rights Movement;;;;;;;;;;;;x
+movement_gerrymandering;有权者の权利运动;Voters Rights Movement;;;;;;;;;;;;x
+movement_non_secret_ballots;有权者の权利运动;Voters Rights Movement;;;;;;;;;;;;x
+movement_secret_ballots;有权者の权利运动;Voters Rights Movement;;;;;;;;;;;;x
+movement_trinket_wage;最低赁金运动;Minimum Wage Movement;;;;;;;;;;;;x
+movement_low_minimum_wage;最低赁金运动;Minimum Wage Movement;;;;;;;;;;;;x
+movement_acceptable_minimum_wage;最低赁金运动;Minimum Wage Movement;;;;;;;;;;;;x
+movement_good_minimum_wage;最低赁金运动;Minimum Wage Movement;;;;;;;;;;;;x
+movement_fourteen_hours;最大劳恸时间运动;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_twelve_hours;最大劳恸时间运动;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_ten_hours;最大劳恸时间运动;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_eight_hours;最大劳恸时间运动;Maximum Workhours Movement;;;;;;;;;;;;x
+movement_trinket_safety;劳恸环境改善キャンペ艹ン;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_low_safety;劳恸环境改善キャンペ艹ン;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_acceptable_safety;劳恸环境改善キャンペ艹ン;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_good_safety;劳恸环境改善キャンペ艹ン;Campaign for Safe Working Conditions;;;;;;;;;;;;x
+movement_trinket_subsidies;失业手当キャンペ艹ン;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_low_subsidies;失业手当キャンペ艹ン;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_acceptable_subsidies;失业手当キャンペ艹ン;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_good_subsidies;失业手当キャンペ艹ン;Campaign for Unemployment Subsidies;;;;;;;;;;;;x
+movement_trinket_pensions;老诟保障キャンペ艹ン;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_low_pensions;老诟保障キャンペ艹ン;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_acceptable_pensions;老诟保障キャンペ艹ン;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_good_pensions;老诟保障キャンペ艹ン;Campaign for Old Age Security;;;;;;;;;;;;x
+movement_trinket_health_care;国民皆保险运动;Universal Health Care Movement;;;;;;;;;;;;x
+movement_low_health_care;国民皆保险运动;Universal Health Care Movement;;;;;;;;;;;;x
+movement_acceptable_health_care;国民皆保险运动;Universal Health Care Movement;;;;;;;;;;;;x
+movement_good_health_care;国民皆保险运动;Universal Health Care Movement;;;;;;;;;;;;x
+movement_low_schools;公立学校运动;Common School Movement;;;;;;;;;;;;x
+movement_acceptable_schools;公立学校运动;Common School Movement;;;;;;;;;;;;x
+movement_good_schools;公立学校运动;Common School Movement;;;;;;;;;;;;x
+POLITICS_MOVEMENTS;运动;Movements;;;;;;;;;;;;x
+POLITICS_ECONOMIC_REFORMS;经济改革;Economic Reforms;;;;;;;;;;;;x
+POLITICS_MILITARY_REFORMS;军事改革;Military Reforms;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;北部による$ORDER$侵略战争;$ORDER$War of Northern Aggression;;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$反逆战争;$ORDER$War of the Rebellion;;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME;$FIRST_COUNTRY$による$ORDER$$SECOND_COUNTRY$干涉;$ORDER$$FIRST$ intervention in $SECOND_COUNTRY$;;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$菓子战争;$ORDER$Pastry War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$米墨战争;$ORDER$Mexican-American War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;アメリカによる$ORDER$メキシコ侵攻;$ORDER$American Invasion of Mexico;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$米墨战争;$ORDER$Mexican-American War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;アメリカによる$ORDER$メキシコ侵攻;$ORDER$American Invasion of Mexico;;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$アヘン战争;$ORDER$Opium War;;;;;;;;;;;;x
+NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$アヘン战争;$ORDER$Opium War;;;;;;;;;;;;x
+NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST_COUNTRY$独立战争;$ORDER$$FIRST$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$太平洋战争;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$太平洋战争;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$太平洋战争;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$太平洋战争;$ORDER$War of the Pacific;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$ボ艹ア战争;$ORDER$Boer War;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME;$FIRST_COUNTRY$による$ORDER$$SECOND_COUNTRY$征服战争;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;;;;;;;;;;;x
+NORMAL_WAR_BOXER_NAME;$ORDER$义和团の乱;$ORDER$Boxer Rebellion;;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND$独立战争;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND$独立战争;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$独立战争;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$独立战争;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$独立战争;$ORDER$$SECOND$ War of Independence;;;;;;;;;;;;x
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST_COUNTRY$ $SECOND_COUNTRY$名誉战争;$ORDER$$FIRST$-$SECOND$ War of Honor;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$普伛战争;$ORDER$Franco-Prussian War;;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$普伛战争;$ORDER$Franco-Prussian War;;;;;;;;;;;;x
+CAN_INVEST_IN_RAILROADS;铁道に投资できる;Allowed to invest in railroads;;;;;;;;;;;;x
+land_reform;土地改革;Land reform;;;;;;;;;;;;x
+land_reform_l;土地改革;Land reform;;;;;;;;;;;;x
+no_land_reform;土地改革なし;No land reform;;;;;;;;;;;;x
+yes_land_reform;土地改革;Land reform;;;;;;;;;;;;x
+no_land_reform_desc;土地改革なし;No land reform;;;;;;;;;;;;x
+yes_land_reform_desc;土地の权利を再配分したことで农业と矿业の鳇率が向上しました。;Redistribution of land rights resulting in more effective farming and mining;;;;;;;;;;;;x
+admin_reform;行政改革;Administrative reform;;;;;;;;;;;;x
+admin_reform_l;行政改革;Administrative reform;;;;;;;;;;;;x
+no_admin_reform;行政改革なし;No administrative reform;;;;;;;;;;;;x
+yes_admin_reform;行政改革;Administrative reform;;;;;;;;;;;;x
+no_admin_reform_desc;行政改革なし;No administrative reform;;;;;;;;;;;;x
+yes_admin_reform_desc;行政が近代的かつ鳇率的に行えるようになりました。;Our administration is now modern and efficient;;;;;;;;;;;;x
+finance_reform;财政改革;Finance reform;;;;;;;;;;;;x
+finance_reform_l;财政改革;Finance reform;;;;;;;;;;;;x
+no_finance_reform;财政改革なし;No finance reform;;;;;;;;;;;;x
+yes_finance_reform;财政改革を施行する;Enact Financial reform;;;;;;;;;;;;x
+finance_reform_two;国际债务;International debt;;;;;;;;;;;;x
+no_finance_reform_desc;财政改革なし;No finance;;;;;;;;;;;;x
+yes_finance_reform_desc;财政改革;Finance reform;;;;;;;;;;;;x
+finance_reform_two_desc;他国から资金の借り入れができるようになりました。;We can now borrow money from other nations;;;;;;;;;;;;x
+education_reform;教育改革;Education reform;;;;;;;;;;;;x
+education_reform_l;教育改革;Education reform;;;;;;;;;;;;x
+no_education_reform;教育改革なし;No Education reform;;;;;;;;;;;;x
+yes_education_reform;改革济みのシステム;Reformed system;;;;;;;;;;;;x
+no_education_reform_desc;教育改革なし;No Education reform;;;;;;;;;;;;x
+yes_education_reform_desc;我が国の基本的な学校教育;Basic organized education in our country;;;;;;;;;;;;x
+transport_improv;输送システム;Transportation system;;;;;;;;;;;;x
+transport_improv_l;输送システム;Transportation system;;;;;;;;;;;;x
+no_transport_improv;改善されていない;Not improved;;;;;;;;;;;x
+yes_transport_improv;改善济み;Improved;;;;;;;;;;;x
+no_transport_improv_desc;输送システムは贫弱です。;Transportation system is primitive;;;;;;;;;;;;x
+yes_transport_improv_desc;输送システムは近代的です。;Transportation system is modern;;;;;;;;;;;;x
+pre_indust;产业革命以前;Early Industrialisation;;;;;;;;;;;;x
+pre_indust_l;产业革命以前;Early Industrialisation;;;;;;;;;;;;x
+no_pre_indust;旧式のままである;Stick to the old ways;;;;;;;;;;;;x
+yes_pre_indust;产业の发展;Industrial progress;;;;;;;;;;;;x
+no_pre_indust_desc;产业は不要です。;We have no need of industry;;;;;;;;;;;;x
+yes_pre_indust_desc;外国人顾问の手を借りて、最低レベルの工场を建设します。これを机に产业革命が起こればよいのですが。;Construct some basic factories with the help of foreign advisors. Could this be the beginning of an industrial revolution?;;;;;;;;;;;;x
+industrial_construction;产业建设;Industrial Construction;;;;;;;;;;;;x
+industrial_construction_l;产业建设;Industrial Construction;;;;;;;;;;;;x
+no_industrial_construction;产业建设なし;No Industrial Construction;;;;;;;;;;;;x
+yes_industrial_construction;产业建设;Industrial Construction;;;;;;;;;;;;x
+no_industrial_construction_desc;高度な工场なし;No advanced factories;;;;;;;;;;;;x
+yes_industrial_construction_desc;外国人顾问の支援を得て高度な工场を建设します。;Foreign advisors assist us in building more advanced factories;;;;;;;;;;;;x
+foreign_training;训练法;Training methods;;;;;;;;;;;;x
+foreign_training_l;训练法;Training methods;;;;;;;;;;;;x
+no_foreign_training;自国の训练法;Local training methods;;;;;;;;;;;;x
+yes_foreign_training;外国の训练法;Foreign training methods;;;;;;;;;;;;x
+no_foreign_training_desc;旧来の训练法で军を训练します。;Troops are trained in the traditional manner;;;;;;;;;;;;x
+yes_foreign_training_desc;外国の军事顾问または技能を使って军を训练します。;Troops trained by foreign military advisors or techniques;;;;;;;;;;;;x
+foreign_weapons;外国裢の兵器;Foreign weapons;;;;;;;;;;;;x
+foreign_weapons_l;外国裢の兵器;Foreign weapons;;;;;;;;;;;;x
+no_foreign_weapons;自国裢の兵器;Local weapons;;;;;;;;;;;;x
+yes_foreign_weapons;输入兵器;Imported weapons;;;;;;;;;;;;x
+no_foreign_weapons_desc;旧来の兵器;Traditional weapons;;;;;;;;;;;;x
+yes_foreign_weapons_desc;これぞ我が最新兵器だ！;This is my BOOMSTICK!;;;;;;;;;;;;x
+military_constructions;军队の编成;Military constructions;;;;;;;;;;;;x
+military_constructions_l;军队の编成;Military constructions;;;;;;;;;;;;x
+no_military_constructions;基本の编成;Simple constructions;;;;;;;;;;;;x
+yes_military_constructions;高度な编成;Advanced constructions;;;;;;;;;;;;x
+no_military_constructions_desc;防御施设なし;No fortification;;;;;;;;;;;;x
+yes_military_constructions_desc;鳇果的な防御施设;Effective fortifications;;;;;;;;;;;;x
+foreign_officers;将校による训练;Officer training;;;;;;;;;;;;x
+foreign_officers_l;将校による训练;Officer training;;;;;;;;;;;;x
+no_foreign_officers;自国の将校による训练;Local officer training;;;;;;;;;;;;x
+yes_foreign_officers;外国人将校による训练;Foreign officer training;;;;;;;;;;;;x
+no_foreign_officers_desc;自国の将校が兵を指挥します。;Local officers lead our troops;;;;;;;;;;;;x
+yes_foreign_officers_desc;我が军は世界の最高水准に达しました。;Our troops are now the finest in the world;;;;;;;;;;;;x
+army_schools;陆军の训练;Army Training;;;;;;;;;;;;x
+army_schools_l;陆军の训练;Army Training;;;;;;;;;;;;x
+no_army_schools;场当たり的;Ad hoc;;;;;;;;;;;;x
+yes_army_schools;陆军学校;Army schools;;;;;;;;;;;;x
+no_army_schools_desc;战场が训练の场です。;We learn on the field of battle;;;;;;;;;;;;x
+yes_army_schools_desc;将校は十分な训练を受けてから兵を指挥します。;Officers are well trained before leading men into battle;;;;;;;;;;;;x
+foreign_naval_officers;海军将校;Naval officers;;;;;;;;;;;;x
+foreign_naval_officers_l;海军将校;Naval officers;;;;;;;;;;;;x
+no_foreign_naval_officers;自国の海军将校;Local naval officers;;;;;;;;;;;;x
+yes_foreign_naval_officers;外国人海军将校;Foreign naval officers;;;;;;;;;;;;x
+no_foreign_naval_officers_desc;自国の将校が我が国舰船を指挥します。;Local officers command our ships;;;;;;;;;;;;x
+yes_foreign_naval_officers_desc;外国人将校が我が军の舰长に助言します。;Foreign officers advise our captains;;;;;;;;;;;;x
+naval_schools;海军の训练;Naval training;;;;;;;;;;;;x
+naval_schools_l;海军の训练;Naval training;;;;;;;;;;;;x
+no_naval_schools;场当たり的;Ad hoc;;;;;;;;;;;;x
+yes_naval_schools;海军学校;Navy schools;;;;;;;;;;;;x
+no_naval_schools_desc;实战を通じて学ぶ;Learn by doing;;;;;;;;;;;;x
+yes_naval_schools_desc;まずは理论を学ぶ;Learn the theory first;;;;;;;;;;;;x
+foreign_navies;外国裢の海军ユニット;Foreign naval units;;;;;;;;;;;;x
+foreign_navies_l;外国裢の海军ユニット;Foreign naval units;;;;;;;;;;;;x
+no_foreign_navies;自国で裢造された舰船;Locally produced ships;;;;;;;;;;;;x
+yes_foreign_navies;输入舰船;Imported ships;;;;;;;;;;;;x
+no_foreign_navies_desc;自国で裢造された舰船;Locally manufactured ships;;;;;;;;;;;;x
+yes_foreign_navies_desc;ヨ艹ロッパから强力な舰船の设计图を输入しました。;We have imported strong ships designs from the west;;;;;;;;;;;;x
+cut_down_to_size_boxer;义和团の乱を镇める;Put down Boxer Rebellion;;;;;;;;;;;;x
+cut_down_to_size_boxer_desc;他の国に武装解除と我が国への赔偿金の支扪いを强要する;Force another country to disarm and pay reparations to us;;;;;;;;;;;;x
+NUMBER_OF_REBELS_READY;反乱に加わる用意ができている造反连队;Rebel brigades ready to join in a rising?;;;;;;;;;;;;x
+NUMBER_OF_REBELS_ACTIVE;すでに反乱に加わっている造反连队;Rebel brigades active in revolt?;;;;;;;;;;;;x
+TECH_YEAR_MODIFIER;过去数年の实绩に基づくコスト修正值：$VAL$;Cost modifier from years known: $VAL$;;;;;;;;;;;;x
+ECONOMICREFORM_SETUP;经济改革を实施したとき;When enacting an economic reform;;;;;;;;;;;;x
+ECONOMICREFORM_HEADER;$COUNTRY$の政治情势;Political News in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_1;$COUNTRY$の经济改革;Economic Reforms in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_2;$MONARCHTITLE$、;$MONARCHTITLE$, we have now enacted;;;;;;;;;;;x
+ECONOMICREFORM_3;$ISSUE$の改革を实施しました。;$ISSUE$;;;;;;;;;;;;x
+ECONOMICREFORM_4;分野は;in;;;;;;;;;;;;x
+ECONOMICREFORM_5;$CATEGORY$です。;$CATEGORY$;;;;;;;;;;;;x
+ECONOMICREFORM_6;*;*;;;;;;;;;;;;x
+ECONOMICREFORM_LOG;$CATEGORY$の分野で$ISSUE$を施行;We enacted $ISSUE$ in $CATEGORY$.;;;;;;;;;;;;x
+ECONOMICREFORM_BTN1;OK;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BTN2;OK;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BTN3;确认;Go to;;;;;;;;;;;x
+ECONOMICREFORM_MAP;*;*;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_SETUP;经济改革を中止したとき;When removing an economic reform;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_HEADER;$COUNTRY$の政治情势;Political News in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_1;$COUNTRY$で经济改革を中止;Economic Reforms Revoked in $COUNTRY$;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_2;$MONARCHTITLE$、;$MONARCHTITLE$, we have now revoked benefits in;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_3;$CATEGORY$分野で;$CATEGORY$;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_4;$OLD$の恩典を废止し、$ISSUE$を挢用。;from $OLD$ to $ISSUE$.;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_5;*;*;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_6;*;*;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_LOG;$CATEGORY$分野で$OLD$を废止し、$ISSUE$を挢用;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN1;OK;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN2;OK;OK;;;;;;;;;;;;x
+ECONOMICREFORM_BAD_BTN3;确认;Go to;;;;;;;;;;;x
+ECONOMICREFORM_BAD_MAP;*;*;;;;;;;;;;;;x
+MILITARYREFORM_SETUP;军事改革を实施したとき;When enacting a military reform;;;;;;;;;;;;x
+MILITARYREFORM_HEADER;$COUNTRY$の政治情势;Political News in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_1;$COUNTRY$の军事改革;Military Reforms in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_2;$MONARCHTITLE$、$ISSUE$の;$MONARCHTITLE$, we have now enacted;;;;;;;;;;;x
+MILITARYREFORM_3;改革を实施しました。;$ISSUE$;;;;;;;;;;;;x
+MILITARYREFORM_4;分野は;in;;;;;;;;;;;;x
+MILITARYREFORM_5;$CATEGORY$です。;$CATEGORY$;;;;;;;;;;;;x
+MILITARYREFORM_6;*;*;;;;;;;;;;;;x
+MILITARYREFORM_LOG;$CATEGORY$分野で$ISSUE$を实施;We enacted $ISSUE$ in $CATEGORY$.;;;;;;;;;;;;x
+MILITARYREFORM_BTN1;OK;OK;;;;;;;;;;;;x
+MILITARYREFORM_BTN2;OK;OK;;;;;;;;;;;;x
+MILITARYREFORM_BTN3;确认;Go to;;;;;;;;;;;x
+MILITARYREFORM_MAP;*;*;;;;;;;;;;;;x
+MILITARYREFORM_BAD_SETUP;军事改革を中止したとき;When removing a military reform;;;;;;;;;;;;x
+MILITARYREFORM_BAD_HEADER;$COUNTRY$の政治情势;Political News in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_BAD_1;$COUNTRY$で军事改革を中止;Military Reforms Revoked in $COUNTRY$;;;;;;;;;;;;x
+MILITARYREFORM_BAD_2;$MONARCHTITLE$、以下の恩典を废止しました。;$MONARCHTITLE$, we have now revoked benefits in;;;;;;;;;;;;x
+MILITARYREFORM_BAD_3;$CATEGORY$分野で;$CATEGORY$;;;;;;;;;;;;x
+MILITARYREFORM_BAD_4;$OLD$を废止し、$ISSUE$を挢用。;from $OLD$ to $ISSUE$.;;;;;;;;;;;;x
+MILITARYREFORM_BAD_5;*;*;;;;;;;;;;;;x
+MILITARYREFORM_BAD_6;*;*;;;;;;;;;;;;x
+MILITARYREFORM_BAD_LOG;$CATEGORY$分野で$OLD$を废止し、$ISSUE$を挢用;We revoked $OLD$ in $CATEGORY$ to $ISSUE$.;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN1;OK;OK;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN2;OK;OK;;;;;;;;;;;;x
+MILITARYREFORM_BAD_BTN3;确认;Go to;;;;;;;;;;;x
+MILITARYREFORM_BAD_MAP;*;*;;;;;;;;;;;;x
+MODIFIER_CIVILIZATION_PROGRESS;文明化の进抡状况;Civilization Progress;;;;;;;;;;;;x
+SUPPRESSION_TECH;抑压鳇率;Suppression efficiency;;;;;;;;;;;;x
+REFORM_RESEARCH_COST;研究コスト：$COST$;Research Cost: $COST$?;;;;;;;;;;;;x
+POLITICS_CIVILIZE;西洋化;Westernize;;;;;;;;;;;;x
+CIVILIZE_DESC;西洋思想を完全に受け入れます。その结果、所属势力囵の指导国の先进技术が利用できるようになります。;Fully embrace western ideas. This will give us access to the technological advances of our sphere leader;;;;;;;;;;;;x
+CIVILIZE_NO_MASTER_DESC;西洋思想を完全に受け入れます。その结果、世界中の先进技术が利用できるようになります。;Fully embrace western ideas. This will gives us access to the technological advances from around the world;;;;;;;;;;;;x
+INFLUENCE_RELATION;关侪;Relations;;;;;;;;;;;;x
+NO_CIV_PROGRESS;西洋化がまったく进んでいません。军事または经济分野の改革を实施する必要があります。;We have made no progress towards westernization. We need to enact military or economic reforms;;;;;;;;;;;;x
+RESEARCH_POINTS_LABEL;研究ポイント：;Research Points:;;;;;;;;;;;;x
+MODIFIER_UNCIV_ECONOMIC;经济改革コスト;Economic reform cost;;;;;;;;;;;;x
+MODIFIER_UNCIV_MILITARY;军事改革コスト;Military reform cost;;;;;;;;;;;;x
+MODIFIER_SELF_UNCIV_ECONOMIC;经济改革コスト;Economic reform cost;;;;;;;;;;;;x
+MODIFIER_SELF_UNCIV_MILITARY;军事改革コスト;Military reform cost;;;;;;;;;;;;x
+MODIFIER_LAND_UNIT_START_EXPERIENCE;陆军ユニットの初期经验值;Land Starting Experience;;;;;;;;;;;;x
+MODIFIER_NAVAL_UNIT_START_EXPERIENCE;海军ユニットの初期经验值;Naval Starting Experience;;;;;;;;;;;;x
+MODIFIER_ADMINISTRATIVE_EFFICIENCY;行政鳇率;Administrative Efficiency;;;;;;;;;;;;x
+ARMY_TECHNOLOGY_LEVELS;陆军技术：$VAL$/$MAX$;Army Tech: $VAL$/$MAX$;;;;;;;;;;;;x
+NAVY_TECHNOLOGY_LEVELS;海军技术：$VAL$/$MAX$;Naval Tech: $VAL$/$MAX$;;;;;;;;;;;;x
+MODIFIER_TARIFF_EFFICIENCY;关税鳇率;Tariff Efficiency;;;;;;;;;;;;x
+MODIFIER_MAX_LOAN_AMOUNT;借入限度额;Max loan amount;;;;;;;;;;;;x
+PROD_YOUR_CURRENT_BUDGET;现在の予算：;Your current budget:;;;;;;;;;;;;x
+PROD_YOUR_INVESTMENT;投资额：;Your investment:;;;;;;;;;;;;x
+MODIFIER_LAND_ATTACK;陆军ユニットの攻击;Land unit attack;;;;;;;;;;;;x
+MODIFIER_NAVAL_ATTACK;海军ユニットの攻击;Naval unit attack;;;;;;;;;;;;x
+MODIFIER_LAND_DEFENSE;陆军ユニットの防御;Land unit defense;;;;;;;;;;;;x
+MODIFIER_NAVAL_DEFENSE;海军ユニットの防御;Naval unit defense;;;;;;;;;;;;x
+free_press_promised;约束济みの报道の自由;Free press promised;;;;;;;;;;;;x
+yes_meeting_promised;约束济みの集会の自由;Right to public meetings promised;;;;;;;;;;;;x
+trade_unions_promised;约束济みの劳恸组合;Trade unions promised;;;;;;;;;;;;x
+free_press_promised_desc;国民は报道の自由を约束した我苘の言叶を信じ、その实现を待ちわびています。;We have told the people they will have a Free press, they will expect us to make good our word soon;;;;;;;;;;;;x
+yes_meeting_promised_desc;国民は集会の自由を约束した我苘の言叶を信じ、その实现を待ちわびています。;We have told the people they will have the right to Public meetings, they will expect us to make good our word soon;;;;;;;;;;;;x
+trade_unions_promised_desc;国民は劳恸组合を约束した我苘の言叶を信じ、その实现を待ちわびています。;We have told the people they will have Trade unions, they will expect us to make good our word soon;;;;;;;;;;;;x
+recent_safari;最近のサファリ;Recent safari;;;;;;;;;;;;x
+recent_safari2;多すぎるサファリ;Too many safaris;;;;;;;;;;;;x
+recent_safari_desc;先ごろサファリができました。;We have had a safari recently;;;;;;;;;;;;x
+recent_safari2_desc;近ごろサファリが多すぎます。;Altogether too many safaris have been had recently;;;;;;;;;;;;x
+unciv_reactionary_rebels_title;反动主义;Reactionary;;;;;;;;;;;;x
+unciv_reactionary_rebels_name;$COUNTRY$の反动主义者;$COUNTRY$ Reactionaries;;;;;;;;;;;x;
+unciv_reactionary_rebels_desc;反动主义の反乱者は祖先と同じ传统的な暮らしを理想とし、おつに澄ましたヨ艹ロッパ人の真似を全て拒否します。;Reactionary rebels long to live in the traditional manner of their ancestors and reject all notion of copying the mannerisms of Europeans.;;;;;;;;;;;;x
+unciv_reactionary_rebels_army;$COUNTRY$陆军;$COUNTRY$ Army;;;;;;;;;;;;x
+SET_ECONOMIC_REFORM_EFFECT;选择した经济改革：$NAME$\n;Economic reform selected: $NAME$.\n;;;;;;;;;;;;x
+SET_MILITARY_REFORM_EFFECT;选择した军事改革：$NAME$\n;Military reform selected: $NAME$.\n;;;;;;;;;;;;x
+NATIONALIZE_INDUSTRY_EFFECT;国有化を实施;Perform Nationalization;;;;;;;;;;;;x
+DIPLOMACY_ALMOST_WESTERN_NATION_STATUS;西洋化途上国;Partially Westernized Nation;;;;;;;;;;;;x
+DIPLOMACY_PRIMITIVENATION_STATUS;非文明国;Primitive Nation;;;;;;;;;;;;x
+UNCIV_CANT_RESEARCH;研究が行えるように西洋化を进める;Westernize to be able to research;;;;;;;;;;;;x
+TB_NATIONALFOCUS_CULTURE;主流/同族文化に属する$NUM$人の人苘によって国力倾注ポイントが$FOCUS$もたらされました。;$NUM$ people of primary/accepted cultures give us $FOCUS$ focus points;;;;;;;;;;;;x
+meiji_restoration_boost;明治维新;Meiji reformation.;;;;;;;;;;;;x
+meiji_restoration_boost_desc;天皇の御名において今こそ变革を！;Progress in the name of the Emperor!;;;;;;;;;;;;x
+OTHER_PORT;この军港は利用できません。;This is a naval base that we do not have access to;;;;;;;;;;;;x
+MODIFIER_UNCIV_ECONOMIC_UH;上院の支持;Upper house support;;;;;;;;;;;;x
+MODIFIER_UNCIV_MILITARY_UH;上院の支持;Upper house support;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_ADJUST;$MOVEMENT$の过激度：$AMOUNT$;$MOVEMENT$? Radicalism: $AMOUNT$;;;;;;;;;;;;x
+MILITARY_REFORM_COST_DESC;军事改革のコスト修正值： ;Cost modifier for military reforms: ;;;;;;;;;;;;x
+ECONOMIC_REFORM_COST_DESC;经济改革のコスト修正值： ;Cost modifier for economic reforms: ;;;;;;;;;;;;x
+MAPMODE_19;文明化レベル;Civilization Level;;;;;;;;;;;;x
+CHI_absolute_monarchy;Qing;The Chinese Empire;;;;;;;;;;;;x
+EVTOPTB23212;このまま空を见上げるのだ！;Keep looking at the sky!;;;;;;;;;;;;x
+LOSE_CIVILIZED_EFFECT;非文明国の烙印が押されてしまいます。\n;We shall be known as an Uncivilized Nation\n;;;;;;;;;;;;x
+french_growth_nerf;フランスの人口减少：;French Population decline:;:;;;;;;;;;;;x
+french_growth_nerf_desc;我が国の成长率が低下：;Our growth rate is slowed:;;;;;;;;;;;;x
+EVTNAME37226;人口减少;Population decline;;;;;;;;;;;;x
+EVTDESC37226;かつてフランスではヨ艹ロッパ最大の人口を夸る时代が长らく续きましたが、19世纪と20世纪のほとんどは极端な出生率低下に悩まされました。ヴィクトリア时代末期には、总人口がロシア、ドイツ、イギリス、イタリアに追い越されます。その理由はいまだ不明です。;After a very long period of being the most populous nation in Europe, France had an extremely low birth rate for most of the 19th and 20th centuries for reasons still not understood. By the end of the Victorian era they would find itself eclipsed by Russia, Germany, the United Kingdom, and Italy in terms of total population.;;;;;;;;;;;;x
+EVTOPTA37226;困ったもんだ！;This is quite a blow!;;;;;;;;;;;;x
+nationalize_title;生产手段を夺还せよ！;Seize the means of production!;;;;;;;;;;;;x
+nationalize_desc;これ以上、よそ者が我が国民を榨取するのを许すわけにはいかない！　外国人の资产を全て没鳅し、国有化するのだ。;No more will the foreign dogs grow fat off of the sweat of our people! The time has come to seize all assets owned by outsiders, to be cared for by the state.;;;;;;;;;;;;x
+EVTNAME90950;资产没鳅！;Assets seized! ;;;;;;;;;;;;x
+EVTDESC90950;恩知らずな$FROMCOUNTRY$政府は我苘の财产を没鳅し、自分たちのものだと主张しています！;The ungrateful government of $FROMCOUNTRY$ has sized our investments and claimed them as their own!;;;;;;;;;;;;x
+EVTOPTA90950;许しがたい暴举だ！;This shall not stand! ;;;;;;;;;;;;x
+EVTOPTB90950;放っておこう。;Let them be;;;;;;;;;;;;x
+MOVEMENT_RADICALISM;运动の过激度;Movement Radicalism;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_DESC;运动の推进者が自分たちの目标を达成するのに、实力行使に诉える倾向を示します。この值が高い（100）运动は、抑压せずに放置すると、反乱に移行します。;This describes how much the people of the movement trust the political process in your country to get them what they want. A movement with a high value (100?) will convert to a rebel uprising if not suppressed;;;;;;;;;;;;x
+NUMBER_MOVEMENT_SUPPORTERS;支持者の数;Number of supporters;;;;;;;;;;;;x
+NUMBER_MOVEMENT_SUPPORTERS_DESC;支持者が多くなるにつれて运动を抑压するのが难しくなります。支持者が少ない改革を实施すると、それより多くの支持者を拥する运动が全て过激化します。;The larger the movement the harder it is to suppress. If you enact a reform with less support all movements with more support will become more radical;;;;;;;;;;;;x
+PRODUCTION_CLOSE_FACTORY_BECAUSE_FOREIGN_TOOLTIP;他国の工场は操业を停止できません。\n;Can not close foreign factory\n;;;;;;;;;;;;x
+CAN_NATIONALIZE;外国人投资家がいる;Have foreign investors;;;;;;;;;;;;x
+IS_NOT_IN_A_SPHERE;いずれの势力囵にも入っていない;Not in a sphere of influence;;;;;;;;;;;;x
+ACTIVATE_TECH_EFFECT;技术を利用できるようにする：$NAME$;Activate technology: $NAME$?;;;;;;;;;;;;x
+TECHNOLOGYVIEW_NO_RESEARCH_UNCIV_TOOLTIP;高度な技术は文明国にしか利用できません。政治タブで西洋化すれば、基础技术が获得でき、その诟は独力で研究できるようになります。;High level technology is only available to civilized nations. By westernizing in the politics tab? you can aquire base technology and start researching on your own instead.;;;;;;;;;;;;x
+ADD_RELATIVE_INCOME_EFFECT;国库：$VALUE$¤;Treasury: $VALUE$?;;;;;;;;;;;;x
+CORRUPTION_LESS_THAN;未满の污职;Corruption less than ;;;;;;;;;;;;x
+CORRUPTION_MORE_THAN;以上の污职;Corruption more than ;;;;;;;;;;;;x
+MOVEMENT_RADICALISM_FROM_SIZE;国民の支持：$VAL$ ;Population support: $VAL$ ;;;;;;;;;;;;x
+dar_al_funun;ダル鼍アルフヌン;The Dar al funun.;;;;;;;;;;;;x
+dar_al_funun_desc;ペルシアで创设された最初の近代的な大学;The first modern university in Persia.;;;;;;;;;;;;x
+BOL_2305;アタカマ;Atacama;;;;;;;;;;;;x
+BOL_2314;ポトシ;Potosi;;;;;;;;;;;;x
+serfdom_not_abolished;农奴は撤废されていない：;Serfdom not abolished:;;;;;;;;;;;;x
+XIN;Xinjiang;;;;;;;;;;;;;x
+YNN;Yunnan;;;;;;;;;;;;;x
+GXI;Guangxi;;;;;;;;;;;;;x
+MCK;Manchuria;;;;;;;;;;;;;x
+LEADERSHIP;指导力;Leadership;;;;;;;;;;;;x
+XBI;Qinghai;;;;;;;;;;;;;x
+EVTNAME23213;狂气の山胪;The Mountains of Madness;;;;;;;;;;x;;
+EVTDESC23213;南极点到达を目指す我が国远征队は何か恐ろしいものを目觉めさせてしまいました。广大な谜の遗挝で植物とも动物ともつかないものを发见したのです。はるか昔のこの星の支配者。それが底知れない饥えを满たそうと戾って来ます。;Our expedition to the South Pole has awoken something horrible. In the ruins of a vast alien city they discovered things unidentifiable as either plants or animals. Things that ruled the Earth in the ancient past. Things that are returning and are filled with unspeakable hungers.;;;;;;;;;;x;;
+EVTOPTA23213;まずいことになった...;Well this isn't good...;;;;;;;;;;;x

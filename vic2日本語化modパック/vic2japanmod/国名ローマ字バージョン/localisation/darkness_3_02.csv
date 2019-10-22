@@ -1,0 +1,31 @@
+JAN_reactionary;斗争党;Strid Partiet;;;;;;;;;x
+EXILED_DESC;この部队は、平时に军事通行权がなく外国领土にいるため、流浪しています。 流浪している部队は战斗に参加できず、侦察能力は减少しますが、外国领土を通って归国はできます。この部队を最寄りの所有プロヴィンスに戾してください！;This unit is exiled, as it's in foreign territory during peacetime without military access. Exiled units cannot engage in combat, and their scouting abilities are reduced, but they are able to march home through foreign territory. Return your unit to the nearest owned province!;;;;;;;;;x
+TWS_FULFILLED;$PERC$を达成;Fulfilled in $PERC$;;;;;;;;;x
+TWS_NOT_FULFILLED;达成していない;Not Fulfilled?;;;;;;;;;x
+TICKING_WARSCORE_DESC_CURR;现在$VAL$。;Currently $VAL$.;;;;;;;;;x
+UNIT_BORROWED;このユニットは、一时的に我苘の指挥下にあります。;This unit is temporarly under our command.;;;;;;;;;x
+DISBAND_TOO_SMALL_UNIT;人员が足りない连队を解散;Disband Undermanned Brigades;;;;;;;;;x
+DISBAND_TOO_SMALL_UNIT_DRO;このオプションは、现在兵士POPによって完全に补充されていない全ての连队を解散します。;This option will disband all brigades that are not currently supported by a full-strength soldier POP.;;;;;;;;;x
+CONFIRM_DISBAND_TOO_SMALL_TITLE;全ての人员が足りない连队を解散しますか？;Do you wish to disband all undermanned brigades?;;;;;;;;;x
+CONFIRM_DISBAND_TOO_SMALL_DESC;これにより、现在兵士POPによって完全に补充されていない全ての连队は削除されたので、物资や燃料等を消费することはありません。 この连队の兵员は、人的资源として还元されます。;This will remove all brigades that are not currently supported by a full-strength soldier POP, and you will no longer have to pay any maintenance costs for them. Any manpower remaining in those brigades will be returned to the pool.;;;;;;;;;x
+MODIFIER_RESEARCH_POINTS_ON_CONQUER;征服したときの研究点ボ艹ナス;Research points bonus when conquering;;;;;;;;;x
+colonial_negotiations;植民地の交涉;Colonial Negotiations;;;;;;;;;x
+colonial_negotiations_desc;たとえ何があったとしても、我苘はマキシム机关铳を所持、\nそして彼らは持っていません。\n\n 机关铳は、植民地化に反对した「未开の国」を倒すためには特に有用な能力によって、密集した突击战术の军队を坏灭させることを可能にしました。;Whatever happens, we have got \nThe Maxim gun, and they have not'\n\n Machine Guns allowed armies to devastate forces using massed charge tactics, an ability that was especially useful when it came to defeating 'uncivilised' nations who objected to being colonised.;;;;;;;;;x
+PRODUCTION_BONUS_POSSIBLE;可能なボ艹ナス：;Possible bonus from:;;;;;;;;;x
+COLONIZE_PHASE_INITIAL_INTEREST;探检队を送る;Send expedition;;;;;;;;;x
+COLONIZE_PHASE_INITIAL_INTEREST_DESC;地域に影响を与える最初の段阶は探检队を送ることです。$DAYS$日诟、竞合国がいなければ保护领を建设できます;The first step of influencing an area is to send an expedition. If it is not challenged in $DAYS$? days it will allow you to create a protectorate;;;;;;;;;x
+INITIAL_COLONIZE_DEFAULT_TIME;$DATE$日まで我が国の探检队に竞合相手がいなければ、保护领建设へ直接スキップできます;If nobody competes with your expedition by $DATE$? you can skip directly to creating a protectorate;;;;;;;;;x
+COUNTRYALERT_ColonialGood_protectorate;我が国は$REGION$に保护领を建设できます;We can create a protectorate in ?$REGION$?;;;;;;;;;x
+COUNTRYALERT_ColonialGood_colony;我が国は$REGION$に植民地を建设できます;We can create a colony in ?$REGION$?;;;;;;;;;x
+COUNTRYALERT_ColonialGood_state;我が国は$REGION$にステ艹トを建设できます;We can create a state in ?$REGION$?;;;;;;;;;x
+COUNTRYALERT_ColonialBad_colonizationtimer;我が国は$DATE$日中に$REGION$に保护领を建设する必要があります。そうしないと、この地を失います。;We need to create a protectorate in ?$REGION$? before $DATE$? or lose it.?;;;;;;;;x
+COUNTRYALERT_ColonialBad_influence;我が国は$REGION$での竞争に负けています;We are losing the race in ?$REGION$?;;;;;;;;;x
+NON_COLONIAL_POWER;我が国は列强でも准列强でもないので、植民能力がありません。;We are not a second rank nation or great power yet so we have no colonial power.;;;;;;;;;;;;x
+CRISIS_DESCRIPTION_COLONIZE;植民权利の危机;Crisis over the rights to colonize.;;;;;;;;;x
+colonial_competition;植民地の宣言を行う;Enforce colonial claim;;;;;;;;;x
+colonial_competition_desc;植民地地区を取得します;Acquire a colonial region?;;;;;;;;;x
+colonial_competition_short;$REGION$植民地を取得します;Acquire colony $REGION$;;;;;;;;;;x
+colonial_competition_setup;$REGION$植民地を取得します;Acquire colony $REGION$;;;;;;;;;;x
+CB_COLONY_CLAIMS;植民地の宣言を行う;Enforce colonial claim;;;;;;;;;x
+COLONY_TENSION_DRIFT;推移：$VAL$;Drift: $VAL$?;;;;;;;;;x
+COLONY_IN_CRISIS;现在、植民地危机に卷き钇まれている;Currently involved in colonial crisis;;;;;;;;;x

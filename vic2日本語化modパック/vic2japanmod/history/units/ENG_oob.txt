@@ -1,0 +1,1697 @@
+#Sphere of Influence
+
+EGY = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+PER = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+AFG = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+PAN = {
+	value = -50		#relation		
+	influence_value = 25
+}
+
+SIN = {
+	value = -50		#relation		
+	influence_value = 25
+}
+
+BUR = {
+	value = -5		#relation
+	influence_value = 25
+}
+
+JOH = { 
+	value = -5
+}
+
+SIA = { 
+	value = 75
+}
+
+NET = {
+	value = -100
+		#relation
+
+	level = 4
+		#3=cordial, 4 = friendly, 5 sphere
+
+	influence_value = 25
+
+}
+
+TUR = {
+	value = 25
+}
+
+DEN = {
+	value = -50		#relation
+	level = 1		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 5
+}
+SWE = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 30
+}
+VNZ = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+ARG = {
+	value = 125		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BEL = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+ION = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+AWA = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAS = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BER = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BIK = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BHO = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BUN = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+HYD = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+IND = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+JAI = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+JAS = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+JOD = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+MEW = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+MYS = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+NAG = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+ORI = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+TRA = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+NEP = {
+	value = 100
+	influence_value = 25
+}
+
+BHU = {
+	value = 100
+	influence_value = 25
+}
+
+GXI = {
+	value = 55
+	influence_value = 25
+}
+
+YNN = {
+	value = 55
+	influence_value = 25
+}
+
+HAN = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+GRE = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+
+COL = {				#Columbia if released
+	value = 150		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 5
+}
+
+leader = {
+	name = "ト 艹 マ ス 鼍コ ク ラ ン "
+	date = 1832.1.1
+	type = sea
+	personality = charismatic
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "エ ド ワ 艹 ド 鼍コ ド リ ン ト ン 卿 "
+	date = 1836.1.1
+	type = sea
+	personality = daring
+	background = expert_raider
+	prestige = 0.3
+}
+
+leader = {
+	name = "ヒ ュ 艹 鼍ゴ フ "
+	date = 1830.1.1
+	type = land
+	personality = dauntless
+	background = school_of_the_bayonet
+	prestige = 0.1
+}
+
+leader = {
+	name = "ジ ョ 艹 ジ 鼍コ ッ ク バ 艹 ン 卿 "
+	date = 1812.1.1
+	type = sea
+	personality = earnest
+	background = old_school
+	prestige = 0.3
+}
+
+leader = {
+	name = "ジ ョ ン 鼍シ 艹 ト ン "
+	date = 1825.1.1
+	type = land
+	personality = doughty
+	background = school_of_offense
+	prestige = 0.2
+}
+
+leader = {
+	name = "ウ 耻 ッ ト ワ 艹 ス 鼍エ 艹 ル マ 艹 "
+	date = 1825.1.1
+	type = land
+	personality = reserved
+	background = generals_aide
+	prestige = 0.1
+}
+
+leader = {
+	name = "ヘ ン リ 艹 鼍ハ 艹 デ 耻 ン グ "
+	date = 1830.1.1
+	type = land
+	personality = tactful
+	background = gifted_administrator
+	prestige = 0.1
+}
+
+leader = {
+	name = "ヘ ン リ 艹 鼍ス ミ ス "
+	date = 1834.1.1
+	type = land
+	personality = efficient
+	background = gifted_administrator
+	prestige = 0.1
+}
+
+leader = {
+	name = "ジ ョ ン 鼍フ ォ ッ ク ス鼍バ 艹 ゴ 韵 ン "
+	date = 1836.1.1
+	type = land
+	personality = able
+	background = engineer
+	prestige = 0.0
+}
+
+leader = {
+	name = "ラ グ ラ ン "
+	date = 1836.1.1
+	type = land
+	personality = mediocre
+	background = aristocrat
+	prestige = 0.0
+}
+
+leader = {
+	name = "ジ ョ 艹 ジ 鼍ブ ラ ウ ン 卿 "
+	date = 1836.1.1
+	type = land
+	personality = harsh
+	background = cavalry_school
+	prestige = 0.0
+}
+
+leader = {
+	name = "ジ 脉 艹 ム ス 鼍ダ ン ダ ス "
+	date = 1836.1.1
+	type = sea
+	personality = cautious
+	background = elderly
+	prestige = 0.0
+}
+
+
+army = {
+	name = "第 1 军 团 "
+	location = 300
+	regiment = {
+		name= "Light Brigade"
+		type = hussar
+		home = 300
+	}
+
+	regiment = {
+		name= "Royal Dragoons"
+		type = dragoon
+		home = 294
+	}
+
+	regiment = {
+		name= "Heavy Brigade"
+		type = cuirassier
+		home = 291
+	}
+
+	regiment = {
+		name= "第 1.1 师 团 "
+		type = infantry
+		home = 300
+	}
+
+	regiment = {
+		name= "第 2.1 师 团 "
+		type = infantry
+		home = 293
+	}
+
+	regiment = {
+		name= "第 3.1 师 团 "
+		type = artillery
+		home = 295
+	}
+
+}
+
+army = {
+	name = "第 2 师 团 "
+	location = 288
+	regiment = {
+		name= "第 1.2 师 团 "
+		type = infantry
+		home = 288
+	}
+
+	regiment = {
+		name= "第 2.2 师 团 "
+		type = infantry
+		home = 287
+	}
+
+	regiment = {
+		name= "第 3.2 师 团 "
+		type = infantry
+		home = 256
+	}
+
+}
+
+army = {
+	name = "第 3 师 团 "
+	location = 273
+	regiment = {
+		name= "第 1.3 师 团 "
+		type = infantry
+		home = 273
+	}
+
+	regiment = {
+		name= "第 2.3 师 团 "
+		type = infantry
+		home = 266
+	}
+
+	regiment = {
+		name= "第 3.3 师 团 "
+		type = infantry
+		home = 270
+	}
+
+}
+
+army = {
+	name = "第 4 师 团 "
+	location = 263
+	regiment = {
+		name= "第 1.4 师 团 "
+		type = infantry
+		home = 263
+	}
+
+	regiment = {
+		name= "第 2.4 师 团 "
+		type = infantry
+		home = 255
+	}
+
+	regiment = {
+		name= "第 3.4 师 团 "
+		type = infantry
+		home = 281
+	}
+
+}
+
+army = {
+	name = "第 5 师 团 "
+	location = 269
+	regiment = {
+		name= "第 1.5 师 团 "
+		type = infantry
+		home = 269
+	}
+
+	regiment = {
+		name= "第 2.5 师 团 "
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "第 3.5 师 团 "
+		type = infantry
+		home = 267
+	}
+
+}
+
+army = {
+	name = "カ ナ ダ 守 备 队 "
+	location = 57 
+	regiment = {
+		name= "第 1.6 师 团 "
+		type = infantry
+		home = 277
+	}
+
+	regiment = {
+		name= "第 2.6 师 团 "
+		type = infantry
+		home = 292
+	}
+
+	regiment = {
+		name= "第 3.6 师 团 "
+		type = infantry
+		home = 46
+	}
+
+}
+
+army = {
+	name = "南 ア フ リ カ 守 备 队 "
+	location = 2087
+	regiment = {
+		name= "第 1.7 师 团 "
+		type = infantry
+		home = 278
+	}
+
+	regiment = {
+		name= "第 2.7 师 团 "
+		type = infantry
+		home = 274
+	}
+
+	regiment = {
+		name= "第 3.7 师 团 "
+		type = infantry
+		home = 2087
+	}
+
+}
+
+army = {
+	name = "オ 艹 ス ト ラ リ ア 守 备 队 "
+	location = 2468
+	regiment = {
+		name= "第 1.8 师 团 "
+		type = infantry
+		home = 299
+	}
+
+	regiment = {
+		name= "第 2.8 师 团 "
+		type = infantry
+		home = 283
+	}
+
+	regiment = {
+		name= "第 3.8 师 团 "
+		type = infantry
+		home = 2468
+	}
+
+}
+
+army = {
+	name = "ボ ン ベ 韵 军 "
+	location = 1297
+	regiment = {
+		name= "第 1.9 师 团 "
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "第 2.9 师 团 "
+		type = infantry
+		home = 280
+	}
+
+	regiment = {
+		name= "第 3.9 师 团 "
+		type = infantry
+		home = 289
+	}
+
+	regiment = {
+		name= "第 1.1 韵 ン ド 师 团 "
+		type = infantry
+		home = 1297
+	}
+
+	regiment = {
+		name= "第 2.1 韵 ン ド 师 团 "
+		type = infantry
+		home = 1291
+	}
+
+	regiment = {
+		name= "第 3.1 韵 ン ド 师 团 "
+		type = infantry
+		home = 1299
+	}
+
+	regiment = {
+		name= "第 1.2 韵 ン ド 师 团 "
+		type = infantry
+		home = 1316
+	}
+
+	regiment = {
+		name= "第 2.2 韵 ン ド 师 团 "
+		type = infantry
+		home = 1317
+	}
+
+	regiment = {
+		name= "第 3.2 韵 ン ド 师 团 "
+		type = infantry
+		home = 1317
+	}
+
+}
+
+army = {
+	name = "カ ル カ ッ タ 军 "
+	location = 1256
+	regiment = {
+		name= "第 1.10 师 团 "
+		type = infantry
+		home = 300
+	}
+
+	regiment = {
+		name= "第 2.10 师 团 "
+		type = infantry
+		home = 282
+	}
+
+	regiment = {
+		name= "第 3.10 师 团 "
+		type = infantry
+		home = 265
+	}
+
+	regiment = {
+		name= "第 1.3 韵 ン ド 师 团 "
+		type = infantry
+		home = 1251
+	}
+
+	regiment = {
+		name= "第 2.3 韵 ン ド 师 团 "
+		type = infantry
+		home = 1247
+	}
+
+	regiment = {
+		name= "第 3.3 韵 ン ド 师 团 "
+		type = infantry
+		home = 1254
+	}
+
+	regiment = {
+		name= "第 1.4 韵 ン ド 师 团 "
+		type = infantry
+		home = 1240
+	}
+
+	regiment = {
+		name= "第 2.4 韵 ン ド 师 团 "
+		type = infantry
+		home = 1248
+	}
+
+	regiment = {
+		name= "第 3.4 韵 ン ド 师 团 "
+		type = infantry
+		home = 1243
+	}
+
+}
+
+army = {
+	name = "デ リ 艹 军 "
+	location = 1239
+	regiment = {
+		name= "第 1.2 骑 兵 师 团 "
+		type = cuirassier
+		home = 278
+	}
+
+	regiment = {
+		name= "第 2.2 骑 兵 师 团 "
+		type = cuirassier
+		home = 297
+	}
+
+	regiment = {
+		name= "第 3.2 骑 兵 师 团 "
+		type = hussar
+		home = 260
+	}
+
+	regiment = {
+		name= "第 1.11 师 团 "
+		type = infantry
+		home = 296
+	}
+
+	regiment = {
+		name= "第 2.11 师 团 "
+		type = infantry
+		home = 268
+	}
+
+	regiment = {
+		name= "第 3.11 师 团 "
+		type = infantry
+		home = 261
+	}
+
+	regiment = {
+		name= "第 1.12 师 团 "
+		type = infantry
+		home = 284
+	}
+
+	regiment = {
+		name= "第 2.12 师 团 "
+		type = infantry
+		home = 254
+	}
+
+	regiment = {
+		name= "第 3.12 师 团 "
+		type = infantry
+		home = 258
+	}
+}
+army = {
+	name = "第 5 韵 ン ド 师 团 "
+	location = 1236
+	regiment = {
+		name= "第 1.5 韵 ン ド 师 团 "
+		type = infantry
+		home = 1236
+	}
+
+	regiment = {
+		name= "第 2.5 韵 ン ド 师 团 "
+		type = infantry
+		home = 1239
+	}
+
+	regiment = {
+		name= "第 3.5 韵 ン ド 师 团 "
+		type = infantry
+		home = 1251
+	}
+
+}
+
+navy = {
+	name = "网 峡 舰 队 "
+	location = 303
+	ship = {
+		name= "HMS エ 韵 ジ ア "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ベ ラ 韵 ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ベ レ ロ フ ォ ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ボ ン ベ 韵 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ブ リ タ ニ ア "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS カ ル カ ッ タ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS カ ン パ 艹 ダ ウ ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS カ 艹 ナ テ 耻 ッ ク "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ク ラ レ ン ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS フ ォ 艹 ミ ダ ブ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ガ ン ジ ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ヘ 韵 ス テ 耻 ン グ ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ホ 艹 ク "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS マ ラ バ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS モ ナ 艹 ク "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ネ プ チ ュ 艹 ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS パ ワ フ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS プ リ ン ス 鼍リ 艹 ジ 脉 ン ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS プ リ ン セ ス 鼍シ ャ 艹 ロ ッ ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ロ ド ニ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ロ 韵 ヤ ル 鼍ア デ レ 艹 ド "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ロ 韵 ヤ ル 鼍ジ ョ 艹 ジ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ロ 韵 ヤ ル 鼍ウ 耻 リ ア ム "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ラ ッ セ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS タ ラ ベ ラ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS サ ン ダ ラ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ヴ ァ ン ガ 艹 ド "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ベ ン ジ ャ ン ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ワ 艹 テ ル ロ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア メ リ カ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS カ 艹 ス タ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS コ ン キ ス タ ド 艹 ル "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS 韵 艹 グ ル "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS フ ォ 艹 ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS グ ロ ス タ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ピ 艹 ク "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS シ 艹 ホ 艹 ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ス タ ッ グ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS タ リ ア "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ヴ ァ 艹 ノ ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ヴ 耻 ン デ 耻 ク テ 耻 ヴ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS メ デ ア "
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "HMS フ 脉 ニ ッ ク ス "
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "第 1 予 备 舰 队 "
+	location = 303
+	ship = {
+		name= "HMS ブ レ ナ ム "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ケ ン ブ リ ッ ジ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS コ 艹 ン ウ ォ リ ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS デ 耻 フ 脉 ン ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ジ 脉 ノ ア "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ヘ ラ ク レ ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ハ ウ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ネ ル ソ ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS リ ド ウ タ ブ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ソ 艹 ル ズ ベ リ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア マ ゾ ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Fisguard"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ア 韵 シ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ラ ト ナ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS メ ラ ン パ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ミ ネ ル ヴ ァ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ネ レ ウ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS セ リ ン ガ パ タ ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS サ ウ サ ン プ ト ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ヴ 耻 艹 ナ ス "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "第 2 予 备 舰 队 "
+	location = 299 #Plymouth
+	ship = {
+		name= "HMS ヴ 脉 ロ 艹 ナ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ベ ン ボ ウ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS デ ヴ ォ ン シ ャ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ホ 艹 グ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS メ ド ウ 脉 韵 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS モ ル グ レ 韵 ヴ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ペ ン ブ ル ッ ク "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ク 耻 艹 ン 鼍シ ャ 艹 ロ ッ ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ス カ 艹 バ ラ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ス タ 艹 リ ン グ 鼍カ 艹 ス ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア ン ピ ト リ テ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ア レ ト ゥ サ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ブ ロ ン ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ブ リ リ ア ン ト "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS フ ォ ル テ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ジ ャ ワ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ロ 艹 レ ル "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS パ ラ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS シ リ ウ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ト リ ン コ マ リ 艹 "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "第 3 予 备 舰 队 "
+	location = 299 #Plymouth
+	ship = {
+		name= "HMS エ 韵 ジ ャ ク ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア ル マ ダ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS カ レ ド ニ ア "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS エ デ 耻 ン バ ラ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS エ グ モ ン ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS 韵 ン プ レ グ ナ ブ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS 韵 ン ヴ 耻 ン シ ブ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ミ ン デ ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Poictiers"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ウ ォ 艹 ス パ 韵 ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS バ ッ カ ン テ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Belvidera"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ブ リ ト ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ク レ セ ン ト "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ガ ラ テ ア "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ハ ヴ ァ ナ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS メ 艹 ド ス ト ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS メ ネ ラ 艹 オ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ニ ン フ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS テ ネ ド ス "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "第 4 予 备 舰 队 "
+	location = 301 #Canterbury
+	ship = {
+		name= "HMS フ ド ロ 韵 ア ン ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ヒ ベ ル ニ ア "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS 韵 ラ ス ト ゥ リ ア ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS 韵 ン プ ラ カ ブ ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS リ ヴ 脉 ン ジ "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア ポ ロ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ホ レ 艹 シ ョ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS レ オ ニ ダ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ナ 韵 ア 艹 ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS オ 艹 ウ 脉 ン 鼍グ レ ン ダ ウ ァ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS レ ジ ス タ ン ス "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "地 中 网 舰 队 "
+	location = 854 #Malta
+	ship = {
+		name= "HMS ア ザ ン ク 艹 ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ブ ラ ッ ク プ リ ン ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS メ ル ヴ 耻 ル "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ミ ノ タ ウ ロ ス "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ピ ッ ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ウ 脉 リ ン ト ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア ル フ レ ッ ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ア ン ド ロ メ ダ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS キ ル ケ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ク ラ 韵 ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS コ 艹 ン ウ ォ 艹 ル "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS エ ウ ロ タ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS フ ォ ッ ク ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ホ ッ ト ス パ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS レ ダ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ペ ネ ロ ペ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS プ レ ジ デ ン ト "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS プ ロ セ ル ピ ナ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS サ ラ マ ン ダ 艹 "
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "リ ス ボ ン 陷 留 舰 队 "
+	location = 517 #Gibraltar
+	ship = {
+		name= "HMS Africaine"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ケ ル ベ ロ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ネ メ シ ス "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "北 ア メ リ カ 陷 留 舰 队 "
+	location = 71 #Halifax
+	ship = {
+		name= "HMS セ ン ト 鼍 ヴ 耻 ン セ ン ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ウ 脉 ル ズ リ 艹 "
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS ア 韵 オ ロ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS バ ラ ム "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS デ 耻 艹 ダ ラ ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ド ル 韵 ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ダ ブ リ ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ヘ 艹 ベ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS マ 艹 キ ュ リ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS マ 艹 メ 韵 ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ラ ダ マ ン テ ュ ス "
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "南 大 西 洋 陷 留 舰 队 "
+	location = 2131 # Falklands
+	ship = {
+		name= "HMS ハ マ ド リ ュ ア ス "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ラ ン カ ス タ 艹 "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS テ ム ズ "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS テ 耻 ス ベ "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "西 ア フ リ カ 陷 留 舰 队 "
+	location = 1884 #Freetown
+	ship = {
+		name= "HMS ダ 韵 ア ナ "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "东 韵 ン ド 陷 留 舰 队 "
+	location = 1321 #Colombo
+	ship = {
+		name= "HMS マ ダ ガ ス カ ル "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ポ 艹 ト ラ ン ド "
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS ウ 耻 ン チ 脉 ス タ 艹 "
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "第 1 输 送 舰 队 "
+	location = 303
+	ship = {
+		name= "第 1 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 2 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 3 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 4 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 5 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 6 输 送 队 "
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "第 23 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 24 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 25 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 26 输 送 队 "
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "第 2 输 送 舰 队 "
+	location = 854
+	ship = {
+		name= "第 7 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 8 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 9 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 10 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 19 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 20 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 21 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 22 输 送 队 "
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "第 3 输 送 舰 队 "
+	location = 1321 #Colombo
+	ship = {
+		name= "第 11 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 12 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 13 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 14 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 15 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 16 输 送 队 "
+		type = clipper_transport
+	}
+	ship = {
+		name= "第 17 输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 18 输 送 队 "
+		type = clipper_transport
+	}
+
+}
+

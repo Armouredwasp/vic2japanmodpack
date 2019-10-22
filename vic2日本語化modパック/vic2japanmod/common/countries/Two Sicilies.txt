@@ -1,0 +1,158 @@
+color = { 73  152  76 }
+graphical_culture = Generic
+
+party = {
+	name = "SIC_reactionary"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "SIC_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SIC_liberal"
+	start_date = 1830.1.1
+	end_date = 1890.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SIC_liberal_2"
+	start_date = 1890.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SIC_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SIC_conservative_2"
+	start_date = 2000.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SIC_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SIC_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SIC_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"¥¢ ¥ë ¥Õ ¥© ¥ó ¥½ 1ÊÀ " "¥Ç ¥å ¥« ö¾¥Ç ³Ü ö¾¥« ¥é ¥Ö ¥ê ¥¢ " "¥Ç ¥å ¥« ö¾¥Ç ³Ü ö¾¥« ¥¹ ¥È ¥í " "¥Ç ¥å ¥« ö¾¥Ç ³Ü ö¾¥ÎÜ³¥È " "¥É ¥¥ ¥¨ ö¾¥· ¥Á ¥ê ¥¨ " "¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥É 3ÊÀ " "¥ì ¥¢ Ü³ ¥ì " "¥ì ¥¸ Ü³ ¥Ê " "¥ì ¥° ¥Î ö¾¥Ç ³Ü ö¾¥Ê ¥Ý ¥ê " "¥ì ¥° ¥Î ö¾¥Ç ³Ü ö¾¥· ¥Á ¥ê ¥¢ "
+	}
+	ironclad = {
+		"¥¢ ¥ë ¥­ ¥á ¥Ç " "¥³ ¥ó ¥Æ ö¾¥Ç ¥Ã ¥é ¥¯ ÔÏ ¥é " "¥³ ¥ó ¥Æ ö¾¥Ç ³Ü ö¾¥Ð Ü³ ¥ê " "¥³ ¥ó ¥Æ ö¾¥Ç ³Ü ö¾¥¸ ¥ë ¥¸ Âö ¥ó ¥Æ ³Ü " "¥³ ¥ó ¥Æ ö¾¥Ç ³Ü ö¾¥ì ¥Ã ¥Á Âö " "¥³ ¥ó ¥Æ ö¾¥Ç ³Ü ö¾¥È ¥é Ü³ ¥Ë " "¥³ ¥ó ¥Æ ö¾¥Ç ³Ü ö¾¥È ¥é Ü³ ¥Ñ ¥Ë " "¥Ç ¥å ¥« ö¾¥Ç ¥Ã ¥ì ö¾¥× Ü³ ¥ê ¥¨ " "¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥É 1ÊÀ " "¥× ¥ê ¥ó ¥Á ¥Ú ö¾¥Ç ³Ü ö¾¥« ¥× ¥¢ "
+	}
+	manowar = {
+		"¥¢ ¥Þ ¥ê ¥¢ " "¥¯ ¥ê ¥¹ ¥Æ ³Ü Ü³ ¥Ê " "ÔÏ ¥ó ¥È ¥ì Ü³ ¥Ô ¥É " "ÔÏ ¥¶ ¥Ù ¥Ã ¥é " "¥ß ¥Í ¥ë ¥ô ¥¡ " "¥â ¥Ê ¥ë ¥« " "¥Ñ ¥ë ¥Æ ¥Î ¥Ú " "¥ì ¥¸ Ü³ ¥Ê " "¥µ ¥ó ö¾¥¸ Âö ¥Ê Ü³ ¥í " "¥ô Âö ¥¹ ¥ô ³Ü ¥ª "
+	}
+	cruiser = {
+		"¥¢ ¥Ö ¥ë ¥Ã ¥Ä ¥© " "¥Ð Ü³ ¥ê " "¥Ð ¥¸ ¥ê ¥« Ü³ ¥¿ " "¥« ¥é ¥Ö ¥ê ¥¢ " "¥« ¥Ô ¥¿ ¥Ê Ü³ ¥¿ " "¥Õ ¥é ¥ó ¥Á Âö ¥¹ ¥³ 2ÊÀ " "¥â ¥ê Ü³ ¥¼ " "¥ª ¥È ¥é ¥ó ¥È " "¥× ¥ê ¥ó ¥Á ¥Ñ ¥È "
+	}
+	frigate = {
+		"¥Ü ¥ë ¥Ü Ü³ ¥Í " "¥¨ ¥ë ¥³ ¥ì " "¥¨ ¥Ã ¥È Ü³ ¥ì ö¾¥Õ ³Ü ¥¨ ¥é ¥â ¥¹ ¥« " "¥Õ ¥¡ ¥ë ¥Í Ü³ ¥¼ " "¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥É 2ÊÀ " "¥Õ ¥ë ¥ß ¥Ê Ü³ ¥ó ¥È " "¥â ¥Ê ¥ë ¥« " "¥Ê ¥Ý ¥ê " "¥í ¥Ù ¥ë ¥È " "¥¦ ¥é ¥Ë ¥¢ "
+	}
+	monitor = {
+		"¥¢ ¥ë ¥¿ ¥ô ³Ü ¥Ã ¥é " "¥¢ ¥ó ¥¸ ¥ç " "¥¢ ¥é ¥´ Ü³ ¥Ê " "¥¢ ¥¦ ¥¹ ¥È ¥ê ¥¢ " "¥Õ Âö ¥Ç ¥ê ¥³ 2ÊÀ " "¥° ÔÏ ¥¹ ¥« ¥ë ¥É " "¥Ô ¥¨ ¥È ¥í 1ÊÀ " "¥ë ¥Ã ¥¸ Âö Ü³ ¥í " "¥¹ ¥ô Âö Ü³ ¥ô ³Ü ¥¢ " "¥¿ ¥ó ¥¯ ¥ì ¥Ç ³Ü "
+	}
+	clipper_transport = {
+		"¥¢ ¥¦ ¥í ¥é " "¥¨ ¥È ¥Ê " "¥Õ ¥¡ ¥Þ " "¥Õ ¥í Ü³ ¥é " "¥Õ ¥© ¥ë ¥È ¥¥ ¥Ê " "¥¬ ¥é ¥Æ ¥¢ " "¥µ ¥ó ö¾¥¢ ¥ó ¥È ¥Ë ¥ª " "¥µ ¥ó ö¾¥« ¥ë ¥í " "¥µ ¥ó ö¾¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥É " "¥µ ¥ó ö¾¥Õ ³Ü ¥ê ¥Ã ¥Ý "
+		"¥µ ¥ó ö¾¥¬ ¥Ö ¥ê ¥¨ Ü³ ¥ì " "¥µ ¥ó ö¾¥¸ ¥ç ¥ô ¥¡ ¥ó ¥Ë " "¥µ ¥ó ö¾¥ë ÔÏ Ü³ ¥¸ " "¥µ ¥ó ö¾¥ë ÔÏ Ü³ ¥¸ ö¾¥´ ¥ó ¥¶ Ü³ ¥¬ " "¥µ ¥ó ö¾¥Ñ ¥¹ ¥¯ ¥¢ Ü³ ¥ì " "¥µ ¥ó ¥Ë Ü³ ¥¿ " "¥µ ¥ó ¥¿ ö¾¥¨ ¥ê ¥¶ ¥Ù ¥Ã ¥¿ " "¥¹ ¥Ñ ¥ë ¥Æ ³Ü ¥ô ³Ü ¥¨ ¥í " "¥¹ ¥¿ Ü³ ¥Ó ¥¢ " "¥ô ¥ë ¥« Ü³ ¥Î "
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+		"¥¢ ¥ì ¥Æ ¥å ¥µ " "¥Á Âö ¥ì ¥ì " "¥³ ¥í ¥Ê " "¥ì ¥ª ¥Ê " "¥ß ¥Í ¥ë ¥ô ¥¡ " "¥Ñ ¥é ¥Ã ¥Ç " "¥µ ¥ó ¥¿ ö¾¥ë ¥Á ¥¢ " "¥· ¥Ó ¥Ã ¥é " "¥· ¥ì Ü³ ¥Ê " "¥ô Âö ¥Í ¥ì "
+	}
+}

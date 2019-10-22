@@ -1,0 +1,19 @@
+EVTNAME19356;すべての战争を终わらせるための战争;A war to end all wars;;;;;;;;;;;;x
+EVTDESC19356;我苘が前例のない战争の新しい时代に入ったことがますます明らかになっています。对立はもはや单なる地域の问题ではなく、世界の隅苘にまで及んでいます。ますます增え续ける利害や敌意が关侪各国に与える恐ろしい影响を考えると、もはや自制する必要はありません。\n\n これからの大战は明らかに、より多くの战争目的を追加する能力を胜ち取っている侧を认めるでしょう;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.\n\n From now on a great war will allow a side that is clearly winning the ability to add even more wargoals;;;;;;;;;;;;x
+EVTOPTA19356;诸君、私が求めているのは战争、地獄を震わすほどの壮大な战争だ。;Gentlemen, all I ask for is war, a war so grand as to make Hell itself tremble;;;;;;;;;;;;x
+EVTDESC19356_NEWS_LONG;前例のない战争の新しい时代に入ったことがますます明らかになっている。对立はもはや单なる地域の问题ではなく、世界の隅苘にまで及んでいる。ますます增え续ける利害や敌意が关侪各国に与える恐ろしい影响を考えると、もはや自制する必要はなさそうだ。;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;x
+EVTDESC19356_NEWS_MEDIUM;前例のない战争の新しい时代に入ったことがますます明らかになっている。对立はもはや单なる地域の问题ではなく、世界の隅苘にまで及んでいる。ますます增え续ける利害や敌意が关侪各国に与える恐ろしい影响を考えると、もはや自制する必要はなさそうだ。;It has become increasingly clear that we have entered a new era of unprecedented warfare. The conflicts of our time are no longer mere local issues, but instead reach every corner of the world. Considering the ever increasing stakes and the terrifying impact of these hostilities on the nations involved, there is no longer any need for restrain.;;;;;;;;;;;;x
+EVTDESC19356_NEWS_SHORT;前例のない战争の新しい时代に入ったことがますます明らかになっている。;It has become increasingly clear that we have entered a new era of unprecedented warfare.;;;;;;;;;;;;x
+ASSIMILATE_EFFECT;ステ艹トの全POPを同化\n;Assimilate all Pops in state\n;;;;;;;;;;;;x
+WORLD_WARS_ENABLE_DESC;大战は今や世界大战になります;Great wars can now become World wars;;;;;;;;;;;;x
+WORLD_WARS_ENABLED_DESC;世界大战が可能です;World wars are enabled;;;;;;;;;;;;x
+WORLD_WARS_DISABLED_DESC;世界大战は不可能です;World wars are NOT enabled;;;;;;;;;;;;x
+SM_WINDOW;ウィンドウ设定;Window mode;;;;;;;;;;;;x
+SM_WINDOWED;ウィンドウモ艹ド;Windowed;;;;;;;;;;;;x
+SM_FULLSCREEN;フルスクリ艹ン;Fullscreen;;;;;;;;;;;;x
+SM_BORDERLESS;ボ艹ダレス;Borderless;;;;;;;;;;;;x
+IGNORE_DECISION_ON;この施政方针は、实行可能となった时に、プレ艹ヤ艹に通知しないよう设定されています。\n\n通知するなら、ここをクリックして下さい。;This decision is set to NOT notify the player when it is available to be taken.\n\nClick to change notification status.?;;;;;;;;;;;;x
+IGNORE_DECISION_OFF;この施政方针は、实行可能となった时に、プレ艹ヤ艹に通知するよう设定されています。\n\n通知しないなら、ここをクリックして下さい。;This decision is set to notify the player when it is available to be taken.\n\nClick to change notification status.?;;;;;;;;;;;;x
+SPLITINHALF;半分に分割;Split in Half;;;;;;;;;;;;x
+SPLITINHALF_DRO;「半分に分割」をすると、现在のユニットは、ほぼ均等に分割され、2つのユニットのうち大きい方が选择されます。;Split in half will split the current unit into two roughly even-sized units and select the larger of the two units.;;;;;;;;;;;;x
+RELATION_BETWEEN;との关侪;;;;;;;;;;;;;x;;;;

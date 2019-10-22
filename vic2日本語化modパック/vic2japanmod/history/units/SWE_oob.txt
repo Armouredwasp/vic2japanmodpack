@@ -1,0 +1,200 @@
+
+leader = {
+	name = "カ 艹 ル 鼍ノ ル デ ン シ 脉 ル ド "
+	date = 1834.1.1
+	type = sea
+	personality = disciplined
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "カ 艹 ル 14世 ヨ ハ ン "
+	date = 1818.1.1
+	type = land
+	personality = charismatic
+	background = elderly
+	prestige = 0.5
+}
+
+leader = {
+	name = "Johan Tawast"
+	date = 1807.1.1
+	type = land
+	personality = soldierly
+	background = old_school
+	prestige = 0.3
+}
+
+leader = {
+	name = "Axel Morner"
+	date = 1818.1.1
+	type = land
+	personality = unruly
+	background = generals_aide
+	prestige = 0.2
+}
+
+leader = {
+	name = "バ ル ツ ァ 艹 ル 鼍フ ォ ン 鼍プ ラ テ ン "
+	date = 1834.1.1
+	type = sea
+	personality = able
+	background = adventurer
+	prestige = 0.1
+}
+
+leader = {
+	name = "C. Cederstrom"
+	date = 1824.1.1
+	type = land
+	personality = strange
+	background = hated
+	prestige = 0.1
+}
+
+leader = {
+	name = "af Billbergh"
+	date = 1814.1.1
+	type = land
+	personality = diplomatic
+	background = toady
+	prestige = 0.2
+}
+
+leader = {
+	name = "Gustaf Peyron"
+	date = 1827.1.1
+	type = land
+	personality = imperious
+	background = exranker
+	prestige = 0.1
+}
+
+army = {
+	name = "ス ウ 脉 艹 デ ン 军 "
+	location = 322
+	regiment = {
+		name= "近 卫 兵 队 "
+		type = guard
+		home = 322
+	}
+
+	regiment = {
+		name= "セ 艹 デ ル マ ン ラ ン ド 连 队 "
+		type = infantry
+		home = 326
+	}
+
+	regiment = {
+		name= "第 1掷 弹 兵 连 队 "
+		type = infantry
+		home = 325
+	}
+
+	regiment = {
+		name= "ウ プ ラ ン ド 连 队 "
+		type = infantry
+		home = 324
+	}
+
+	regiment = {
+		name= "ヴ 脉 ス ト ゲ 艹 タ 连 队 "
+		type = infantry
+		home = 330
+	}
+
+	regiment = {
+		name= "カ ル マ ル 连 队 "
+		type = infantry
+		home = 332
+	}
+
+	regiment = {
+		name= "ヨ ン シ ョ 艹 ピ ン グ 连 队 "
+		type = infantry
+		home = 333
+	}
+
+	regiment = {
+		name= "セ 艹 ド ラ 鼍ス コ ン ス カ 步 兵 连 队 "
+		type = infantry
+		home = 334
+	}
+
+	regiment = {
+		name= "王 太 子 骑 兵 连 队 "
+		type = hussar
+		home = 335
+	}
+
+	regiment = {
+		name= "ノ ル ラ ン ズ 龙 骑 兵 连 队 "
+		type = dragoon
+		home = 321
+	}
+
+}
+
+navy = {
+	name = "ス ウ 脉 艹 デ ン 舰 队 "
+	location = 322
+	ship = {
+		name= "カ 艹 ル 13世 "
+		type = manowar
+	}
+
+	ship = {
+		name= "カ 艹 ル 14世 ヨ ハ ン "
+		type = manowar
+	}
+
+	ship = {
+		name= "フ 脉 艹 ダ 艹 ネ ス ラ ン デ ッ ト "
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten"
+		type = manowar
+	}
+
+
+	ship = {
+		name= "カ ミ ラ "
+		type = frigate
+	}
+
+	ship = {
+		name= "ア フ 鼍チ ャ ッ プ マ ン "
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice"
+		type = frigate
+	}
+
+	ship = {
+		name= "ガ ラ テ ア "
+		type = frigate
+	}
+
+
+	ship = {
+		name= "第 1输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 2输 送 队 "
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "第 3输 送 队 "
+		type = clipper_transport
+	}
+
+}
+

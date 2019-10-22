@@ -1,0 +1,26 @@
+PV_INTERNAL_IMMIGRATION;国内での移住：;Internal Migration: ;;;;;;;;;;;;x
+PV_EXTERNAL_IMMIGRATION;外国への移住：;External Migration: ;;;;;;;;;;;;x
+COUNTRYALERT_CanRemoveFromSphere;我が国の势力囵から所属する国を除外できます：;We can remove nations from our Sphere of Influence?:;;;;;;;;;;;;x
+PV_CLERGY_LIT_DESC1;$LOC$の人口のうち$NUM$は圣职者です。;$NUM$ of your population in $LOC$ are Clergy.;;;;;;;;;;;;x
+PV_CLERGY_LIT_DESC2;最适值は$OPT$です。;Optimal is $OPT$.;;;;;;;;;;;;x
+PV_CLERGY_LIT_DESC3;基本值の月次变化：$VAL$;Monthly change base value: $VAL$;;;;;;;;;;;;x
+IN_SOCIAL_MOVEMENT;社会运动に参加している;in social movement;;;;;;;;;;;;x
+NOT_IN_SOCIAL_MOVEMENT;社会运动に参加していない;not in social movement;;;;;;;;;;;;x
+IN_POLITICAL_MOVEMENT;政治运动に参加している;in political movement;;;;;;;;;;;;x
+NOT_IN_POLITICAL_MOVEMENT;政治运动に参加していない;not in political movement;;;;;;;;;;;;x
+the_meiji_restoration2_title;早期明治维新;Early Meiji Restoration;;;;;;;;;;;;x
+the_meiji_restoration2_desc;日本は、纪元前660年に、神武天皇によって建国されたと传统的には考えられてきました。それ以诟、天皇家は绝えることなく续いてきました。江户时代の间はずっと、朝廷の权威は小さなものに过ぎず、敬服されていたものの、その政治的权力はほとんどありませんでした。しかし、王政复古を受け入れ、产业近代化、立宪体制や经济の自由の确立などを早急に实施することで、日本は西洋世界の无理强いという足かせを打破することができるかもしれません。;Japan is traditionally considered to have been founded by Emperor Jimmu in 660 B.C. and while the Imperial Lineage was still considered unbroken since then the Imperial Office had throughout the Edo period	 been reduced to a revered and respected but ultimately	 politically powerless institution. By embracing a restoration of Imperial Rule	 along with a programme of swift industrial modernization constitutionalism and economic freedom Japan might be able to break the fetters placed upon her by the impositions of the Western World.;;;;;;;;;;;;x
+TPG;太平天国;Heavenly Kingdom;;;;;;;;;;;x
+TPG_democracy;太平民国;Taiping Republic;;;;;;;;;;;;x
+TPG_bourgeois_dictatorship;太平民国;Taiping Republic;;;;;;;;;;;;x
+TPG_proletarian_dictatorship;太平人民共和国;Communist Taiping;;;;;;;;;;;;x
+TPG_fascist_dictatorship;太平天国;Taiping;;;;;;;;;;;;x
+TPG_presidential_dictatorship;太平天国;Taiping Clique;;;;;;;;;;;;x
+TPG_ADJ;太平领;Taiping;;;;;;;;;;;x
+TPG_conservative;西王;West King;;;;;;;;;;;x
+TPG_liberal;翼王;Yi King;;;;;;;;;;;x
+TPG_reactionary;东王;East King;;;;;;;;;;;x
+TPG_socialist;北王;North King;;;;;;;;;;;x
+TPG_anarcho_liberal;急进派;The Radical Faction;;;;;;;;;;;x
+TPG_communist;共产主义派;The Communist Faction;;;;;;;;;;;x
+TPG_fascist;ファシスト派;The Fascist Faction;;;;;;;;;;;x

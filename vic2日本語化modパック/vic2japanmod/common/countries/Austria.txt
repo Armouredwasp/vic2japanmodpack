@@ -1,0 +1,264 @@
+color = { 236  236  236 }
+graphical_culture = AustriaHungaryGC
+
+party = {
+	name = "AUS_conservative"
+	start_date = 1836.1.1
+	end_date = 1848.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "AUS_conservative_2"
+	start_date = 1836.1.1
+	end_date = 1848.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "AUS_reactionary"
+	start_date = 1836.1.1
+	end_date = 1867.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "AUS_socialist"
+	start_date = 1848.1.1
+	end_date = 1867.1.1
+
+	ideology = socialist
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "AUS_liberal"
+	start_date = 1836.1.1
+	end_date = 1867.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "AUS_conservative_3"
+	start_date = 1848.1.1
+	end_date = 1867.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "AUS_conservative_4"
+	start_date = 1867.1.1
+	end_date = 1879.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "AUS_socialist_2"
+	start_date = 1867.1.1
+	end_date = 1900.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "AUS_reactionary_2"
+	start_date = 1867.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "AUS_conservative_5"
+	start_date = 1879.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "AUS_liberal_2"
+	start_date = 1867.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "AUS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "AUS_socialist_3"
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "AUS_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "AUS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+#Same as for Austria-Hungary
+unit_names = {
+	dreadnought = {
+		"¥« ÔÏ ¥¶ Ü³ ö¾¥Þ ¥Ã ¥¯ ¥¹ " "¥É ¥ó ö¾¥Õ ¥¡ ¥ó ö¾¥À ¥¦ ¥¹ ¥È ¥ê ¥¢ " "¥¢ ¥¦ ¥¹ ¥È ¥ê ¥¢ " "¥Ï ¥ó ¥¬ ¥ê Ü³ " "¥Ö ¥À ¥Ú ¥· ¥å ¥È " "¥¦ ³Ü Ü³ ¥ó " "¥× ¥é ¥Ï "
+		"¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥« Ü³ ¥ë " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥È ö¾¥Þ ¥Ã ¥¯ ¥¹ " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥Õ ¥ê Ü³ ¥É ¥ê ¥Ò " "K. Erz. Stephanie" "K. Erz. Rudolf"
+		"¥¼ ¥ó ¥È ö¾¥é Ü³ ¥¹ ¥í Ü³ " "¥â ¥Ê ¥ë ¥Ò " "¥¢ Ü³ ¥ë ¥Ñ Ü³ ¥É " "¥Ð Ü³ ¥Ù ¥ó ¥Ö ¥ë ¥¯ " "Custoza" "¥« ÔÏ ¥¶ Ü³ ö¾¥Õ ¥é ¥ó ¥Ä 1ÊÀ " "¥« ÔÏ ¥¶ Ü³ ö¾¥« Ü³ ¥ë 5ÊÀ "
+		"¥« ÔÏ ¥¶ Ü³ ö¾¥Õ ¥é ¥ó ¥Ä ö¾¥è Ü³ ¥¼ ¥Õ 2ÊÀ " "¥« ÔÏ ¥¼ ¥ê ¥ó ö¾¥Þ ¥ê ¥¢ ö¾¥Æ ¥ì ¥¸ ¥¢ " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥Õ ¥é ¥ó ¥Ä ö¾¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥È " "¥é ¥Ç ¥Ä ¥­ Ü³ "
+		"¥º ¥ê Ü³ ¥Ë ³Ü " "¥Õ ³Ü ¥ê ¥Ö ¥¹ ö¾¥¦ ¥Ë ¥Æ ³Ü ¥¹ " "¥Æ ¥² ¥È ¥Õ " "¥× ¥ê ¥ó ¥Ä ö¾¥ª ÔÏ ¥² ¥ó " "¥× ¥ê ¥ó ¥Ä ö¾¥á ¥Ã ¥Æ ¥ë ¥Ë ¥Ò " "¥¼ ¥ó ¥È ö¾ÔÏ ¥· ¥å ¥È ¥ô ¥¡ Ü³ ¥ó "
+	}
+	battleship = {
+		"¥Ï ¥× ¥¹ ¥Ö ¥ë ¥¯ " "¥¢ Ü³ ¥ë ¥Ñ Ü³ ¥É " "¥Ð Ü³ ¥Ù ¥ó ¥Ö ¥ë ¥¯ " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥« Ü³ ¥ë " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥Õ ¥ê Ü³ ¥É ¥ê ¥Ò " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥È ö¾¥Þ ¥Ã ¥¯ ¥¹ " "¥¨ ¥ë ¥Ä ¥Ø ¥ë ¥Ä ¥© Ü³ ¥¯ ö¾¥Õ ¥é ¥ó ¥Ä ö¾¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥È " "¥é ¥Ç ¥Ä ¥­ Ü³ " "¥º ¥ê Ü³ ¥Ë ³Ü "
+	}
+	ironclad = {
+		"Hum" "¥È ¥é ¥Ð ¥ó ¥È " "¥¿ ¥¦ ¥ë ¥¹ " "¥ô Âö ¥¹ ¥¿ " "¥À ¥ë ¥Þ ¥È " "¥« ¥á ¥ê ¥ª ¥ó " "¥³ ¥Ú ¥ë ¥Ë ¥¯ " "¥É ¥é ¥Ã ¥Ø " "¥µ ¥é ¥Þ ¥ó ¥À Ü³ "
+		"¥¢ ¥¯ ³Ü ¥é " "¥· ¥å ¥Æ ¥ë ¥Í ¥Ã ¥¯ " "Principesse Augusta" "¥Þ ¥í ¥· ¥å " "¥é ÔÏ ¥¿ "
+		"¥¶ ¥â ¥· ¥å " "¥± ¥ì ¥· ¥å " "¥ì Ü³ ¥« " "¥² Ü³ ¥¢ " "¥® ¥¬ ¥ó ¥È "
+	}
+	manowar = {
+		"¥Ï ¥× ¥¹ ¥Ö ¥ë ¥¯ " "¥ô ³Ü ¥ê ¥Ö ¥¹ ö¾¥¦ ¥Ë ¥Æ ³Ü ¥¹ " "¥Õ Âö ¥ë ¥Ç ³Ü ¥Ê ¥ó ¥È ö¾¥Þ ¥Ã ¥¯ ¥¹ " "¥¢ ¥¯ ³Ü ¥é " "¥â ¥ó ¥Æ ¥¯ ¥Ã ¥³ ¥ê " "¥· ¥å ¥Æ ¥ë ¥Í ¥Ã ¥¯ "
+		"¥« ÔÏ ¥¼ ¥ê ¥ó ö¾¥Þ ¥ê ¥¢ ö¾¥Æ ¥ì ¥¸ ¥¢ " "¥é ¥Ç ¥Ä ¥­ Ü³ "
+	}
+	cruiser = {
+		"¥Ï ¥× ¥¹ ¥Ö ¥ë ¥¯ " "¥« ÔÏ ¥¶ Ü³ ö¾¥« Ü³ ¥ë 4ÊÀ " "¥¶ ¥ó ¥¯ ¥È ö¾¥² ¥ª ¥ë ¥¯ " "¥¢ ¥É ¥ß ¥é ¥ë ö¾¥· ¥å ¥Ñ ¥¦ ¥ó " "¥µ ÔÏ ¥À " "¥Ø ¥ë ¥´ ¥é ¥ó ¥È "
+		"¥Î ¥ô ¥¡ Ü³ ¥é " "¥É ¥Ê ¥¦ " "¥é ¥¦ ¥É ¥ó " "¥ß ¥Í ¥ë ¥ô ¥¡ " "¥Æ ³Ü Ü³ ¥¬ Ü³ " "¥ì ¥ª ¥Ý ¥ë ¥È " "¥Ñ ¥ó ¥¿ Ü³ " "¥Á Âö ¥Ú ¥ë " "¥É ¥¥ ¥¯ ¥é "
+		"¥« ÔÏ ¥Þ ¥ó " "¥¼ ¥ó ¥¿ " "¥¸ ¥² ¥È ¥ô ¥¡ Ü³ ¥ë " "¥¢ ¥¹ ¥Ú ¥ë ¥ó " "¥Ü ¥¢ " "¥× ¥ë Ü³ ¥È " "¥¼ ¥ó ¥¿ " "¥¦ ¥Ä ¥© Ü³ ¥¯ " "¥¦ Ü³ ¥é ¥ó " "¥ô ¥¡ ¥é ¥¹ ¥Ç ³Ü ¥Ê Ü³ "
+		"¥· ¥å ¥È ¥é ÔÏ ¥¿ Ü³ " "¥· ¥ã ¥ë ¥Õ ¥· ¥å ¥Ã ¥Ä Âö " "¥ô ³Ü ¥ë ¥È ¥Õ ¥¡ ¥ó ¥° " "¥Ø Ü³ ¥Ò ¥· ¥å ¥Æ ¥Ã ¥È " "¥· ¥å ¥ô ¥¡ ¥ë ¥Ä Âö ¥ó ¥Ù ¥ë ¥¯ " "¥Õ ¥ë ¥ó ¥Ä ¥Ù ¥ë ¥¯ "
+		"¥« ÔÏ ¥¼ ¥ê ¥ó ö¾¥¨ ¥ê Ü³ ¥¶ ¥Ù ¥È " "¥« ÔÏ ¥¶ Ü³ ö¾¥Õ ¥é ¥ó ¥Ä ö¾¥è Ü³ ¥¼ ¥Õ 1ÊÀ " "¥¢ ¥¦ ¥í ¥é " "ÔÏ ¥ó " "¥Ý Ü³ ¥é " "¥È ¥ê ¥¨ ¥¹ ¥È "
+		"¥ê ¥Ã ¥µ " "¥¿ ¥È ¥é " "¥È ¥ê ¥° ¥é ¥Õ " "¥Ð ¥é ¥È ¥ó " "¥Á Âö ¥Ú ¥ë " "¥Õ ¥¶ Ü³ ¥ë "
+	}
+	frigate = {
+		"¥° Âö ¥Ã ¥ê ¥¨ ¥é " "¥Ù ¥í Ü³ ¥Ê " "¥á ¥Ç ¥¢ " "¥ô Âö Ü³ ¥Ì ¥¹ " "¥¢ ¥É ¥ß ¥é ¥ë ö¾¥· ¥å ¥Ñ ¥¦ ¥ó " "¥« ÔÏ ¥¼ ¥ê ¥ó ö¾¥¨ ¥ê Ü³ ¥¶ ¥Ù ¥È " "¥µ ÔÏ ¥À "
+		"¥¶ ¥ó ¥¯ ¥È ö¾¥² ¥ª ¥ë ¥¯ " "¥¢ ¥¦ ¥¹ ¥È ¥ê ¥¢ " "¥· ¥å ¥ô ¥¡ ¥ë ¥Ä Âö ¥ó ¥Ù ¥ë ¥¯ " "¥¢ ¥¦ ¥í ¥é " "¥É ¥Ê ¥¦ " "ÔÏ ¥ó " "¥Ý Ü³ ¥é " "¥È ¥ê ¥¨ ¥¹ ¥È "
+	}
+	monitor = {
+		"Principesse Augusta" "¥Þ ¥í ¥· ¥å " "¥é ÔÏ ¥¿ " "¥¶ ¥â ¥· ¥å " "¥± ¥ì ¥· ¥å " "¥ì Ü³ ¥« " "¥² Ü³ ¥¢ " "¥® ¥¬ ¥ó ¥È " "Hum"
+		"¥È ¥é ¥Ð ¥ó ¥È " "¥¿ ¥¦ ¥ë ¥¹ " "¥ô Âö ¥¹ ¥¿ " "¥À ¥ë ¥Þ ¥È " "¥« ¥á ¥ê ¥ª ¥ó " "¥³ ¥Ú ¥ë ¥Ë ¥¯ " "¥É ¥é ¥Ã ¥Ø " "¥¶ ¥é ¥Þ ¥ó ¥À Ü³ "
+		"¥¢ ¥¯ ³Ü ¥é " "¥· ¥å ¥Æ ¥ë ¥Í ¥Ã ¥¯ "
+	}
+	clipper_transport = { 
+		"µÚ 1 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 2 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 3 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 4 ¿ì ËÙ ·« ´¬ ¶Ó "
+		"µÚ 5 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 6 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 7 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 8 ¿ì ËÙ ·« ´¬ ¶Ó "
+		"µÚ 9 ¿ì ËÙ ·« ´¬ ¶Ó " "µÚ 10¿ì ËÙ ·« ´¬ ¶Ó "
+	}
+	steam_transport = { 
+	}
+	commerce_raider = {
+		"¥Î ¥ô ¥¡ Ü³ ¥é " "¥· ¥å ¥ô ¥¡ ¥ë ¥Ä Âö ¥ó ¥Ù ¥ë ¥¯ " "¥Ø ¥ë ¥´ ¥é ¥ó ¥È " "¥Õ ¥ë ¥ó ¥Ä ¥Ù ¥ë ¥¯ " "¥¢ ¥¦ ¥í ¥é " "¥µ ÔÏ ¥À " "¥Î Ü³ ¥Æ ³Ü ¥é ¥¹ "
+		"¥¢ ¥ë ¥Ð ¥È ¥í ¥¹ " "¥É ¥Ê ¥¦ " "¥é ¥¯ ¥í ¥Þ " "¥ê ¥« " "Principesse Augusta" "¥¢ ¥¦ ¥¹ ¥È ¥ê ¥¢ "
+		"¥µ ÔÏ ¥À " "¥Þ ¥ê ¥¢ ö¾¥Æ ¥ì ¥¸ ¥¢ " "¥Ø Ü³ ¥Ò ¥· ¥å ¥Æ ¥Ã ¥È " "¥Õ ¥¡ ¥ë ¥± " "¥¢ ¥É ¥é Ü³ " "¥Ç ¥ë ¥Õ ³Ü Ü³ ¥ó "
+	}
+}

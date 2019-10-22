@@ -1,0 +1,240 @@
+color = { 101  102  163 }
+graphical_culture = SouthAmericanGC
+party = {
+	name = "ARG_liberal"
+	start_date = 1856.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_liberal_2"
+	start_date = 1835.1.1
+	end_date = 1856.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_conservative"
+	start_date = 1835.1.1
+	end_date = 1870.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "ARG_conservative_2"
+	start_date = 1871.1.1
+	end_date = 1874.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_conservative_3"
+	start_date = 1874.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "ARG_conservative_4"
+	start_date = 1868.1.1
+	end_date = 1874.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_liberal_3"
+	start_date = 1890.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "ARG_conservative_5"
+	start_date = 1891.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_liberal_4"
+	start_date = 1891.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "ARG_reactionary"
+	start_date = 1820.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "ARG_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ARG_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"ARA ¥¢ ¥ë ¥Ù ¥¢ ¥ë " "ARA ¥¢ ¥ë ¥Ø ¥ó ¥Æ ³Ü ¥Ê " "ARA ¥Ø ¥Í ¥é ¥ë ö¾¥í ¥µ ¥¹ " "ARA ¥â ¥ì ¥Î " "ARA ¥Ñ ¥¹ " "ARA ¥× ¥ì ¥¸ ¥Ç ¥ó ¥Æ ö¾¥¢ ¥Ù ¥¸ ¥ã ¥Í Ü³ ¥À " "ARA ¥ê ¥ª ö¾¥Ç ö¾¥é ö¾¥× ¥é ¥¿ " "ARA ¥ê ¥Ð ¥À ¥Ó ¥¢ " "ARA ¥µ ¥ó ö¾ ¥Þ ¥ë ¥Æ ³Ü ¥ó " "ARA ¥¦ ¥ë ¥­ ¥µ " 
+		"ARA ÔÏ ¥ê ¥´ Ü³ ¥¸ Âö ¥ó "
+	}
+	ironclad = {
+		"ARA ¥¢ ¥ë ¥ß ¥é ¥ó ¥Æ ö¾¥Ö ¥é ¥¦ ¥ó " "ARA Bouchard" "ARA ¥« ¥ó ¥Ô ¥Á ¥å ¥¨ ¥í " "ARA ¥» ¥Ú ¥À " "ARA ¥Ç ö¾¥é ¥¹ ö¾¥¨ ¥é ¥¹ " "ARA ¥Õ Âö ¥Ç ¥é ¥· ¥ª ¥ó " "ARA Huamita" "ARA ÔÏ ¥ó ¥Ç ¥Ú ¥ó ¥Ç ¥ó ¥· ¥¢ " "ARA ¥Õ ¥Ô ¥Æ ¥ë " "ARA ¥é ¥Ð ¥¸ Âö "
+		"ARA ¥ê ¥Ù ¥ë ¥¿ " "ARA ¥Þ ¥ë ¥Æ " "ARA ¥á ¥ë ¥¯ ¥ê ¥ª " "ARA ¥Í ¥× ¥È ¥¥ Ü³ ¥Î " "ARA ¥Ñ ¥Ü ¥ó " "ARA ¥× ¥ë ¥È ¥ó " "ARA ¥µ ¥é Ü³ ¥É " "ARA ¥µ ¥ë ¥¿ " "ARA ¥¹ ÔÏ ¥Ñ ¥Á ¥ã " "ARA ¥È Ü³ ¥Þ ¥¹ "
+	}
+	manowar = {
+		"ARA ¥¢ ¥á ¥ê ¥« " "ARA ¥¢ ¥­ ¥ì ¥¹ " "ARA ¥¢ ¥ë ¥Ø ¥ó ¥Æ ³Ü ¥Ê " "ARA ¥¢ ¥ë ¥´ ¥Ê ¥¦ ¥¿ " "ARA Furor" "ARA Heroe" "ARA ¥ê ¥Ù ¥ë ¥¿ ¥É Ü³ ¥ë " "ARA ¥Ê ¥Ù ¥¬ ¥ó ¥Æ " "ARA ¥Ú ¥ë ¥é ö¾¥Í ¥° ¥é " "ARA ¥ê ¥ª ö¾¥Ç ö¾¥é ö¾¥× ¥é ¥¿ "
+		"ARA ¥µ ¥ë ¥Ð ¥É ¥ë " "ARA ¥µ ¥ó ö¾¥Ù ¥ë ¥Ê ¥ë ¥É " "ARA ¥µ ¥ó ö¾¥¯ ¥é ¥¦ ¥Ç ³Ü ¥ª " "ARA ¥µ ¥ó ö¾¥ª ¥Î ¥é ¥È " "ARA ¥µ ¥ó ö¾¥Û ¥¢ ¥­ ¥ó " "ARA ¥µ ¥ó ¥¿ ö¾¥¢ ¥Ê " "ARA ¥µ ¥ó ¥¿ ö¾¥Þ ¥ê ¥¢ " "ARA ¥µ ¥ó ¥Æ ³Ü ¥¢ ¥´ " "ARA ¥Æ ¥í ¥ë " "ARA ¥Ó ¥¯ ¥È ¥ê ¥ª ¥µ "
+	}
+	cruiser = {
+		"ARA ¥¢ ¥ë ¥ß ¥é ¥ó ¥Æ ö¾¥Ö ¥é ¥¦ ¥ó " "ARA ¥¢ ¥ë ¥Ð ¥ì ¥¹ ö¾¥Û ¥ó ¥Æ " "ARA ¥Ù ¥ë ¥° ¥é Ü³ ¥Î " "ARA ¥Ö ¥¨ ¥Î ¥¹ ö¾¥¢ ÔÏ ¥ì ¥¹ " "ARA Castelli" "ARA ¥Á ¥¯ ¥é Ü³ ¥Ê " "ARA ¥¬ ¥ê ¥Ð ¥ë ¥Ç ³Ü " "ARA ¥° ¥¨ ¥á ¥¹ " "ARA Liniers" "ARA ¥Þ ¥Æ ¥¦ "
+		"ARA ¥ß ¥È ¥ì " "ARA ¥Ì ¥¨ ¥Ù ö¾¥Ç ö¾¥Õ ¥ê ¥ª " "ARA ¥Ñ ¥½ " "ARA ¥Ñ ¥¿ ¥´ ¥Ë ¥¢ " "ARA ¥Ñ ¥È ¥ê ¥¢ " "ARA ¥× ¥¨ ¥ì ¥É ¥ó " "ARA ¥í ¥« " "ARA ¥µ ¥ó ö¾¥Þ ¥ë ¥Æ ³Ü ¥ó " "ARA ¥µ ¥é ¥Æ ¥¢ " "ARA ¥Ù ÔÏ ¥ó ¥Æ ³Ü ¥· ¥ó ¥³ ö¾¥Ç ö¾¥Þ ¥è "
+	}
+	frigate = {
+		"ARA Azopardo" "ARA ¥» ¥ë ¥Ð ¥ó ¥Æ ¥¹ " "ARA ¥¨ ¥¹ ¥Ý ¥é " "ARA ¥¬ ¥é ÔÏ " "ARA ¥¨ ¥ë ¥¯ ¥ì ¥¹ " "ARA ¥¨ ¥í ÔÏ ¥Ê " "ARA ¥é ö¾¥¢ ¥ë ¥Ø ¥ó ¥Æ ³Ü ¥Ê " "ARA ¥é ö¾¥ê ¥Ù ¥ë ¥¿ " "ARA ¥à ¥ê Ü³ ¥ê ¥ç " "ARA Parker"
+		"ARA ¥Ô ¥¨ ¥É ¥é ö¾¥Ö ¥¨ ¥Ê " "ARA ¥× ¥ì ¥¸ ¥Ç ¥ó ¥Æ ö¾¥µ ¥ë ¥ß ¥¨ ¥ó ¥È " "ARA ¥ì ¥× ¥Ö ¥ê ¥« " "ARA ¥í ¥Ó ¥ó ¥½ ¥ó " "ARA ¥í ¥ó ¥É Ü³ " "ARA ¥í ¥µ ¥ì ¥¹ " "ARA ¥µ ¥¢ ¥Ù ¥É ¥é " "ARA ¥µ ¥ó ¥Æ ³Ü ¥· ¥Þ ö¾¥È ¥ê ¥Ë ¥À " "ARA ¥µ ¥é ¥ó ¥Ç ³Ü " "ARA ¥¹ ¥Ô ¥í "
+	}
+	monitor = {
+		"ARA ¥¨ ¥ë ö¾¥× ¥é ¥¿ " "ARA ¥Õ ¥© ¥ë ¥â ¥µ " "ARA ¥° ¥é ¥ó ö¾¥Á ¥ã ¥³ " "ARA ¥é ö¾¥Ñ ¥ó ¥Ñ " "ARA ¥é ¥´ ö¾¥¢ ¥ë ¥Ø ¥ó ¥Æ ³Ü Ü³ ¥Î " "ARA ¥í ¥¹ ö¾¥¢ ¥ó ¥Ç ¥¹ " "ARA ¥á ¥½ ¥Ý ¥¿ ¥ß ¥¢ " "ARA ¥Ý ¥µ ¥À ¥¹ " "ARA ¥í Ü³ ¥½ ¥ó " "ARA ¥ì ¥· ¥¹ ¥Æ ¥ó ¥· ¥¢ "
+		"ARA ¥µ ¥ó ö¾¥Õ Âö ¥ë ¥Ê ¥ó ¥É ö¾¥Ç ¥ë ö¾¥Ð ¥¸ Âö " "ARA ¥µ ¥ó ö¾¥ß ¥² ¥ë " "ARA ¥µ ¥ó ö¾¥µ ¥ë ¥Ð ¥É ¥ë " "ARA ¥µ ¥ó ¥¿ ö¾¥í ¥µ " "ARA Sirena" "ARA Somuncura" "ARA ¥Æ ¥Æ ³Ü ¥¹ " "ARA ¥È ¥ê ¥È ¥ó " "ARA Viedma" "ARA ¥Ö ¥ë ¥« ¥Î "
+	}
+	clipper_transport = { 
+		"ARA ¥¢ ¥® ¥é " "ARA ¥¢ ¥Ý ¥í " "ARA ¥¢ ¥È ¥é ¥ó ¥Æ ³Ü ¥À " "ARA ¥¢ ¥¦ ¥À ¥¹ " "ARA ¥» ¥ì ¥¹ " "ARA ¥³ ¥ó ¥É ¥ë " "ARA ¥¯ ¥ë ¥¨ ¥ë " "ARA ¥Ç ¥ë ¥Õ ³Ü ¥ó " "ARA ¥¨ ¥ª ¥í " "ARA  ¥¨ ¥¹ ¥Ú ¥é ¥ó ¥µ "
+		"ARA ¥Õ Âö ¥Ë ¥Ã ¥¯ ¥¹ " "ARA ¥Õ ³Ü ¥Ç ¥é " "ARA ¥Õ ¥í Ü³ ¥é " "ARA ¥¨ ¥é " "ARA ÔÏ ¥ê ¥¹ " "ARA ¥é ¥ó ¥µ " "ARA ¥ß ¥Í ¥ë ¥Ð " "ARA ¥ß ¥Î ¥¿ ¥¦ ¥í " "ARA ¥â ¥Ó ¥ß ¥¨ ¥ó ¥È " "ARA ¥ª ¥Ç ³Ü ¥» ¥¢ "
+		"ARA ¥× ¥é ¥Æ ¥ó ¥» " "ARA ¥× ¥í ¥» ¥ë ¥Ô ¥Ê " "ARA ¥× ¥í ¥Ó ¥Ç ¥ó ¥· ¥¢ " "ARA ¥× ¥ë ¥¨ ¥Ð " "ARA ¥× Ü³ ¥Þ " "ARA ¥é ¥¸ ¥ç " "ARA ¥ì ¥é ¥ó ¥Ñ ¥´ " "ARA ¥µ ¥ë ¥Ð ¥É ¥é " "ARA ¥µ ¥ó ö¾¥Û ¥» " "ARA ¥µ ¥ó ö¾¥Õ ¥¡ ¥ó ö¾¥Ð ¥¦ ¥Æ ³Ü ¥¹ ¥¿ "
+		"ARA ¥µ ¥ó ¥¿ ö¾¥Þ ¥ê ¥¢ " "ARA ¥» ¥ë ¥Ó ¥É ¥é " "ARA ¥Æ ¥á ¥é ¥ê ¥¢ " "ARA ¥Æ ³Ü ¥Ö ¥í ¥ó " "ARA ¥È ¥é ¥ó ¥­ ¥é " "ARA ¥È ¥ê ¥¦ ¥ó ¥Õ ¥© " "ARA ¥¦ ¥ê ¥» ¥¹ " "ARA ¥Ù ¥í ¥¹ " "ARA ¥Ó ¥¯ ¥È ¥ê ¥¢ " "ARA ¥Ü ¥é ¥É ¥é "
+	}
+	steam_transport = { 
+		"ARA ¥¢ ¥® ¥é " "ARA ¥¢ ¥Ý ¥í " "ARA ¥¢ ¥È ¥é ¥ó ¥Æ ³Ü ¥À " "ARA ¥¢ ¥¦ ¥À ¥¹ " "ARA ¥» ¥ì ¥¹ " "ARA ¥³ ¥ó ¥É ¥ë " "ARA ¥¯ ¥ë ¥¨ ¥ë " "ARA ¥Ç ¥ë ¥Õ ³Ü ¥ó " "ARA ¥¨ ¥ª ¥í " "ARA ¥¨ ¥¹ ¥Ú ¥é ¥ó ¥µ "
+		"ARA ¥Õ Âö ¥Ë ¥Ã ¥¯ ¥¹ " "ARA ¥Õ ³Ü ¥Ç ¥é " "ARA ¥Õ ¥í Ü³ ¥é " "ARA ¥¨ ¥é " "ARA ÔÏ ¥ê ¥¹ " "ARA ¥é ¥ó ¥µ " "ARA ¥ß ¥Í ¥ë ¥Ð " "ARA ¥ß ¥Î ¥¿ ¥¦ ¥í " "ARA ¥â ¥Ó ¥ß ¥¨ ¥ó ¥È " "ARA ¥ª ¥Ç ³Ü ¥» ¥¢ "
+		"ARA ¥× ¥é ¥Æ ¥ó ¥» " "ARA ¥× ¥í ¥» ¥ë ¥Ô ¥Ê " "ARA ¥× ¥í ¥Ó ¥Ç ¥ó ¥· ¥¢ " "ARA ¥× ¥ë ¥¨ ¥Ð " "ARA ¥× Ü³ ¥Þ " "ARA ¥é ¥¸ ¥ç " "ARA ¥ì ¥é ¥ó ¥Ñ ¥´ " "ARA ¥µ ¥ë ¥Ð ¥É ¥é " "ARA ¥µ ¥ó ö¾¥Û ¥» " "ARA ¥µ ¥ó ö¾¥Õ ¥¡ ¥ó ö¾¥Ð ¥¦ ¥Æ ³Ü ¥¹ ¥¿ "
+		"ARA ¥µ ¥ó ¥¿ ö¾¥Þ ¥ê ¥¢ " "ARA ¥» ¥ë ¥Ó ¥É ¥é " "ARA ¥Æ ¥á ¥é ¥ê ¥¢ " "ARA ¥Æ ³Ü ¥Ö ¥í ¥ó " "ARA ¥È ¥é ¥ó ¥­ ¥é " "ARA ¥È ¥ê ¥¦ ¥ó ¥Õ ¥© " "ARA ¥¦ ¥ê ¥» ¥¹ " "ARA ¥Ù ¥í ¥¹ " "ARA ¥Ó ¥¯ ¥È ¥ê ¥¢ " "ARA ¥Ü ¥é ¥É ¥é "
+	}
+	commerce_raider = {
+		"ARA ¥Ù ¥ë ¥á ¥Û " "ARA ¥« ¥¿ ¥Þ ¥ë ¥« " "ARA ¥³ ¥ó ¥¹ ¥Æ ³Ü ¥Æ ¥å Ü³ ¥· ¥ç ¥ó " "ARA ¥³ ¥ë ¥É ¥Ð " "ARA ¥³ ¥ê ¥¨ ¥ó ¥Æ ¥¹ " "ARA ¥¨ ¥ó ¥È ¥ì ¥ê ¥ª ¥¹ " "ARA ¥Õ ¥Õ ÔÏ " "ARA ¥é ö¾¥× ¥é ¥¿ " "ARA ¥é ö¾¥ê ¥ª ¥Ï " "ARA ¥á ¥ó ¥É Ü³ ¥µ "
+		"ARA ¥ß ¥· ¥ª ¥Í ¥¹ " "ARA ¥Ñ ¥é ¥Ê " "ARA ¥Ô ¥ë ¥³ ¥Þ ¥¸ ¥ç " "ARA ¥í ¥µ ¥ê ¥ª " "ARA ¥µ ¥ó ö¾¥Õ ¥¡ ¥ó " "ARA ¥µ ¥ó ö¾¥ë ÔÏ ¥¹ " "ARA ¥µ ¥ó ¥¿ ö¾¥¯ ¥ë ¥¹ " "ARA ¥½ ¥ë ö¾¥¢ ¥ë ¥Ø ¥ó ¥Æ ³Ü Ü³ ¥Î " "ARA ¥È ¥¥ ¥¯ ¥Þ ¥ó " "ARA ¥¦ ¥ë ¥° ¥¢ ÔÏ "
+	}
+}
